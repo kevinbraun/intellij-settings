@@ -32278,6 +32278,7 @@
     </library>
     <library name="puma (v3.7.1, RVM: ruby-2.2.1 [intraop]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/puma/3.7.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/puma-3.7.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/puma-3.7.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/puma-3.7.1/lib" />
@@ -32286,6 +32287,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/puma-3.7.1/gemfiles" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/puma/3.7.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/puma-3.7.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/puma-3.7.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/puma-3.7.1/lib" />
