@@ -4,6 +4,7 @@
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping pattern="default-site" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="http" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
