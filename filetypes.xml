@@ -2,9 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
+      <mapping pattern="uat-rails-servers" type="PLAIN_TEXT" />
       <mapping pattern="default-site" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="http" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
