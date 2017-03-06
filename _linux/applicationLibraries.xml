@@ -32296,6 +32296,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/puma-3.7.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="puma-tmp-phased-restart (v1.0.0, RVM: ruby-2.2.1 [intraop]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/puma-tmp-phased-restart-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/puma-tmp-phased-restart-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/puma-tmp-phased-restart-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/puma-tmp-phased-restart-1.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="pundit (v0.2.3, RVM: ruby-2.1.1 [test41app]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.1@test41app/gems/pundit-0.2.3/lib" />
