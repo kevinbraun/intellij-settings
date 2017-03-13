@@ -6910,11 +6910,13 @@
     </library>
     <library name="byebug (v6.0.2, RVM: ruby-2.2.1 [intraop]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/byebug/6.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/byebug-6.0.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/byebug-6.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/byebug-6.0.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/byebug/6.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/byebug-6.0.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/byebug-6.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/byebug-6.0.2/lib" />
@@ -13722,6 +13724,7 @@
     </library>
     <library name="eventmachine (v1.2.1, RVM: ruby-2.2.1 [intraop]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/eventmachine/1.2.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/eventmachine-1.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/eventmachine-1.2.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/eventmachine-1.2.1/java" />
@@ -13729,6 +13732,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/eventmachine-1.2.1/rakelib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/eventmachine/1.2.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/eventmachine-1.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/eventmachine-1.2.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/eventmachine-1.2.1/java" />
@@ -16380,12 +16384,14 @@
     </library>
     <library name="ffi (v1.9.14, RVM: ruby-2.2.1 [intraop]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/ffi/1.9.14" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/ffi-1.9.14/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/ffi-1.9.14/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/ffi-1.9.14/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/ffi-1.9.14/libtest" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/ffi/1.9.14" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/ffi-1.9.14/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/ffi-1.9.14/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/ffi-1.9.14/lib" />
@@ -19836,12 +19842,14 @@
     </library>
     <library name="http_parser.rb (v0.6.0, RVM: ruby-2.2.1 [intraop]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/http_parser.rb-0.6.0/bench" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/http_parser.rb-0.6.0/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/http_parser.rb-0.6.0/bench" />
@@ -24896,6 +24904,7 @@
     </library>
     <library name="json (v1.8.5, RVM: ruby-2.2.1 [intraop]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/1.8.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/json-1.8.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/json-1.8.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/json-1.8.5/data" />
@@ -24905,6 +24914,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/json-1.8.5/diagrams" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/1.8.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/json-1.8.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/json-1.8.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/json-1.8.5/data" />
@@ -25264,11 +25274,13 @@
     </library>
     <library name="libv8 (v3.16.14.15, RVM: ruby-2.2.1 [intraop]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/libv8/3.16.14.15" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/libv8-3.16.14.15-x86_64-linux/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/libv8-3.16.14.15-x86_64-linux/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/libv8-3.16.14.15-x86_64-linux/vendor" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/libv8/3.16.14.15" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/libv8-3.16.14.15-x86_64-linux/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/libv8-3.16.14.15-x86_64-linux/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/libv8-3.16.14.15-x86_64-linux/vendor" />
@@ -30534,6 +30546,7 @@
     </library>
     <library name="nokogiri (v1.6.8.1, RVM: ruby-2.2.1 [intraop]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.8.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/nokogiri-1.6.8.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/nokogiri-1.6.8.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/nokogiri-1.6.8.1/lib" />
@@ -30542,6 +30555,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/nokogiri-1.6.8.1/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.8.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/nokogiri-1.6.8.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/nokogiri-1.6.8.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/nokogiri-1.6.8.1/lib" />
@@ -33556,6 +33570,7 @@
     </library>
     <library name="puma (v3.7.1, RVM: ruby-2.2.1 [intraop]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/puma/3.7.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/puma-3.7.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/puma-3.7.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/puma-3.7.1/lib" />
@@ -33564,6 +33579,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/puma-3.7.1/gemfiles" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/puma/3.7.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/puma-3.7.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/puma-3.7.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/puma-3.7.1/lib" />
@@ -41780,10 +41796,12 @@
     </library>
     <library name="ruby-oci8 (v2.1.8, RVM: ruby-2.2.1 [intraop]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/ruby-oci8/2.1.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/ruby-oci8-2.1.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/ruby-oci8-2.1.8/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/ruby-oci8/2.1.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/ruby-oci8-2.1.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/ruby-oci8-2.1.8/lib" />
       </SOURCES>
@@ -48688,10 +48706,12 @@
     </library>
     <library name="therubyracer (v0.12.2, RVM: ruby-2.2.1 [intraop]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/therubyracer/0.12.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/therubyracer-0.12.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/therubyracer-0.12.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/therubyracer/0.12.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/therubyracer-0.12.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/therubyracer-0.12.2/lib" />
       </SOURCES>
@@ -48950,12 +48970,14 @@
     </library>
     <library name="thin (v1.7.0, RVM: ruby-2.2.1 [intraop]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/thin/1.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/thin-1.7.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/thin-1.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/thin-1.7.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/thin-1.7.0/example" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/thin/1.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/thin-1.7.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/thin-1.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/thin-1.7.0/lib" />
@@ -52498,10 +52520,12 @@
     </library>
     <library name="websocket-driver (v0.6.4, RVM: ruby-2.2.1 [intraop]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/websocket-driver/0.6.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/websocket-driver-0.6.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/websocket-driver-0.6.4/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/websocket-driver/0.6.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/websocket-driver-0.6.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/websocket-driver-0.6.4/lib" />
       </SOURCES>
