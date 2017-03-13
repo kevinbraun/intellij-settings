@@ -51164,6 +51164,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@intraop/gems/trim_blobs-0.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="tunemygc (v1.0.69, RVM: ruby-2.3.3 [intraop]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/tunemygc/1.0.69" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@intraop/gems/tunemygc-1.0.69/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@intraop/gems/tunemygc-1.0.69/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@intraop/gems/tunemygc-1.0.69/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@intraop/gems/tunemygc-1.0.69/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/tunemygc/1.0.69" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@intraop/gems/tunemygc-1.0.69/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@intraop/gems/tunemygc-1.0.69/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@intraop/gems/tunemygc-1.0.69/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@intraop/gems/tunemygc-1.0.69/assets" />
+      </SOURCES>
+    </library>
     <library name="turbolinks (v2.2.2, RVM: ruby-2.1.1 [rails-angular-todo]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.1@rails-angular-todo/gems/turbolinks-2.2.2/lib" />
