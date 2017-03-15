@@ -2592,6 +2592,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@terminus/gems/activesupport-5.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="acts_as_versioned (v0.5.2.transit2, RVM: ree-1.8.7-2012.02-trn1 [myride]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/acts_as_versioned-0.5.2.transit2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/acts_as_versioned-0.5.2.transit2/lib" />
+      </SOURCES>
+    </library>
     <library name="addressable (v2.3.5, RVM: ruby-2.0.0-p451 [employee_management]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p451@employee_management/gems/addressable-2.3.5/lib" />
@@ -3212,6 +3220,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/ansi-1.5.0/demo" />
       </SOURCES>
     </library>
+    <library name="ar-extensions (v0.9.3, RVM: ree-1.8.7-2012.02-trn1 [myride]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/ar-extensions-0.9.3/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/ar-extensions-0.9.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/ar-extensions-0.9.3/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/ar-extensions-0.9.3/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/ar-extensions-0.9.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/ar-extensions-0.9.3/config" />
+      </SOURCES>
+    </library>
     <library name="arel (v3.0.2, RVM: ree-1.8.7-2012.02-trn1 [redmine]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@redmine/gems/arel-3.0.2/lib" />
@@ -3598,6 +3618,20 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/audited-activerecord-4.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="authlogic (v2.1.3, RVM: ree-1.8.7-2012.02-trn1 [myride]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/authlogic-2.1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/authlogic-2.1.3/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/authlogic-2.1.3/generators" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/authlogic-2.1.3/shoulda_macros" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/authlogic-2.1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/authlogic-2.1.3/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/authlogic-2.1.3/generators" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/authlogic-2.1.3/shoulda_macros" />
       </SOURCES>
     </library>
     <library name="authlogic (v2.1.6, RVM: ree-1.8.7-2012.02 [busguide]) [gem]">
@@ -7220,6 +7254,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@intraop/gems/capistrano-2.15.9/lib" />
       </SOURCES>
     </library>
+    <library name="capistrano (v2.5.20, RVM: ree-1.8.7-2012.02-trn1 [myride]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/capistrano-2.5.20/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/capistrano-2.5.20/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/capistrano-2.5.20/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/capistrano-2.5.20/lib" />
+      </SOURCES>
+    </library>
     <library name="capistrano (v3.2.1, RVM: ruby-2.1.1 [gem-server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.1@gem-server/gems/capistrano-3.2.1/bin" />
@@ -7228,6 +7272,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.1@gem-server/gems/capistrano-3.2.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.1@gem-server/gems/capistrano-3.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="capistrano-synchronous (v0.1.1, RVM: ree-1.8.7-2012.02-trn1 [myride]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/capistrano-synchronous-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/capistrano-synchronous-0.1.1/lib" />
       </SOURCES>
     </library>
     <library name="capistrano-synchronous (v0.1.2, RVM: ree-1.8.7-2012.02 [busguide]) [gem]">
@@ -9826,6 +9878,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@intraop/gems/crack-0.4.3/script" />
       </SOURCES>
     </library>
+    <library name="cucumber (v0.3.9, RVM: ree-1.8.7-2012.02-trn1 [myride]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/cucumber-0.3.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/cucumber-0.3.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/cucumber-0.3.9/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/cucumber-0.3.9/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/cucumber-0.3.9/gem_tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/cucumber-0.3.9/rails_generators" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/cucumber-0.3.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/cucumber-0.3.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/cucumber-0.3.9/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/cucumber-0.3.9/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/cucumber-0.3.9/gem_tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/cucumber-0.3.9/rails_generators" />
+      </SOURCES>
+    </library>
     <library name="cucumber (v1.3.1, RVM: ruby-2.0.0-p451 [employee_management]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p451@employee_management/gems/cucumber-1.3.1/bin" />
@@ -10812,6 +10882,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@intraop/gems/database_cleaner-1.5.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@intraop/gems/database_cleaner-1.5.3/features" />
+      </SOURCES>
+    </library>
+    <library name="dataset_db_helper (v0.0.1, RVM: ree-1.8.7-2012.02-trn1 [myride]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/dataset_db_helper-0.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/dataset_db_helper-0.0.1/lib" />
       </SOURCES>
     </library>
     <library name="db_helper_tasks (v2.1.13, RVM: ruby-1.9.3-p551 [kiosk-server]) [gem]">
@@ -27116,6 +27194,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p643@employee_management/gems/mini_magick-4.5.1/lib" />
       </SOURCES>
     </library>
+    <library name="mini_magick (v4.6.0, RVM: ree-1.8.7-2012.02-trn1 [myride]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/mini_magick-4.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/mini_magick-4.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="mini_magick (v4.6.0, RVM: ruby-2.2.1 [employee_management]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@employee_management/gems/mini_magick-4.6.0/lib" />
@@ -41394,6 +41480,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@intraop/gems/rspec-mocks-3.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-rails (v1.2.7, RVM: ree-1.8.7-2012.02-trn1 [myride]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/rspec-rails-1.2.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/rspec-rails-1.2.7/generators" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/rspec-rails-1.2.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/rspec-rails-1.2.7/generators" />
+      </SOURCES>
+    </library>
     <library name="rspec-rails (v2.12.0, RVM: ruby-1.9.3-p551 [bustxt]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@bustxt/gems/rspec-rails-2.12.0/lib" />
@@ -41622,6 +41718,26 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@intraop/gems/rspec-support-3.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug (v0.10.4, RVM: ree-1.8.7-2012.02-trn1 [myride]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/ruby-debug-0.10.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/ruby-debug-0.10.4/cli" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/ruby-debug-0.10.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/ruby-debug-0.10.4/cli" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-base (v0.10.4, RVM: ree-1.8.7-2012.02-trn1 [myride]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/ruby-debug-base-0.10.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/ruby-debug-base-0.10.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/ruby-debug-base-0.10.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/ruby-debug-base-0.10.4/lib" />
       </SOURCES>
     </library>
     <library name="ruby-debug-base19x (v0.11.31, RVM: ruby-1.9.3-p551 [bustxt]) [gem]">
@@ -43684,6 +43800,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/rvm-1.11.3.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="rvm-capistrano (v1.2.7, RVM: ree-1.8.7-2012.02-trn1 [myride]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/rvm-capistrano-1.2.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/rvm-capistrano-1.2.7/lib" />
       </SOURCES>
     </library>
     <library name="rvm-capistrano (v1.3.1, RVM: ree-1.8.7-2012.02 [busguide]) [gem]">
@@ -50700,6 +50824,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@busguide/gems/transit-capistrano_rsync_with_remote_cache-2.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="transit-capistrano_rsync_with_remote_cache (v2.3.1, RVM: ree-1.8.7-2012.02-trn1 [myride]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/transit-capistrano_rsync_with_remote_cache-2.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/transit-capistrano_rsync_with_remote_cache-2.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="transit-capistrano_rsync_with_remote_cache (v2.3.1, RVM: ree-1.8.7-2012.02-trn1 [redmine]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@redmine/gems/transit-capistrano_rsync_with_remote_cache-2.3.1/lib" />
@@ -51332,6 +51464,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@busguide/gems/transit_maps-0.4.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@busguide/gems/transit_maps-0.4.3/rails" />
         <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@busguide/gems/transit_maps-0.4.3/config" />
+      </SOURCES>
+    </library>
+    <library name="transit_maps (v0.4.3, RVM: ree-1.8.7-2012.02-trn1 [myride]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/transit_maps-0.4.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/transit_maps-0.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/transit_maps-0.4.3/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/transit_maps-0.4.3/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/transit_maps-0.4.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/transit_maps-0.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/transit_maps-0.4.3/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/transit_maps-0.4.3/config" />
       </SOURCES>
     </library>
     <library name="transit_maps (v0.4.6.tripschedules2, RVM: ruby-2.1.1 [miniride]) [gem]">
