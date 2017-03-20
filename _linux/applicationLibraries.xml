@@ -2188,6 +2188,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@intraop/gems/activerecord-oracle_enhanced-adapter-1.6.7/lib" />
       </SOURCES>
     </library>
+    <library name="activerecord-oracle_enhanced-adapter (v1.7.10, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/activerecord-oracle_enhanced-adapter-1.7.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/activerecord-oracle_enhanced-adapter-1.7.10/lib" />
+      </SOURCES>
+    </library>
     <library name="activeresource (v2.3.18, RVM: ree-1.8.7-2012.02 [busguide]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02@busguide/gems/activeresource-2.3.18/lib" />
@@ -11826,6 +11834,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@bustxt/gems/db_helper_tasks-2.1.23/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@bustxt/gems/db_helper_tasks-2.1.23/tasks" />
+      </SOURCES>
+    </library>
+    <library name="db_helper_tasks (v2.1.23, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/db_helper_tasks-2.1.23/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/db_helper_tasks-2.1.23/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/db_helper_tasks-2.1.23/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/db_helper_tasks-2.1.23/tasks" />
       </SOURCES>
     </library>
     <library name="debase (v0.0.9, RVM: ruby-2.0.0-p451 [intraop]) [gem]">
@@ -44560,6 +44578,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ruby-oci8-2.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="ruby-oci8 (v2.2.3, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ruby-oci8/2.2.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ruby-oci8-2.2.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ruby-oci8-2.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ruby-oci8/2.2.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ruby-oci8-2.2.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ruby-oci8-2.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby-openid (v2.1.8, RVM: ree-1.8.7-2012.02-trn1 [redmine]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@redmine/gems/ruby-openid-2.1.8/lib" />
@@ -44568,6 +44598,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@redmine/gems/ruby-openid-2.1.8/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@redmine/gems/ruby-openid-2.1.8/admin" />
+      </SOURCES>
+    </library>
+    <library name="ruby-plsql (v0.6.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ruby-plsql-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ruby-plsql-0.6.0/.travis" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ruby-plsql-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ruby-plsql-0.6.0/.travis" />
       </SOURCES>
     </library>
     <library name="ruby-prof (v0.13.1, RVM: ruby-2.2.1 [replay]) [gem]">
