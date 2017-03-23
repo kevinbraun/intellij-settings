@@ -10092,6 +10092,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@redmine/gems/json-1.7.4/diagrams" />
       </SOURCES>
     </library>
+    <library name="json (v1.7.7, RVM: ruby-1.9.3-p551 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/json-1.7.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/json-1.7.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/json-1.7.7/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/json-1.7.7/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/json-1.7.7/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/json-1.7.7/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/json-1.7.7/diagrams" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/json-1.7.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/json-1.7.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/json-1.7.7/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/json-1.7.7/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/json-1.7.7/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/json-1.7.7/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/json-1.7.7/diagrams" />
+      </SOURCES>
+    </library>
     <library name="json (v1.7.7, RVM: ruby-2.0.0-p643 [employee_management]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p643/lib/ruby/2.0.0/dl" />
@@ -10770,6 +10790,14 @@
       <SOURCES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/libv8/3.3.10.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@confirm/gems/libv8-3.3.10.4-x86_64-linux/lib" />
+      </SOURCES>
+    </library>
+    <library name="libv8 (v3.3.10.4, RVM: ruby-1.9.3-p551 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/libv8-3.3.10.4-x86_64-linux/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/libv8-3.3.10.4-x86_64-linux/lib" />
       </SOURCES>
     </library>
     <library name="linecache (v0.46, RVM: ree-1.8.7-2012.02-trn1 [myride]) [gem]">
@@ -12876,6 +12904,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@confirm/gems/nokogiri-1.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@confirm/gems/nokogiri-1.5.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@confirm/gems/nokogiri-1.5.2/tasks" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.5.2, RVM: ruby-1.9.3-p551 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/nokogiri-1.5.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/nokogiri-1.5.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/nokogiri-1.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/nokogiri-1.5.2/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/nokogiri-1.5.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/nokogiri-1.5.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/nokogiri-1.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/nokogiri-1.5.2/tasks" />
       </SOURCES>
     </library>
     <library name="nokogiri (v1.5.2, RVM: ruby-2.0.0-p643 [intraop]) [gem]">
@@ -16462,6 +16504,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@confirm/gems/rcov-0.9.9/editor-extensions" />
       </SOURCES>
     </library>
+    <library name="rcov (v0.9.9, RVM: ruby-1.9.3-p551 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/rcov-0.9.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/rcov-0.9.9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/rcov-0.9.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/rcov-0.9.9/editor-extensions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/rcov-0.9.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/rcov-0.9.9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/rcov-0.9.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/rcov-0.9.9/editor-extensions" />
+      </SOURCES>
+    </library>
     <library name="rdoc (v3.12, RVM: ree-1.8.7-2012.02-trn1 [redmine]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@redmine/gems/rdoc-3.12/bin" />
@@ -17940,6 +17996,16 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/ruby-oci8/2.1.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@confirm/gems/ruby-oci8-2.1.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@confirm/gems/ruby-oci8-2.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-oci8 (v2.1.4, RVM: ruby-1.9.3-p551 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/ruby-oci8-2.1.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/ruby-oci8-2.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/ruby-oci8-2.1.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/ruby-oci8-2.1.4/lib" />
       </SOURCES>
     </library>
     <library name="ruby-oci8 (v2.1.8, RVM: ruby-2.0.0-p643 [intraop]) [gem]">
@@ -20790,6 +20856,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@confirm/gems/therubyracer-0.10.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@confirm/gems/therubyracer-0.10.2/specmem" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@confirm/gems/therubyracer-0.10.2/specthread" />
+      </SOURCES>
+    </library>
+    <library name="therubyracer (v0.10.2, RVM: ruby-1.9.3-p551 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/therubyracer-0.10.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/therubyracer-0.10.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/therubyracer-0.10.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/therubyracer-0.10.2/specmem" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/therubyracer-0.10.2/specthread" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/therubyracer-0.10.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/therubyracer-0.10.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/therubyracer-0.10.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/therubyracer-0.10.2/specmem" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/therubyracer-0.10.2/specthread" />
       </SOURCES>
     </library>
     <library name="therubyracer (v0.12.2, RVM: ruby-2.0.0-p643 [intraop]) [gem]">
