@@ -4680,6 +4680,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/db_helper_tasks-2.1.23/tasks" />
       </SOURCES>
     </library>
+    <library name="db_helper_tasks (v2.1.23, RVM: ree-1.8.7-2012.02-trn1 [redmine]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@redmine/gems/db_helper_tasks-2.1.23/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@redmine/gems/db_helper_tasks-2.1.23/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@redmine/gems/db_helper_tasks-2.1.23/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@redmine/gems/db_helper_tasks-2.1.23/tasks" />
+      </SOURCES>
+    </library>
     <library name="db_helper_tasks (v2.1.23, RVM: ruby-2.2.1 [bustxt]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/db_helper_tasks-2.1.23/lib" />
@@ -11666,6 +11676,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@intraop/gems/mini_magick-4.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="mini_magick (v4.7.0, RVM: ree-1.8.7-2012.02-trn1 [redmine]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@redmine/gems/mini_magick-4.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@redmine/gems/mini_magick-4.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="mini_portile2 (v2.0.0, RVM: ruby-2.2.1 [bustxt]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/mini_portile2-2.0.0/lib" />
@@ -17920,6 +17938,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/ruby-debug-base-0.10.4/lib" />
       </SOURCES>
     </library>
+    <library name="ruby-debug-base (v0.10.5.rc10, RVM: ree-1.8.7-2012.02-trn1 [redmine]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@redmine/gems/ruby-debug-base-0.10.5.rc10/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@redmine/gems/ruby-debug-base-0.10.5.rc10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@redmine/gems/ruby-debug-base-0.10.5.rc10/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@redmine/gems/ruby-debug-base-0.10.5.rc10/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby-debug-ide (v0.6.1.beta3, RVM: ruby-2.2.1 [intraop]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/ruby-debug-ide-0.6.1.beta3/bin" />
@@ -17930,6 +17958,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/ruby-debug-ide-0.6.1.beta3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/ruby-debug-ide-0.6.1.beta3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/ruby-debug-ide-0.6.1.beta3/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.6.1.beta4, RVM: ree-1.8.7-2012.02-trn1 [redmine]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@redmine/gems/ruby-debug-ide-0.6.1.beta4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@redmine/gems/ruby-debug-ide-0.6.1.beta4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@redmine/gems/ruby-debug-ide-0.6.1.beta4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@redmine/gems/ruby-debug-ide-0.6.1.beta4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@redmine/gems/ruby-debug-ide-0.6.1.beta4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@redmine/gems/ruby-debug-ide-0.6.1.beta4/lib" />
       </SOURCES>
     </library>
     <library name="ruby-debug-ide (v0.6.1.beta4, RVM: ruby-2.2.1 [bustxt]) [gem]">
