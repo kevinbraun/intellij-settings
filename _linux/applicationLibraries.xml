@@ -2330,6 +2330,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@intraop/gems/bullet-5.1.1/tasks" />
       </SOURCES>
     </library>
+    <library name="bulma-rails (v0.4.0, RVM: ruby-2.3.3 [wp-myride3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@wp-myride3/gems/bulma-rails-0.4.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@wp-myride3/gems/bulma-rails-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@wp-myride3/gems/bulma-rails-0.4.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@wp-myride3/gems/bulma-rails-0.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="bundler (v1.13.7, RVM: ruby-2.0.0-p643 [intraop]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p643@intraop/gems/bundler-1.13.7/bin" />
@@ -7604,6 +7614,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@intraop/gems/haml-4.0.7/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@intraop/gems/haml-4.0.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="haml (v4.0.7, RVM: ruby-2.3.3 [wp-myride3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@wp-myride3/gems/haml-4.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@wp-myride3/gems/haml-4.0.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@wp-myride3/gems/haml-4.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@wp-myride3/gems/haml-4.0.7/lib" />
       </SOURCES>
     </library>
     <library name="haml (v4.0.7, RVM: ruby-2.3.3) [gem]">
