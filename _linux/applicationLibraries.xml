@@ -4478,6 +4478,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/ci_reporter-2.0.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="ci_reporter (v2.0.0, RVM: ruby-2.3.3 [service-advisory]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@service-advisory/gems/ci_reporter-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@service-advisory/gems/ci_reporter-2.0.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@service-advisory/gems/ci_reporter-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@service-advisory/gems/ci_reporter-2.0.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="ci_reporter (v2.0.0, RVM: ruby-2.3.3 [terminus]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@terminus/gems/ci_reporter-2.0.0/lib" />
@@ -4486,6 +4496,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@terminus/gems/ci_reporter-2.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@terminus/gems/ci_reporter-2.0.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="ci_reporter_minitest (v1.0.0, RVM: ruby-2.3.3 [service-advisory]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@service-advisory/gems/ci_reporter_minitest-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@service-advisory/gems/ci_reporter_minitest-1.0.0/acceptance" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@service-advisory/gems/ci_reporter_minitest-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@service-advisory/gems/ci_reporter_minitest-1.0.0/acceptance" />
       </SOURCES>
     </library>
     <library name="ci_reporter_minitest (v1.0.0, RVM: ruby-2.3.3 [terminus]) [gem]">
