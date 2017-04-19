@@ -3026,6 +3026,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/builder-3.2.3/rakelib" />
       </SOURCES>
     </library>
+    <library name="builder (v3.2.3, RVM: ruby-2.2.1 [miniride]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/builder-3.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/builder-3.2.3/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/builder-3.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/builder-3.2.3/rakelib" />
+      </SOURCES>
+    </library>
     <library name="builder (v3.2.3, RVM: ruby-2.3.3 [comfy-mexican-sofa]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@comfy-mexican-sofa/gems/builder-3.2.3/lib" />
@@ -18192,6 +18202,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/nokogiri-1.6.8.1/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/nokogiri-1.6.8.1/patches" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/nokogiri-1.6.8.1/suppressions" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.6.8.1, RVM: ruby-2.2.1 [miniride]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.8.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/nokogiri-1.6.8.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/nokogiri-1.6.8.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/nokogiri-1.6.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/nokogiri-1.6.8.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/nokogiri-1.6.8.1/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/nokogiri-1.6.8.1/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.8.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/nokogiri-1.6.8.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/nokogiri-1.6.8.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/nokogiri-1.6.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/nokogiri-1.6.8.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/nokogiri-1.6.8.1/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/nokogiri-1.6.8.1/suppressions" />
       </SOURCES>
     </library>
     <library name="nokogiri (v1.6.8.1, RVM: ruby-2.3.3 [intraop]) [gem]">
