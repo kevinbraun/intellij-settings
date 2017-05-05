@@ -4728,6 +4728,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/chronic-0.10.2/lib" />
       </SOURCES>
     </library>
+    <library name="chronic (v0.10.2, RVM: ruby-2.3.3 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@telebus/gems/chronic-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@telebus/gems/chronic-0.10.2/lib" />
+      </SOURCES>
+    </library>
     <library name="chronic (v0.6.6, RVM: ruby-1.9.3-p551 [buswatch]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@buswatch/gems/chronic-0.6.6/lib" />
@@ -18764,6 +18772,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-ldap-0.16.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-ldap-0.16.0/script" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-ldap-0.16.0/testserver" />
+      </SOURCES>
+    </library>
+    <library name="net-ldap (v0.16.0, RVM: ruby-2.3.3 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@telebus/gems/net-ldap-0.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@telebus/gems/net-ldap-0.16.0/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@telebus/gems/net-ldap-0.16.0/testserver" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@telebus/gems/net-ldap-0.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@telebus/gems/net-ldap-0.16.0/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@telebus/gems/net-ldap-0.16.0/testserver" />
       </SOURCES>
     </library>
     <library name="net-ldap (v0.3.1, RVM: ree-1.8.7-2012.02-trn1 [redmine]) [gem]">
@@ -35504,6 +35524,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/whenever-0.9.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/whenever-0.9.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="whenever (v0.9.7, RVM: ruby-2.3.3 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@telebus/gems/whenever-0.9.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@telebus/gems/whenever-0.9.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@telebus/gems/whenever-0.9.7/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@telebus/gems/whenever-0.9.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@telebus/gems/whenever-0.9.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@telebus/gems/whenever-0.9.7/gemfiles" />
       </SOURCES>
     </library>
     <library name="will_paginate (v3.0.1, RVM: ruby-1.9.3-p551 [confirm]) [gem]">
