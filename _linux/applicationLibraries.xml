@@ -26522,6 +26522,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/rmagick-2.9.1/lib" />
       </SOURCES>
     </library>
+    <library name="rollbar (v2.14.1, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rollbar-2.14.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rollbar-2.14.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rollbar-2.14.1/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rollbar-2.14.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rollbar-2.14.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rollbar-2.14.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rollbar-2.14.1/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rollbar-2.14.1/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="rollbar (v2.14.1, RVM: ruby-2.3.3 [service-advisory]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@service-advisory/gems/rollbar-2.14.1/bin" />
