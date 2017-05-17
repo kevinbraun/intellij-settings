@@ -25952,6 +25952,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/rbx-3.71@global/gems/rdoc-4.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="recaptcha (v4.3.1, RVM: ruby-2.2.1 [pows]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@pows/gems/recaptcha-4.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@pows/gems/recaptcha-4.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="redcard (v1.1.0, RVM: rbx-3.71 [employee_management]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/rbx-3.71@global/gems/redcard-1.1.0/lib" />
