@@ -20306,6 +20306,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/multipart-post-2.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="mysqlplus (v0.1.2, RVM: ruby-2.3.3 [transit-website-services]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@transit-website-services/gems/mysqlplus-0.1.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@transit-website-services/gems/mysqlplus-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@transit-website-services/gems/mysqlplus-0.1.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@transit-website-services/gems/mysqlplus-0.1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="naught (v1.1.0, RVM: ruby-2.3.3 [service-advisory]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@service-advisory/gems/naught-1.1.0/lib" />
