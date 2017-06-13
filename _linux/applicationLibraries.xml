@@ -6548,6 +6548,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/comfortable_mexican_sofa-1.12.10/script" />
       </SOURCES>
     </library>
+    <library name="commander (v4.4.3, RVM: ruby-2.3.3 [transit-website-services]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@transit-website-services/gems/commander-4.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@transit-website-services/gems/commander-4.4.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@transit-website-services/gems/commander-4.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@transit-website-services/gems/commander-4.4.3/lib" />
+      </SOURCES>
+    </library>
     <library name="concurrent-ruby (v1.0.0, RVM: ruby-2.2.1 [bustxt]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/concurrent-ruby-1.0.0/lib" />
@@ -13084,6 +13094,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@telebus/gems/highline-1.7.8/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@telebus/gems/highline-1.7.8/site" />
+      </SOURCES>
+    </library>
+    <library name="highline (v1.7.8, RVM: ruby-2.3.3 [transit-website-services]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@transit-website-services/gems/highline-1.7.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@transit-website-services/gems/highline-1.7.8/site" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@transit-website-services/gems/highline-1.7.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@transit-website-services/gems/highline-1.7.8/site" />
       </SOURCES>
     </library>
     <library name="hike (v1.2.1, RVM: ree-1.8.7-2012.02-trn1 [redmine]) [gem]">
