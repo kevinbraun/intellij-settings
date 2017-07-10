@@ -32608,6 +32608,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@transit-website-services/gems/sequel-4.47.0/lib" />
       </SOURCES>
     </library>
+    <library name="serviceworker-rails (v0.5.5, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/serviceworker-rails-0.5.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/serviceworker-rails-0.5.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/serviceworker-rails-0.5.5/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/serviceworker-rails-0.5.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/serviceworker-rails-0.5.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/serviceworker-rails-0.5.5/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="sexp_processor (v3.0.5, RVM: ruby-1.9.3-p551 [buswatch]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@buswatch/gems/sexp_processor-3.0.5/lib" />
