@@ -1,7 +1,8 @@
 <scheme name="Custom Railscasts" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.1666666" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo for Powerline" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_FONT_NAME" value="Meslo LG S for Powerline" />
+  <option name="EDITOR_FONT_NAME" value="Meslo LG M for Powerline" />
   <colors>
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="333435" />
