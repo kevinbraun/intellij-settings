@@ -6794,6 +6794,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/colorize-0.8.1/lib" />
       </SOURCES>
     </library>
+    <library name="colorize (v0.8.1, RVM: ruby-2.3.3 [transit-website-services]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/colorize-0.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/colorize-0.8.1/lib" />
+      </SOURCES>
+    </library>
     <library name="colorize (v0.8.1, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/colorize-0.8.1/lib" />
@@ -6815,6 +6823,18 @@
       </SOURCES>
     </library>
     <library name="colorls (v0.1.5, RVM: ruby-2.3.3 [terminus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/colorls-0.1.5/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/colorls-0.1.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/colorls-0.1.5/readme" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/colorls-0.1.5/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/colorls-0.1.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/colorls-0.1.5/readme" />
+      </SOURCES>
+    </library>
+    <library name="colorls (v0.1.5, RVM: ruby-2.3.3 [transit-website-services]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/colorls-0.1.5/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/colorls-0.1.5/lib" />
@@ -10484,6 +10504,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/facets-3.1.0/demo" />
       </SOURCES>
     </library>
+    <library name="facets (v3.1.0, RVM: ruby-2.3.3 [transit-website-services]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/facets-3.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/facets-3.1.0/demo" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/facets-3.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/facets-3.1.0/demo" />
+      </SOURCES>
+    </library>
     <library name="facets (v3.1.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/facets-3.1.0/lib" />
@@ -11673,6 +11703,14 @@
       </SOURCES>
     </library>
     <library name="filesize (v0.1.1, RVM: ruby-2.3.3 [terminus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/filesize-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/filesize-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="filesize (v0.1.1, RVM: ruby-2.3.3 [transit-website-services]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/filesize-0.1.1/lib" />
       </CLASSES>
@@ -31119,6 +31157,14 @@
       </SOURCES>
     </library>
     <library name="ruby-terminfo (v0.1.1, RVM: ruby-2.3.3 [terminus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/ruby-terminfo-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/ruby-terminfo-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-terminfo (v0.1.1, RVM: ruby-2.3.3 [transit-website-services]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/ruby-terminfo-0.1.1/lib" />
       </CLASSES>
