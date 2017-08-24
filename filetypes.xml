@@ -11,6 +11,7 @@
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="http" type="PLAIN_TEXT" />
+      <mapping pattern="log-extractor" type="Ruby" />
     </extensionMap>
   </component>
 </application>
