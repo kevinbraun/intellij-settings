@@ -14550,6 +14550,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@replay/gems/i18n-0.7.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="i18n (v0.7.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/i18n-0.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/i18n-0.7.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/i18n-0.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/i18n-0.7.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="i18n (v0.8.1, RVM: jruby-9.1.7.0 [employee_management]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/jruby-9.1.7.0@employee_management/gems/i18n-0.8.1/lib" />
@@ -17658,6 +17668,26 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/unicode_normalize" />
       </SOURCES>
     </library>
+    <library name="json (v1.8.2, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/json-1.8.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/json-1.8.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/json-1.8.2/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/json-1.8.2/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/json-1.8.2/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/json-1.8.2/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/json-1.8.2/diagrams" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/json-1.8.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/json-1.8.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/json-1.8.2/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/json-1.8.2/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/json-1.8.2/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/json-1.8.2/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/json-1.8.2/diagrams" />
+      </SOURCES>
+    </library>
     <library name="json (v1.8.3, RVM: rbx-3.71 [employee_management]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/rbx-3.71@employee_management/gems/json-1.8.3/ext" />
@@ -20710,6 +20740,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/minitest-5.4.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.5.1, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/minitest-5.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/minitest-5.5.1/lib" />
       </SOURCES>
     </library>
     <library name="minitest (v5.8.5, RVM: ruby-2.3.3 [buswatch]) [gem]">
