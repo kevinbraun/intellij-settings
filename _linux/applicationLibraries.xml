@@ -18892,11 +18892,13 @@
     </library>
     <library name="libv8 (v3.16.14.3, RVM: ruby-2.1.5 [fixit]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/libv8/3.16.14.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@fixit/gems/libv8-3.16.14.3-x86_64-linux/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@fixit/gems/libv8-3.16.14.3-x86_64-linux/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@fixit/gems/libv8-3.16.14.3-x86_64-linux/vendor" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/libv8/3.16.14.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@fixit/gems/libv8-3.16.14.3-x86_64-linux/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@fixit/gems/libv8-3.16.14.3-x86_64-linux/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@fixit/gems/libv8-3.16.14.3-x86_64-linux/vendor" />
@@ -23420,6 +23422,7 @@
     </library>
     <library name="nokogiri (v1.6.1, RVM: ruby-2.1.5 [fixit]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/nokogiri/1.6.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@fixit/gems/nokogiri-1.6.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@fixit/gems/nokogiri-1.6.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@fixit/gems/nokogiri-1.6.1/lib" />
@@ -23427,6 +23430,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@fixit/gems/nokogiri-1.6.1/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/nokogiri/1.6.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@fixit/gems/nokogiri-1.6.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@fixit/gems/nokogiri-1.6.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@fixit/gems/nokogiri-1.6.1/lib" />
