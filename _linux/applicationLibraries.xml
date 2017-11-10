@@ -35368,10 +35368,12 @@
     </library>
     <library name="ruby-oci8 (v2.2.5, RVM: ruby-2.4.1 [telebus]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ruby-oci8/2.2.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ruby-oci8-2.2.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ruby-oci8-2.2.5/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ruby-oci8/2.2.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ruby-oci8-2.2.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ruby-oci8-2.2.5/lib" />
       </SOURCES>
