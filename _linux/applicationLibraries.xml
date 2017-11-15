@@ -6114,6 +6114,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/celluloid-0.17.3/culture" />
       </SOURCES>
     </library>
+    <library name="celluloid (v0.17.3, RVM: ruby-2.4.1 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-0.17.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-0.17.3/culture" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-0.17.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-0.17.3/culture" />
+      </SOURCES>
+    </library>
     <library name="celluloid-culture (v0.2, RVM: ruby-2.2.1 [miniride]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/celluloid-0.17.3/culture/gems" />
@@ -6126,6 +6136,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/celluloid-0.17.3/culture/rubocop" />
       </SOURCES>
     </library>
+    <library name="celluloid-culture (v0.2, RVM: ruby-2.4.1 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-0.17.3/culture/gems" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-0.17.3/culture/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-0.17.3/culture/rubocop" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-0.17.3/culture/gems" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-0.17.3/culture/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-0.17.3/culture/rubocop" />
+      </SOURCES>
+    </library>
     <library name="celluloid-essentials (v0.20.5, RVM: ruby-2.2.1 [miniride]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/celluloid-essentials-0.20.5/lib" />
@@ -6134,6 +6156,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/celluloid-essentials-0.20.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/celluloid-essentials-0.20.5/tasks" />
+      </SOURCES>
+    </library>
+    <library name="celluloid-essentials (v0.20.5, RVM: ruby-2.4.1 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-essentials-0.20.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-essentials-0.20.5/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-essentials-0.20.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-essentials-0.20.5/tasks" />
       </SOURCES>
     </library>
     <library name="celluloid-extras (v0.20.5, RVM: ruby-2.2.1 [miniride]) [gem]">
@@ -6146,6 +6178,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/celluloid-extras-0.20.5/tasks" />
       </SOURCES>
     </library>
+    <library name="celluloid-extras (v0.20.5, RVM: ruby-2.4.1 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-extras-0.20.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-extras-0.20.5/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-extras-0.20.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-extras-0.20.5/tasks" />
+      </SOURCES>
+    </library>
     <library name="celluloid-fsm (v0.20.5, RVM: ruby-2.2.1 [miniride]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/celluloid-fsm-0.20.5/lib" />
@@ -6154,6 +6196,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/celluloid-fsm-0.20.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/celluloid-fsm-0.20.5/tasks" />
+      </SOURCES>
+    </library>
+    <library name="celluloid-fsm (v0.20.5, RVM: ruby-2.4.1 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-fsm-0.20.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-fsm-0.20.5/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-fsm-0.20.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-fsm-0.20.5/tasks" />
       </SOURCES>
     </library>
     <library name="celluloid-pool (v0.20.5, RVM: ruby-2.2.1 [miniride]) [gem]">
@@ -6166,6 +6218,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/celluloid-pool-0.20.5/tasks" />
       </SOURCES>
     </library>
+    <library name="celluloid-pool (v0.20.5, RVM: ruby-2.4.1 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-pool-0.20.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-pool-0.20.5/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-pool-0.20.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-pool-0.20.5/tasks" />
+      </SOURCES>
+    </library>
     <library name="celluloid-supervision (v0.20.5, RVM: ruby-2.2.1 [miniride]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/celluloid-supervision-0.20.5/lib" />
@@ -6174,6 +6236,26 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/celluloid-supervision-0.20.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/celluloid-supervision-0.20.5/tasks" />
+      </SOURCES>
+    </library>
+    <library name="celluloid-supervision (v0.20.5, RVM: ruby-2.4.1 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-supervision-0.20.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-supervision-0.20.5/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-supervision-0.20.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-supervision-0.20.5/tasks" />
+      </SOURCES>
+    </library>
+    <library name="celluloid-supervision (v0.20.6, RVM: ruby-2.4.1 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-supervision-0.20.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-supervision-0.20.6/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-supervision-0.20.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/celluloid-supervision-0.20.6/tasks" />
       </SOURCES>
     </library>
     <library name="chartkick (v1.3.2, RVM: ruby-2.1.5 [fixit]) [gem]">
@@ -16302,6 +16384,34 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/hitimes-1.2.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/hitimes-1.2.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/hitimes-1.2.4/tasks" />
+      </SOURCES>
+    </library>
+    <library name="hitimes (v1.2.4, RVM: ruby-2.4.1 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/hitimes/1.2.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/hitimes-1.2.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/hitimes-1.2.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/hitimes-1.2.4/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/hitimes/1.2.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/hitimes-1.2.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/hitimes-1.2.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/hitimes-1.2.4/tasks" />
+      </SOURCES>
+    </library>
+    <library name="hitimes (v1.2.6, RVM: ruby-2.4.1 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/hitimes/1.2.6" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/hitimes-1.2.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/hitimes-1.2.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/hitimes-1.2.6/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/hitimes/1.2.6" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/hitimes-1.2.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/hitimes-1.2.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/hitimes-1.2.6/tasks" />
       </SOURCES>
     </library>
     <library name="holiday_calcs (v2.0.0, RVM: ree-1.8.7-2012.02-trn1 [myride]) [gem]">
@@ -35588,6 +35698,34 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rollbar-2.14.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="rollbar (v2.14.1, RVM: ruby-2.4.1 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/rollbar-2.14.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/rollbar-2.14.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/rollbar-2.14.1/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/rollbar-2.14.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/rollbar-2.14.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/rollbar-2.14.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/rollbar-2.14.1/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/rollbar-2.14.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="rollbar (v2.15.5, RVM: ruby-2.4.1 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/rollbar-2.15.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/rollbar-2.15.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/rollbar-2.15.5/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/rollbar-2.15.5/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/rollbar-2.15.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/rollbar-2.15.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/rollbar-2.15.5/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/rollbar-2.15.5/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="rollbar (v2.8.3, RVM: jruby-9.1.7.0 [employee_management]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/jruby-9.1.7.0@employee_management/gems/rollbar-2.8.3/bin" />
@@ -43120,6 +43258,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/sucker_punch-1.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="sucker_punch (v1.6.0, RVM: ruby-2.4.1 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/sucker_punch-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/sucker_punch-1.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="sucker_punch (v2.0.2, RVM: jruby-9.1.7.0 [employee_management]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/jruby-9.1.7.0@employee_management/gems/sucker_punch-2.0.2/lib" />
@@ -45992,6 +46138,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/timers-4.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="timers (v4.1.1, RVM: ruby-2.4.1 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/timers-4.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/timers-4.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="timers (v4.1.2, RVM: ruby-2.4.1 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/timers-4.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/timers-4.1.2/lib" />
       </SOURCES>
     </library>
     <library name="tins (v1.3.3, RVM: ree-1.8.7-2012.02-trn1 [myride]) [gem]">
