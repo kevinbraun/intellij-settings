@@ -6790,6 +6790,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/ci_reporter_minitest-1.0.0/acceptance" />
       </SOURCES>
     </library>
+    <library name="ci_reporter_minitest (v1.0.0, RVM: ruby-2.4.1 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ci_reporter_minitest-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ci_reporter_minitest-1.0.0/acceptance" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ci_reporter_minitest-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ci_reporter_minitest-1.0.0/acceptance" />
+      </SOURCES>
+    </library>
     <library name="ci_reporter_rspec (v1.0.0, RVM: ruby-2.2.1 [bustxt]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/ci_reporter_rspec-1.0.0/lib" />
@@ -23230,6 +23240,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/migration_assistant-3.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="migration_assistant (v3.1.0.beta1, RVM: ruby-2.4.1 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/migration_assistant-3.1.0.beta1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/migration_assistant-3.1.0.beta1/lib" />
+      </SOURCES>
+    </library>
     <library name="mime-types (v1.19, RVM: ree-1.8.7-2012.02-trn1 [redmine]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@redmine/gems/mime-types-1.19/lib" />
@@ -27786,6 +27804,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/nokogiri-1.7.1/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/nokogiri-1.7.1/patches" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/nokogiri-1.7.1/suppressions" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.7.1, RVM: ruby-2.3.4 [terminus]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.7.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@terminus/gems/nokogiri-1.7.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@terminus/gems/nokogiri-1.7.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@terminus/gems/nokogiri-1.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@terminus/gems/nokogiri-1.7.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@terminus/gems/nokogiri-1.7.1/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@terminus/gems/nokogiri-1.7.1/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.7.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@terminus/gems/nokogiri-1.7.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@terminus/gems/nokogiri-1.7.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@terminus/gems/nokogiri-1.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@terminus/gems/nokogiri-1.7.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@terminus/gems/nokogiri-1.7.1/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@terminus/gems/nokogiri-1.7.1/suppressions" />
       </SOURCES>
     </library>
     <library name="nokogiri (v1.7.1, RVM: ruby-2.4.1 [telebus]) [gem]">
@@ -43432,6 +43470,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/terminus-3.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="terminus (v4.0.0.beta1, RVM: ruby-2.4.1 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/terminus-4.0.0.beta1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/terminus-4.0.0.beta1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/terminus-4.0.0.beta1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/terminus-4.0.0.beta1/lib" />
+      </SOURCES>
+    </library>
     <library name="test-unit (v2.0.0.0, RVM: ruby-2.0.0-p643 [employee_management]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p643/lib/ruby/2.0.0/dl" />
@@ -47672,6 +47720,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@telebus/gems/voice_xml-0.0.4/db" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@telebus/gems/voice_xml-0.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="voice_xml (v1.0.0.beta1, RVM: ruby-2.4.1 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/voice_xml-1.0.0.beta1/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/voice_xml-1.0.0.beta1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/voice_xml-1.0.0.beta1/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/voice_xml-1.0.0.beta1/lib" />
       </SOURCES>
     </library>
     <library name="wasabi (v3.3.0, RVM: ruby-2.0.0-p643 [intraop]) [gem]">
