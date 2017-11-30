@@ -2826,12 +2826,12 @@
     </library>
     <library name="ansi (v1.4.3, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ansi-1.4.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ansi-1.4.3/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ansi-1.4.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ansi-1.4.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ansi-1.4.3/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ansi-1.4.3/lib" />
       </SOURCES>
     </library>
     <library name="ansi (v1.4.3, RVM: ruby-2.3.4) [gem]">
@@ -4224,12 +4224,12 @@
     </library>
     <library name="builder (v3.2.2, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/builder-3.2.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/builder-3.2.2/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/builder-3.2.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/builder-3.2.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/builder-3.2.2/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/builder-3.2.2/lib" />
       </SOURCES>
     </library>
     <library name="builder (v3.2.2, RVM: ruby-2.2.1 [pows]) [gem]">
@@ -5490,14 +5490,14 @@
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/byebug/6.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/byebug-6.0.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/byebug-6.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/byebug-6.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/byebug-6.0.2/ext" />
       </CLASSES>
       <SOURCES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/byebug/6.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/byebug-6.0.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/byebug-6.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/byebug-6.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/byebug-6.0.2/ext" />
       </SOURCES>
     </library>
     <library name="byebug (v6.0.2, RVM: ruby-2.2.1 [replay]) [gem]">
@@ -5640,12 +5640,12 @@
     </library>
     <library name="capistrano (v2.15.6, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/capistrano-2.15.6/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/capistrano-2.15.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/capistrano-2.15.6/bin" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/capistrano-2.15.6/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/capistrano-2.15.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/capistrano-2.15.6/bin" />
       </SOURCES>
     </library>
     <library name="capistrano (v2.15.6, RVM: ruby-2.3.4) [gem]">
@@ -6413,13 +6413,13 @@
     <library name="chromedriver-helper (v1.1.0, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/chromedriver-helper-1.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/chromedriver-helper-1.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/chromedriver-helper-1.1.0/concourse" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/chromedriver-helper-1.1.0/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/chromedriver-helper-1.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/chromedriver-helper-1.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/chromedriver-helper-1.1.0/concourse" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/chromedriver-helper-1.1.0/lib" />
       </SOURCES>
     </library>
     <library name="chronic (v0.10.2, RVM: ruby-2.2.1 [bustxt]) [gem]">
@@ -9634,16 +9634,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/debase-0.2.1/lib" />
       </SOURCES>
     </library>
-    <library name="debase (v0.2.1, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/debase-0.2.1/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/debase-0.2.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/debase-0.2.1/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/debase-0.2.1/lib" />
-      </SOURCES>
-    </library>
     <library name="debase (v0.2.1, RVM: ruby-2.4.1 [telebus]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/debase-0.2.1/ext" />
@@ -9652,16 +9642,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/debase-0.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/debase-0.2.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="debase (v0.2.2.beta10, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/debase-0.2.2.beta10/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/debase-0.2.2.beta10/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/debase-0.2.2.beta10/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/debase-0.2.2.beta10/lib" />
       </SOURCES>
     </library>
     <library name="debase (v0.2.2.beta10, RVM: ruby-2.4.1 [telebus]) [gem]">
@@ -9760,14 +9740,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/debase-ruby_core_source-0.10.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="debase-ruby_core_source (v0.9.11, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/debase-ruby_core_source-0.9.11/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/debase-ruby_core_source-0.9.11/lib" />
       </SOURCES>
     </library>
     <library name="debase-ruby_core_source (v0.9.6, RVM: ruby-2.2.1 [bustxt]) [gem]">
@@ -11172,18 +11144,18 @@
     </library>
     <library name="erubis (v2.7.0, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/erubis-2.7.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/erubis-2.7.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/erubis-2.7.0/contrib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/erubis-2.7.0/doc-api" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/erubis-2.7.0/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/erubis-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/erubis-2.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/erubis-2.7.0/contrib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/erubis-2.7.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/erubis-2.7.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/erubis-2.7.0/contrib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/erubis-2.7.0/doc-api" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/erubis-2.7.0/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/erubis-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/erubis-2.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/erubis-2.7.0/contrib" />
       </SOURCES>
     </library>
     <library name="erubis (v2.7.0, RVM: ruby-2.2.1 [miniride]) [gem]">
@@ -11480,24 +11452,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p643@intraop/gems/eventmachine-1.2.0.1/java" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p643@intraop/gems/eventmachine-1.2.0.1/tests" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p643@intraop/gems/eventmachine-1.2.0.1/rakelib" />
-      </SOURCES>
-    </library>
-    <library name="eventmachine (v1.2.0.1, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/eventmachine/1.2.0.1" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/eventmachine-1.2.0.1/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/eventmachine-1.2.0.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/eventmachine-1.2.0.1/java" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/eventmachine-1.2.0.1/tests" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/eventmachine-1.2.0.1/rakelib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/eventmachine/1.2.0.1" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/eventmachine-1.2.0.1/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/eventmachine-1.2.0.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/eventmachine-1.2.0.1/java" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/eventmachine-1.2.0.1/tests" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/eventmachine-1.2.0.1/rakelib" />
       </SOURCES>
     </library>
     <library name="eventmachine (v1.2.0.1, RVM: ruby-2.2.1 [miniride]) [gem]">
@@ -12678,12 +12632,12 @@
     </library>
     <library name="factory_girl (v4.7.0, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/factory_girl-4.7.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/factory_girl-4.7.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/factory_girl-4.7.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/factory_girl-4.7.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/factory_girl-4.7.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/factory_girl-4.7.0/lib" />
       </SOURCES>
     </library>
     <library name="factory_girl (v4.7.0, RVM: ruby-2.2.1 [miniride]) [gem]">
@@ -12946,14 +12900,14 @@
     </library>
     <library name="factory_girl_rails (v4.7.0, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/factory_girl_rails-4.7.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/factory_girl_rails-4.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/factory_girl_rails-4.7.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/factory_girl_rails-4.7.0/features" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/factory_girl_rails-4.7.0/gemfiles" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/factory_girl_rails-4.7.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/factory_girl_rails-4.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/factory_girl_rails-4.7.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/factory_girl_rails-4.7.0/features" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/factory_girl_rails-4.7.0/gemfiles" />
       </SOURCES>
@@ -13769,17 +13723,17 @@
     <library name="ffi (v1.9.18, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/ffi/1.9.18" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ffi-1.9.18/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ffi-1.9.18/gen" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ffi-1.9.18/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ffi-1.9.18/libtest" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ffi-1.9.18/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ffi-1.9.18/gen" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ffi-1.9.18/ext" />
       </CLASSES>
       <SOURCES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/ffi/1.9.18" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ffi-1.9.18/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ffi-1.9.18/gen" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ffi-1.9.18/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ffi-1.9.18/libtest" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ffi-1.9.18/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ffi-1.9.18/gen" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ffi-1.9.18/ext" />
       </SOURCES>
     </library>
     <library name="ffi (v1.9.18, RVM: ruby-2.3.3 [comfy-mexican-sofa]) [gem]">
@@ -15634,12 +15588,12 @@
     </library>
     <library name="haml (v4.0.7, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/haml-4.0.7/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/haml-4.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/haml-4.0.7/bin" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/haml-4.0.7/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/haml-4.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/haml-4.0.7/bin" />
       </SOURCES>
     </library>
     <library name="haml (v4.0.7, RVM: ruby-2.2.1 [miniride]) [gem]">
@@ -16626,12 +16580,12 @@
     </library>
     <library name="html2haml (v2.0.0, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/html2haml-2.0.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/html2haml-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/html2haml-2.0.0/bin" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/html2haml-2.0.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/html2haml-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/html2haml-2.0.0/bin" />
       </SOURCES>
     </library>
     <library name="html2haml (v2.0.0, RVM: ruby-2.3.3 [intraop]) [gem]">
@@ -19910,13 +19864,13 @@
     </library>
     <library name="jasmine-rails (v0.12.4, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/jasmine-rails-0.12.4/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/jasmine-rails-0.12.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/jasmine-rails-0.12.4/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/jasmine-rails-0.12.4/config" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/jasmine-rails-0.12.4/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/jasmine-rails-0.12.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/jasmine-rails-0.12.4/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/jasmine-rails-0.12.4/config" />
       </SOURCES>
     </library>
@@ -20514,12 +20468,12 @@
     </library>
     <library name="jquery-ui-rails (v5.0.5, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/jquery-ui-rails-5.0.5/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/jquery-ui-rails-5.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/jquery-ui-rails-5.0.5/app" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/jquery-ui-rails-5.0.5/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/jquery-ui-rails-5.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/jquery-ui-rails-5.0.5/app" />
       </SOURCES>
     </library>
     <library name="jquery-ui-rails (v5.0.5, RVM: ruby-2.2.1 [miniride]) [gem]">
@@ -21218,28 +21172,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@employee_management/gems/json-1.8.3/diagrams" />
       </SOURCES>
     </library>
-    <library name="json (v1.8.3, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/1.8.3" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.3/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.3/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.3/java" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.3/tests" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.3/tools" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.3/diagrams" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/1.8.3" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.3/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.3/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.3/java" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.3/tests" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.3/tools" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.3/diagrams" />
-      </SOURCES>
-    </library>
     <library name="json (v1.8.3, RVM: ruby-2.2.1 [miniride]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/1.8.3" />
@@ -21569,23 +21501,23 @@
     <library name="json (v1.8.6, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/1.8.6" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.6/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.6/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.6/java" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.6/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.6/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.6/tests" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.6/diagrams" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.6/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.6/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/1.8.6" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.6/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.6/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.6/java" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.6/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.6/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.6/tests" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.6/diagrams" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.6/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/json-1.8.6/lib" />
       </SOURCES>
     </library>
     <library name="json (v1.8.6, RVM: ruby-2.2.1 [ufare]) [gem]">
@@ -21924,20 +21856,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/libv8-3.16.14.15-x86_64-linux/vendor" />
       </SOURCES>
     </library>
-    <library name="libv8 (v3.16.14.15, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/libv8/3.16.14.15" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/libv8-3.16.14.15-x86_64-linux/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/libv8-3.16.14.15-x86_64-linux/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/libv8-3.16.14.15-x86_64-linux/vendor" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/libv8/3.16.14.15" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/libv8-3.16.14.15-x86_64-linux/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/libv8-3.16.14.15-x86_64-linux/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/libv8-3.16.14.15-x86_64-linux/vendor" />
-      </SOURCES>
-    </library>
     <library name="libv8 (v3.16.14.15, RVM: ruby-2.2.1 [miniride]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/libv8/3.16.14.15" />
@@ -22025,15 +21943,15 @@
     <library name="libv8 (v3.16.14.19, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/libv8/3.16.14.19" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/libv8-3.16.14.19-x86_64-linux/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/libv8-3.16.14.19-x86_64-linux/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/libv8-3.16.14.19-x86_64-linux/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/libv8-3.16.14.19-x86_64-linux/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/libv8-3.16.14.19-x86_64-linux/ext" />
       </CLASSES>
       <SOURCES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/libv8/3.16.14.19" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/libv8-3.16.14.19-x86_64-linux/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/libv8-3.16.14.19-x86_64-linux/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/libv8-3.16.14.19-x86_64-linux/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/libv8-3.16.14.19-x86_64-linux/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/libv8-3.16.14.19-x86_64-linux/ext" />
       </SOURCES>
     </library>
     <library name="libv8 (v3.16.14.19, RVM: ruby-2.3.3 [buswatch]) [gem]">
@@ -23816,12 +23734,12 @@
     </library>
     <library name="mime-types-data (v3.2016.0521, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/mime-types-data-3.2016.0521/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/mime-types-data-3.2016.0521/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/mime-types-data-3.2016.0521/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/mime-types-data-3.2016.0521/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/mime-types-data-3.2016.0521/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/mime-types-data-3.2016.0521/lib" />
       </SOURCES>
     </library>
     <library name="mime-types-data (v3.2016.0521, RVM: ruby-2.2.1 [miniride]) [gem]">
@@ -23956,12 +23874,12 @@
     </library>
     <library name="mimemagic (v0.3.0, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/mimemagic-0.3.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/mimemagic-0.3.0/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/mimemagic-0.3.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/mimemagic-0.3.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/mimemagic-0.3.0/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/mimemagic-0.3.0/lib" />
       </SOURCES>
     </library>
     <library name="mimemagic (v0.3.0, RVM: ruby-2.3.4) [gem]">
@@ -25092,15 +25010,15 @@
     </library>
     <library name="mocha (v1.1.0, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/mocha-1.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/mocha-1.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/mocha-1.1.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/mocha-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/mocha-1.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/mocha-1.1.0/yard-templates" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/mocha-1.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/mocha-1.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/mocha-1.1.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/mocha-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/mocha-1.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/mocha-1.1.0/yard-templates" />
       </SOURCES>
     </library>
@@ -25806,12 +25724,12 @@
     </library>
     <library name="net-dns (v0.7.1, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-dns-0.7.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-dns-0.7.1/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-dns-0.7.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-dns-0.7.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-dns-0.7.1/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-dns-0.7.1/lib" />
       </SOURCES>
     </library>
     <library name="net-dns (v0.7.1, RVM: ruby-2.2.1 [pows]) [gem]">
@@ -25948,18 +25866,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/net-ldap-0.12.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/net-ldap-0.12.1/script" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@telebus/gems/net-ldap-0.12.1/testserver" />
-      </SOURCES>
-    </library>
-    <library name="net-ldap (v0.12.1, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-ldap-0.12.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-ldap-0.12.1/script" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-ldap-0.12.1/testserver" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-ldap-0.12.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-ldap-0.12.1/script" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-ldap-0.12.1/testserver" />
       </SOURCES>
     </library>
     <library name="net-ldap (v0.12.1, RVM: ruby-2.3.3 [telebus]) [gem]">
@@ -26144,14 +26050,14 @@
     </library>
     <library name="net-ldap (v0.16.0, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-ldap-0.16.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-ldap-0.16.0/script" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-ldap-0.16.0/testserver" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-ldap-0.16.0/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-ldap-0.16.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-ldap-0.16.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-ldap-0.16.0/script" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-ldap-0.16.0/testserver" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-ldap-0.16.0/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-ldap-0.16.0/lib" />
       </SOURCES>
     </library>
     <library name="net-ldap (v0.16.0, RVM: ruby-2.3.3 [buswatch]) [gem]">
@@ -26828,12 +26734,12 @@
     </library>
     <library name="net-ssh (v2.7.0, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-ssh-2.7.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-ssh-2.7.0/support" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-ssh-2.7.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-ssh-2.7.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-ssh-2.7.0/support" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/net-ssh-2.7.0/lib" />
       </SOURCES>
     </library>
     <library name="net-ssh (v2.7.0, RVM: ruby-2.2.1 [miniride]) [gem]">
@@ -27697,21 +27603,21 @@
     <library name="nokogiri (v1.6.8, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.8" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/nokogiri-1.6.8/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/nokogiri-1.6.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/nokogiri-1.6.8/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/nokogiri-1.6.8/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/nokogiri-1.6.8/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/nokogiri-1.6.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/nokogiri-1.6.8/suppressions" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/nokogiri-1.6.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/nokogiri-1.6.8/tasks" />
       </CLASSES>
       <SOURCES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.8" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/nokogiri-1.6.8/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/nokogiri-1.6.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/nokogiri-1.6.8/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/nokogiri-1.6.8/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/nokogiri-1.6.8/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/nokogiri-1.6.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/nokogiri-1.6.8/suppressions" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/nokogiri-1.6.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/nokogiri-1.6.8/tasks" />
       </SOURCES>
     </library>
     <library name="nokogiri (v1.6.8, RVM: ruby-2.2.1 [replay]) [gem]">
@@ -28782,18 +28688,18 @@
     </library>
     <library name="paperclip (v4.3.6, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/paperclip-4.3.6/shoulda_macros" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/paperclip-4.3.6/features" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/paperclip-4.3.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/paperclip-4.3.6/cucumber" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/paperclip-4.3.6/features" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/paperclip-4.3.6/gemfiles" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/paperclip-4.3.6/shoulda_macros" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/paperclip-4.3.6/shoulda_macros" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/paperclip-4.3.6/features" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/paperclip-4.3.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/paperclip-4.3.6/cucumber" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/paperclip-4.3.6/features" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/paperclip-4.3.6/gemfiles" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/paperclip-4.3.6/shoulda_macros" />
       </SOURCES>
     </library>
     <library name="paperclip (v4.3.6, RVM: ruby-2.3.4) [gem]">
@@ -30220,12 +30126,12 @@
     </library>
     <library name="public_suffix (v2.0.5, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/public_suffix-2.0.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/public_suffix-2.0.5/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/public_suffix-2.0.5/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/public_suffix-2.0.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/public_suffix-2.0.5/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/public_suffix-2.0.5/lib" />
       </SOURCES>
     </library>
     <library name="public_suffix (v2.0.5, RVM: ruby-2.3.3 [comfy-mexican-sofa]) [gem]">
@@ -30666,14 +30572,14 @@
     </library>
     <library name="rack (v1.6.4, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rack-1.6.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rack-1.6.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rack-1.6.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rack-1.6.4/contrib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rack-1.6.4/example" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rack-1.6.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rack-1.6.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rack-1.6.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rack-1.6.4/contrib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rack-1.6.4/example" />
       </SOURCES>
@@ -32708,16 +32614,16 @@
     </library>
     <library name="rails-perftest (v0.0.6, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rails-perftest-0.0.6/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rails-perftest-0.0.6/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rails-perftest-0.0.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rails-perftest-0.0.6/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rails-perftest-0.0.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rails-perftest-0.0.6/bin" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rails-perftest-0.0.6/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rails-perftest-0.0.6/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rails-perftest-0.0.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rails-perftest-0.0.6/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rails-perftest-0.0.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rails-perftest-0.0.6/bin" />
       </SOURCES>
     </library>
     <library name="rails-perftest (v0.0.6, RVM: ruby-2.3.4) [gem]">
@@ -33212,12 +33118,12 @@
     </library>
     <library name="railties (v4.2.6, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/railties-4.2.6/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/railties-4.2.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/railties-4.2.6/bin" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/railties-4.2.6/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/railties-4.2.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/railties-4.2.6/bin" />
       </SOURCES>
     </library>
     <library name="railties (v4.2.6, RVM: ruby-2.2.1 [miniride]) [gem]">
@@ -34092,14 +33998,14 @@
     </library>
     <library name="rake (v11.2.2, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rake-11.2.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rake-11.2.2/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rake-11.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rake-11.2.2/bin" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rake-11.2.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rake-11.2.2/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rake-11.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rake-11.2.2/bin" />
       </SOURCES>
     </library>
     <library name="rake (v11.2.2, RVM: ruby-2.2.1 [pows]) [gem]">
@@ -35858,16 +35764,16 @@
     </library>
     <library name="rollbar (v2.14.1, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rollbar-2.14.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rollbar-2.14.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rollbar-2.14.1/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rollbar-2.14.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rollbar-2.14.1/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rollbar-2.14.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rollbar-2.14.1/bin" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rollbar-2.14.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rollbar-2.14.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rollbar-2.14.1/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rollbar-2.14.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rollbar-2.14.1/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rollbar-2.14.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rollbar-2.14.1/bin" />
       </SOURCES>
     </library>
     <library name="rollbar (v2.14.1, RVM: ruby-2.3.3 [service-advisory]) [gem]">
@@ -37102,18 +37008,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ruby-debug-ide-0.6.1.beta4/lib" />
       </SOURCES>
     </library>
-    <library name="ruby-debug-ide (v0.6.1.beta9, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ruby-debug-ide-0.6.1.beta9/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ruby-debug-ide-0.6.1.beta9/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ruby-debug-ide-0.6.1.beta9/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ruby-debug-ide-0.6.1.beta9/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ruby-debug-ide-0.6.1.beta9/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ruby-debug-ide-0.6.1.beta9/lib" />
-      </SOURCES>
-    </library>
     <library name="ruby-debug-ide (v0.6.1.beta9, RVM: ruby-2.4.1 [telebus]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ruby-debug-ide-0.6.1.beta9/bin" />
@@ -37643,14 +37537,14 @@
     <library name="ruby-prof (v0.15.9, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/ruby-prof/0.15.9" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ruby-prof-0.15.9/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ruby-prof-0.15.9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ruby-prof-0.15.9/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ruby-prof-0.15.9/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/ruby-prof/0.15.9" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ruby-prof-0.15.9/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ruby-prof-0.15.9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ruby-prof-0.15.9/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ruby-prof-0.15.9/lib" />
       </SOURCES>
     </library>
@@ -37812,12 +37706,12 @@
     </library>
     <library name="ruby_parser (v3.7.1, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ruby_parser-3.7.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ruby_parser-3.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ruby_parser-3.7.1/bin" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ruby_parser-3.7.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ruby_parser-3.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ruby_parser-3.7.1/bin" />
       </SOURCES>
     </library>
     <library name="ruby_parser (v3.7.1, RVM: ruby-2.3.4) [gem]">
@@ -40082,18 +39976,18 @@
     </library>
     <library name="sass (v3.4.22, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/sass-3.4.22/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/sass-3.4.22/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/sass-3.4.22/extra" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/sass-3.4.22/rails" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/sass-3.4.22/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/sass-3.4.22/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/sass-3.4.22/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/sass-3.4.22/bin" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/sass-3.4.22/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/sass-3.4.22/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/sass-3.4.22/extra" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/sass-3.4.22/rails" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/sass-3.4.22/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/sass-3.4.22/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/sass-3.4.22/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/sass-3.4.22/bin" />
       </SOURCES>
     </library>
     <library name="sass (v3.4.22, RVM: ruby-2.2.1 [miniride]) [gem]">
@@ -40786,13 +40680,13 @@
     </library>
     <library name="serviceworker-rails (v0.5.5, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/serviceworker-rails-0.5.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/serviceworker-rails-0.5.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/serviceworker-rails-0.5.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/serviceworker-rails-0.5.5/gemfiles" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/serviceworker-rails-0.5.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/serviceworker-rails-0.5.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/serviceworker-rails-0.5.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/serviceworker-rails-0.5.5/gemfiles" />
       </SOURCES>
     </library>
@@ -41101,13 +40995,13 @@
     <library name="shoulda (v3.5.0, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-3.5.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-3.5.0/features" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-3.5.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-3.5.0/features" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-3.5.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-3.5.0/features" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-3.5.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-3.5.0/features" />
       </SOURCES>
     </library>
     <library name="shoulda (v3.5.0, RVM: ruby-2.2.1 [pows]) [gem]">
@@ -41340,17 +41234,17 @@
     </library>
     <library name="shoulda-context (v1.2.1, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-context-1.2.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-context-1.2.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-context-1.2.1/rails" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-context-1.2.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-context-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-context-1.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-context-1.2.1/rails" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-context-1.2.1/gemfiles" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-context-1.2.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-context-1.2.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-context-1.2.1/rails" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-context-1.2.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-context-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-context-1.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-context-1.2.1/rails" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-context-1.2.1/gemfiles" />
       </SOURCES>
     </library>
@@ -41608,14 +41502,14 @@
     </library>
     <library name="shoulda-matchers (v2.5.0, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-matchers-2.5.0/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-matchers-2.5.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-matchers-2.5.0/features" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-matchers-2.5.0/gemfiles" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-matchers-2.5.0/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-matchers-2.5.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-matchers-2.5.0/features" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/shoulda-matchers-2.5.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="shoulda-matchers (v2.5.0, RVM: ruby-2.2.1 [pows]) [gem]">
@@ -42068,14 +41962,14 @@
     </library>
     <library name="simplecov (v0.8.2, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/simplecov-0.8.2/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/simplecov-0.8.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/simplecov-0.8.2/features" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/simplecov-0.8.2/gemfiles" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/simplecov-0.8.2/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/simplecov-0.8.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/simplecov-0.8.2/features" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/simplecov-0.8.2/gemfiles" />
       </SOURCES>
     </library>
     <library name="simplecov (v0.8.2, RVM: ruby-2.3.4) [gem]">
@@ -42272,16 +42166,16 @@
     </library>
     <library name="simplecov-html (v0.8.0, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/simplecov-html-0.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/simplecov-html-0.8.0/public" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/simplecov-html-0.8.0/views" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/simplecov-html-0.8.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/simplecov-html-0.8.0/public" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/simplecov-html-0.8.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/simplecov-html-0.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/simplecov-html-0.8.0/public" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/simplecov-html-0.8.0/views" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/simplecov-html-0.8.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/simplecov-html-0.8.0/public" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/simplecov-html-0.8.0/lib" />
       </SOURCES>
     </library>
     <library name="simplecov-html (v0.8.0, RVM: ruby-2.3.4) [gem]">
@@ -42360,14 +42254,14 @@
     </library>
     <library name="simplecov-rcov (v0.2.3, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/simplecov-rcov-0.2.3/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/simplecov-rcov-0.2.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/simplecov-rcov-0.2.3/views" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/simplecov-rcov-0.2.3/assets" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/simplecov-rcov-0.2.3/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/simplecov-rcov-0.2.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/simplecov-rcov-0.2.3/views" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/simplecov-rcov-0.2.3/assets" />
       </SOURCES>
     </library>
     <library name="simplecov-rcov (v0.2.3, RVM: ruby-2.2.1 [replay]) [gem]">
@@ -43694,16 +43588,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/terminus-2.0.4/lib" />
       </SOURCES>
     </library>
-    <library name="terminus (v2.0.4, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/terminus-2.0.4/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/terminus-2.0.4/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/terminus-2.0.4/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/terminus-2.0.4/lib" />
-      </SOURCES>
-    </library>
     <library name="terminus (v2.0.4, RVM: ruby-2.3.3 [service-advisory]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@service-advisory/gems/terminus-2.0.4/bin" />
@@ -43776,12 +43660,12 @@
     </library>
     <library name="terminus (v3.0.0, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/terminus-3.0.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/terminus-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/terminus-3.0.0/bin" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/terminus-3.0.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/terminus-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/terminus-3.0.0/bin" />
       </SOURCES>
     </library>
     <library name="terminus (v3.0.0, RVM: ruby-2.2.1 [replay]) [gem]">
@@ -44736,18 +44620,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/therubyracer-0.12.2/lib" />
       </SOURCES>
     </library>
-    <library name="therubyracer (v0.12.2, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/therubyracer/0.12.2" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/therubyracer-0.12.2/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/therubyracer-0.12.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/therubyracer/0.12.2" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/therubyracer-0.12.2/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/therubyracer-0.12.2/lib" />
-      </SOURCES>
-    </library>
     <library name="therubyracer (v0.12.2, RVM: ruby-2.2.1 [miniride]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/therubyracer/0.12.2" />
@@ -44998,16 +44870,16 @@
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/thin/1.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/thin-1.7.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/thin-1.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/thin-1.7.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/thin-1.7.0/example" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/thin-1.7.0/ext" />
       </CLASSES>
       <SOURCES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/thin/1.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/thin-1.7.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/thin-1.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/thin-1.7.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/thin-1.7.0/example" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/thin-1.7.0/ext" />
       </SOURCES>
     </library>
     <library name="thin (v1.7.0, RVM: ruby-2.2.1 [miniride]) [gem]">
@@ -45178,12 +45050,12 @@
     </library>
     <library name="thor (v0.19.1, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/thor-0.19.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/thor-0.19.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/thor-0.19.1/bin" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/thor-0.19.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/thor-0.19.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/thor-0.19.1/bin" />
       </SOURCES>
     </library>
     <library name="thor (v0.19.1, RVM: ruby-2.2.1 [miniride]) [gem]">
@@ -45505,15 +45377,15 @@
     <library name="thread_safe (v0.3.5, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/thread_safe-0.3.5/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/thread_safe-0.3.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/thread_safe-0.3.5/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/thread_safe-0.3.5/yard-template" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/thread_safe-0.3.5/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/thread_safe-0.3.5/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/thread_safe-0.3.5/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/thread_safe-0.3.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/thread_safe-0.3.5/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/thread_safe-0.3.5/yard-template" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/thread_safe-0.3.5/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/thread_safe-0.3.5/lib" />
       </SOURCES>
     </library>
     <library name="thread_safe (v0.3.5, RVM: ruby-2.2.1 [miniride]) [gem]">
@@ -46030,13 +45902,13 @@
     </library>
     <library name="tilt (v2.0.5, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/tilt-2.0.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/tilt-2.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/tilt-2.0.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/tilt-2.0.5/man" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/tilt-2.0.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/tilt-2.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/tilt-2.0.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/tilt-2.0.5/man" />
       </SOURCES>
     </library>
@@ -47836,12 +47708,12 @@
     </library>
     <library name="uglifier (v3.0.0, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/uglifier-3.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/uglifier-3.0.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/uglifier-3.0.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/uglifier-3.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/uglifier-3.0.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/uglifier-3.0.0/lib" />
       </SOURCES>
     </library>
     <library name="uglifier (v3.0.0, RVM: ruby-2.2.1 [miniride]) [gem]">
@@ -48764,12 +48636,12 @@
     </library>
     <library name="whenever (v0.9.4, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/whenever-0.9.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/whenever-0.9.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/whenever-0.9.4/bin" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/whenever-0.9.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/whenever-0.9.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/whenever-0.9.4/bin" />
       </SOURCES>
     </library>
     <library name="whenever (v0.9.4, RVM: ruby-2.3.4) [gem]">
