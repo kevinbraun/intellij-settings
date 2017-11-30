@@ -11428,6 +11428,7 @@
     </library>
     <library name="eventmachine (v0.12.10, RVM: ruby-1.9.3-p551 [kiosk-client]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/eventmachine/0.12.10" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@kiosk-client/gems/eventmachine-0.12.10/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@kiosk-client/gems/eventmachine-0.12.10/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@kiosk-client/gems/eventmachine-0.12.10/web" />
@@ -11436,6 +11437,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@kiosk-client/gems/eventmachine-0.12.10/tests" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/eventmachine/0.12.10" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@kiosk-client/gems/eventmachine-0.12.10/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@kiosk-client/gems/eventmachine-0.12.10/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@kiosk-client/gems/eventmachine-0.12.10/web" />
@@ -25008,6 +25010,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/minitest-5.9.0/lib" />
       </SOURCES>
     </library>
+    <library name="minitest-retry (v0.1.9, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/minitest-retry-0.1.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/minitest-retry-0.1.9/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/minitest-retry-0.1.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/minitest-retry-0.1.9/bin" />
+      </SOURCES>
+    </library>
     <library name="mocha (v0.10.5, RVM: ruby-1.9.3-p551 [buswatch]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551@buswatch/gems/mocha-0.10.5/lib" />
@@ -28906,6 +28918,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/parallel-1.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="parallel (v1.9.0, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/parallel-1.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/parallel-1.9.0/lib" />
       </SOURCES>
     </library>
     <library name="parallel (v1.9.0, RVM: ruby-2.3.3 [intraop]) [gem]">
