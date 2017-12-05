@@ -3674,6 +3674,14 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/bigdecimal" />
       </SOURCES>
     </library>
+    <library name="bigdecimal (v1.2.6, RVM: ruby-2.2.1 [miniride]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/bigdecimal" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/bigdecimal" />
+      </SOURCES>
+    </library>
     <library name="bigdecimal (v1.2.6, RVM: ruby-2.2.1 [oracle-enhanced-tz-support]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/io" />
@@ -3738,6 +3746,38 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/bigdecimal" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/x86_64-linux" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/unicode_normalize" />
+      </SOURCES>
+    </library>
+    <library name="bigdecimal (v1.2.8, RVM: ruby-2.3.4 [migration-assistant]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/bigdecimal" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/bigdecimal" />
+      </SOURCES>
+    </library>
+    <library name="bigdecimal (v1.2.8, RVM: ruby-2.3.4 [terminus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/bigdecimal" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/bigdecimal" />
+      </SOURCES>
+    </library>
+    <library name="bigdecimal (v1.3.0, RVM: ruby-2.4.1 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/bigdecimal" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/bigdecimal" />
+      </SOURCES>
+    </library>
+    <library name="bigdecimal (v1.3.0, RVM: ruby-2.4.1 [voice_xml]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/bigdecimal" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/bigdecimal" />
       </SOURCES>
     </library>
     <library name="bindex (v0.5.0, RVM: ruby-2.3.3) [gem]">
@@ -11452,6 +11492,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p643@intraop/gems/eventmachine-1.2.0.1/java" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p643@intraop/gems/eventmachine-1.2.0.1/tests" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p643@intraop/gems/eventmachine-1.2.0.1/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="eventmachine (v1.2.0.1, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/eventmachine/1.2.0.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/eventmachine-1.2.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/eventmachine-1.2.0.1/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/eventmachine-1.2.0.1/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/eventmachine-1.2.0.1/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/eventmachine-1.2.0.1/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/eventmachine/1.2.0.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/eventmachine-1.2.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/eventmachine-1.2.0.1/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/eventmachine-1.2.0.1/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/eventmachine-1.2.0.1/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/eventmachine-1.2.0.1/ext" />
       </SOURCES>
     </library>
     <library name="eventmachine (v1.2.0.1, RVM: ruby-2.2.1 [miniride]) [gem]">
@@ -20980,6 +21038,14 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/json/add" />
       </SOURCES>
     </library>
+    <library name="json (v1.8.1, RVM: ruby-2.2.1 [miniride]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/json/add" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/json/add" />
+      </SOURCES>
+    </library>
     <library name="json (v1.8.1, RVM: ruby-2.2.1 [oracle-enhanced-tz-support]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/io" />
@@ -21236,6 +21302,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@replay/gems/json-1.8.3/tests" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@replay/gems/json-1.8.3/tools" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@replay/gems/json-1.8.3/diagrams" />
+      </SOURCES>
+    </library>
+    <library name="json (v1.8.3, RVM: ruby-2.3.4 [migration-assistant]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/json/add" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/json/add" />
+      </SOURCES>
+    </library>
+    <library name="json (v1.8.3, RVM: ruby-2.3.4 [terminus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/json/add" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/json/add" />
       </SOURCES>
     </library>
     <library name="json (v1.8.3, RVM: ruby-2.4.1 [voice_xml]) [gem]">
@@ -21686,6 +21768,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@voice_xml/gems/json-1.8.6/tests" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@voice_xml/gems/json-1.8.6/tools" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@voice_xml/gems/json-1.8.6/diagrams" />
+      </SOURCES>
+    </library>
+    <library name="json (v2.0.2, RVM: ruby-2.4.1 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/json/add" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/json/add" />
+      </SOURCES>
+    </library>
+    <library name="json (v2.0.2, RVM: ruby-2.4.1 [voice_xml]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/json/add" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/json/add" />
       </SOURCES>
     </library>
     <library name="json (v2.0.3, RVM: jruby-9.1.7.0 [employee_management]) [gem]">
@@ -28376,6 +28474,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/ontrac-rails-0.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="openssl (v2.0.3, RVM: ruby-2.4.1 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/openssl" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/openssl" />
+      </SOURCES>
+    </library>
+    <library name="openssl (v2.0.3, RVM: ruby-2.4.1 [voice_xml]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/openssl" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/openssl" />
+      </SOURCES>
+    </library>
     <library name="oracle-enhanced-enhanced (v0.1.3, RVM: ruby-2.2.1 [pows]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@pows/gems/oracle-enhanced-enhanced-0.1.3/lib" />
@@ -30018,6 +30132,20 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/psych/json" />
       </SOURCES>
     </library>
+    <library name="psych (v2.0.8, RVM: ruby-2.2.1 [miniride]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/psych/visitors" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/psych/json" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/psych/visitors" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/psych/json" />
+      </SOURCES>
+    </library>
     <library name="psych (v2.0.8, RVM: ruby-2.2.1 [oracle-enhanced-tz-support]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/io" />
@@ -30082,6 +30210,62 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/bigdecimal" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/x86_64-linux" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/unicode_normalize" />
+      </SOURCES>
+    </library>
+    <library name="psych (v2.1.0, RVM: ruby-2.3.4 [migration-assistant]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/psych/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/psych/visitors" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/psych/nodes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/psych/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/psych/visitors" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/psych/nodes" />
+      </SOURCES>
+    </library>
+    <library name="psych (v2.1.0, RVM: ruby-2.3.4 [terminus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/psych/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/psych/visitors" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/psych/nodes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/psych/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/psych/visitors" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/psych/nodes" />
+      </SOURCES>
+    </library>
+    <library name="psych (v2.2.2, RVM: ruby-2.4.1 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/psych/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/psych/visitors" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/psych/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/psych/visitors" />
+      </SOURCES>
+    </library>
+    <library name="psych (v2.2.2, RVM: ruby-2.4.1 [voice_xml]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/psych/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/psych/visitors" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/psych/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/psych/visitors" />
       </SOURCES>
     </library>
     <library name="public_suffix (v2.0.4, RVM: rbx-3.71 [employee_management]) [gem]">
@@ -33702,6 +33886,20 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rake/ext" />
       </SOURCES>
     </library>
+    <library name="rake (v10.4.2, RVM: ruby-2.2.1 [miniride]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rake/contrib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rake/loaders" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rake/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rake/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rake/contrib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rake/loaders" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rake/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rake/ext" />
+      </SOURCES>
+    </library>
     <library name="rake (v10.4.2, RVM: ruby-2.2.1 [oracle-enhanced-tz-support]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/io" />
@@ -34878,6 +35076,30 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/parser" />
       </SOURCES>
     </library>
+    <library name="rdoc (v4.2.0, RVM: ruby-2.2.1 [miniride]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/generator" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/parser" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/generator" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/parser" />
+      </SOURCES>
+    </library>
     <library name="rdoc (v4.2.0, RVM: ruby-2.2.1 [oracle-enhanced-tz-support]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/io" />
@@ -34944,6 +35166,54 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/unicode_normalize" />
       </SOURCES>
     </library>
+    <library name="rdoc (v4.2.1, RVM: ruby-2.3.4 [migration-assistant]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/generator" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/parser" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/generator" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/parser" />
+      </SOURCES>
+    </library>
+    <library name="rdoc (v4.2.1, RVM: ruby-2.3.4 [terminus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/generator" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/parser" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/generator" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/parser" />
+      </SOURCES>
+    </library>
     <library name="rdoc (v4.2.2, RVM: ruby-2.2.1 [miniride]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/rdoc-4.2.2/bin" />
@@ -34972,6 +35242,54 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/rbx-3.71@global/gems/rdoc-4.3.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/rbx-3.71@global/gems/rdoc-4.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rdoc (v5.0.0, RVM: ruby-2.4.1 [telebus]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/generator" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/rd" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/generator" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/rd" />
+      </SOURCES>
+    </library>
+    <library name="rdoc (v5.0.0, RVM: ruby-2.4.1 [voice_xml]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/generator" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/rd" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/generator" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/rdoc/rd" />
       </SOURCES>
     </library>
     <library name="recaptcha (v4.3.1, RVM: ruby-2.2.1 [pows]) [gem]">
@@ -43354,6 +43672,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@intraop/gems/stackprof-0.2.10/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@intraop/gems/stackprof-0.2.10/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@intraop/gems/stackprof-0.2.10/vendor" />
+      </SOURCES>
+    </library>
+    <library name="statsd-instrument (v2.1.4, RVM: ruby-2.2.1 [miniride]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/statsd-instrument-2.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/statsd-instrument-2.1.4/lib" />
       </SOURCES>
     </library>
     <library name="subexec (v0.2.3, RVM: ree-1.8.7-2012.02-trn1 [myride]) [gem]">
