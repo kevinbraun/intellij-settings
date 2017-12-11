@@ -2476,6 +2476,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/activesupport-5.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v5.1.4, RVM: ruby-2.3.0 [heatmaps]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/activesupport-5.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/activesupport-5.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="activesupport (v5.1.4, RVM: ruby-2.4.1 [telebus]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/activesupport-5.1.4/lib" />
@@ -5066,6 +5074,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@fixit/gems/bundler-1.15.4/task" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.16.0, RVM: ruby-2.3.0 [heatmaps]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/bundler-1.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/bundler-1.16.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/bundler-1.16.0/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/bundler-1.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/bundler-1.16.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/bundler-1.16.0/man" />
+      </SOURCES>
+    </library>
     <library name="bundler (v1.16.0, RVM: ruby-2.3.4 [migration-assistant]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@migration-assistant/gems/bundler-1.16.0/exe" />
@@ -7438,6 +7458,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/coderay-1.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="coderay (v1.1.2, RVM: ruby-2.3.0 [heatmaps]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/coderay-1.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/coderay-1.1.2/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/coderay-1.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/coderay-1.1.2/bin" />
+      </SOURCES>
+    </library>
     <library name="coderay (v1.1.2, RVM: ruby-2.3.3 [telebus]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@telebus/gems/coderay-1.1.2/bin" />
@@ -8442,6 +8472,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@buswatch/gems/concurrent-ruby-1.0.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="concurrent-ruby (v1.0.5, RVM: ruby-2.3.0 [heatmaps]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/concurrent-ruby-1.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/concurrent-ruby-1.0.5/lib" />
       </SOURCES>
     </library>
     <library name="concurrent-ruby (v1.0.5, RVM: ruby-2.3.3 [buswatch]) [gem]">
@@ -17472,6 +17510,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4@terminus/gems/i18n-0.8.6/gemfiles" />
       </SOURCES>
     </library>
+    <library name="i18n (v0.9.1, RVM: ruby-2.3.0 [heatmaps]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/i18n-0.9.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/i18n-0.9.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/i18n-0.9.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/i18n-0.9.1/lib" />
+      </SOURCES>
+    </library>
     <library name="i18n (v0.9.1, RVM: ruby-2.3.3 [telebus]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@telebus/gems/i18n-0.9.1/lib" />
@@ -23428,6 +23476,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/method_source-0.8.2/lib" />
       </SOURCES>
     </library>
+    <library name="method_source (v0.9.0, RVM: ruby-2.3.0 [heatmaps]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/method_source-0.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/method_source-0.9.0/lib" />
+      </SOURCES>
+    </library>
     <library name="method_source (v0.9.0, RVM: ruby-2.3.3 [telebus]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@telebus/gems/method_source-0.9.0/lib" />
@@ -24862,6 +24918,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/minitest-5.10.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.10.3, RVM: ruby-2.3.0 [heatmaps]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/minitest-5.10.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/minitest-5.10.3/lib" />
       </SOURCES>
     </library>
     <library name="minitest (v5.10.3, RVM: ruby-2.3.3 [telebus]) [gem]">
@@ -29930,6 +29994,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/pry-0.11.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/pry-0.11.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="pry (v0.11.3, RVM: ruby-2.3.0 [heatmaps]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/pry-0.11.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/pry-0.11.3/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/pry-0.11.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/pry-0.11.3/bin" />
       </SOURCES>
     </library>
     <library name="pry (v0.9.10, RVM: ruby-1.9.3-p551 [confirm]) [gem]">
@@ -37868,6 +37942,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ruby-oci8-2.2.3/lib" />
       </SOURCES>
     </library>
+    <library name="ruby-oci8 (v2.2.5, RVM: ruby-2.3.0 [heatmaps]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ruby-oci8/2.2.5" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/ruby-oci8-2.2.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/ruby-oci8-2.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ruby-oci8/2.2.5" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/ruby-oci8-2.2.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/ruby-oci8-2.2.5/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby-oci8 (v2.2.5, RVM: ruby-2.3.3 [telebus]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@telebus/gems/ruby-oci8-2.2.5/ext" />
@@ -41164,6 +41250,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@transit-website-services/gems/sequel-4.47.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@transit-website-services/gems/sequel-4.47.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="sequel (v5.3.0, RVM: ruby-2.3.0 [heatmaps]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/sequel-5.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/sequel-5.3.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/sequel-5.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/sequel-5.3.0/bin" />
       </SOURCES>
     </library>
     <library name="serviceworker-rails (v0.5.5, RVM: ruby-2.2.1 [kiosk-server]) [gem]">
@@ -46034,6 +46130,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ufare/gems/thread_safe-0.3.6/yard-template" />
       </SOURCES>
     </library>
+    <library name="thread_safe (v0.3.6, RVM: ruby-2.3.0 [heatmaps]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/thread_safe-0.3.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/thread_safe-0.3.6/yard-template" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/thread_safe-0.3.6/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/thread_safe-0.3.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/thread_safe-0.3.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/thread_safe-0.3.6/yard-template" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/thread_safe-0.3.6/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/thread_safe-0.3.6/lib" />
+      </SOURCES>
+    </library>
     <library name="thread_safe (v0.3.6, RVM: ruby-2.3.3 [buswatch]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/thread_safe-0.3.6/ext" />
@@ -48094,6 +48204,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/tzinfo-1.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="tzinfo (v1.2.4, RVM: ruby-2.3.0 [heatmaps]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/tzinfo-1.2.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@heatmaps/gems/tzinfo-1.2.4/lib" />
       </SOURCES>
     </library>
     <library name="tzinfo (v1.2.4, RVM: ruby-2.3.3 [telebus]) [gem]">
