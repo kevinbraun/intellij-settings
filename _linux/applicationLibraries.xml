@@ -29092,6 +29092,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@voice_xml/gems/omnibus_web_services-4.0.2/config" />
       </SOURCES>
     </library>
+    <library name="omnibus_web_services (v4.0.3, RVM: ree-1.8.7-2012.02-trn1 [myride]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/omnibus_web_services-4.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/omnibus_web_services-4.0.3/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/omnibus_web_services-4.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2012.02-trn1@myride/gems/omnibus_web_services-4.0.3/config" />
+      </SOURCES>
+    </library>
     <library name="omnidata (v50.4.3, RVM: ruby-2.0.0-p643 [intraop]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p643@intraop/gems/omnidata-50.4.3/lib" />
