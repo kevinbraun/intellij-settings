@@ -20618,6 +20618,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@intraop/gems/jquery-datatables-rails-3.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="jquery-datatables-rails (v3.4.0, RVM: ruby-2.2.1 [pows]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@pows/gems/jquery-datatables-rails-3.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@pows/gems/jquery-datatables-rails-3.4.0/app" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@pows/gems/jquery-datatables-rails-3.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@pows/gems/jquery-datatables-rails-3.4.0/app" />
+      </SOURCES>
+    </library>
     <library name="jquery-datatables-rails (v3.4.0, RVM: ruby-2.3.3 [intraop]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@intraop/gems/jquery-datatables-rails-3.4.0/app" />
