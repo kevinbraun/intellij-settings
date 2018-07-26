@@ -34932,6 +34932,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rack-cache-1.6.1/lib" />
       </SOURCES>
     </library>
+    <library name="rack-cors (v1.0.2, RVM: ruby-2.4.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rack-cors-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rack-cors-1.0.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rack-cors-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rack-cors-1.0.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rack-cors-1.0.2/test" />
+      </excluded>
+    </library>
     <library name="rack-mini-profiler (v0.10.1, RVM: jruby-9.1.7.0 [intraop]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/jruby-9.1.7.0@intraop/gems/rack-mini-profiler-0.10.1/lib" />
