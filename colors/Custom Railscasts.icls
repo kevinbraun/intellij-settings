@@ -1,9 +1,10 @@
 <scheme name="Custom Railscasts" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.1666666" />
+  <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Meslo LG S for Powerline" />
+  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <colors>
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="333435" />
