@@ -1914,6 +1914,55 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/db_helper_tasks-2.1.23/tasks" />
       </excluded>
     </library>
+    <library name="debase (v0.2.2, RVM: ruby-2.3.3 [buswatch]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/debase-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/debase-0.2.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/debase-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/debase-0.2.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/debase-0.2.2/test" />
+      </excluded>
+    </library>
+    <library name="debase (v0.2.3.beta2, RVM: ruby-2.3.3 [buswatch]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/debase-0.2.3.beta2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/debase-0.2.3.beta2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/debase-0.2.3.beta2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/debase-0.2.3.beta2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/debase-0.2.3.beta2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/debase-0.2.3.beta2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/debase-0.2.3.beta2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/debase-0.2.3.beta2/test" />
+      </excluded>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.3, RVM: ruby-2.3.3 [buswatch]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/debase-ruby_core_source-0.10.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/debase-ruby_core_source-0.10.3/lib" />
+      </SOURCES>
+    </library>
     <library name="debug_inspector (v0.0.2, RVM: ruby-2.2.1 [miniride]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -7800,6 +7849,25 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rspec-support-3.8.0/lib" />
       </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.7.0.beta6, RVM: ruby-2.3.3 [buswatch]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/ruby-debug-ide-0.7.0.beta6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/ruby-debug-ide-0.7.0.beta6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/ruby-debug-ide-0.7.0.beta6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/ruby-debug-ide-0.7.0.beta6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/ruby-debug-ide-0.7.0.beta6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/ruby-debug-ide-0.7.0.beta6/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/ruby-debug-ide-0.7.0.beta6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/ruby-debug-ide-0.7.0.beta6/ext" />
+      </excluded>
     </library>
     <library name="ruby-oci8 (v2.1.8, RVM: ruby-2.2.1 [bustxt]) [gem]" type="rubylib">
       <properties>
