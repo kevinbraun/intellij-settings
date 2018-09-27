@@ -2270,6 +2270,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/concurrent-ruby-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="concurrent-ruby (v1.0.5, RVM: ruby-2.2.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/concurrent-ruby-1.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/concurrent-ruby-1.0.5/lib" />
+      </SOURCES>
+    </library>
     <library name="concurrent-ruby (v1.0.5, RVM: ruby-2.3.3 [buswatch]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -3211,6 +3222,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/elastic-apm-1.0.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/elastic-apm-1.0.1/docs" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/elastic-apm-1.0.1/bench" />
+      </excluded>
+    </library>
+    <library name="elastic-apm (v1.1.0, RVM: ruby-2.2.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/elastic-apm-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/elastic-apm-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/elastic-apm-1.1.0/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/elastic-apm-1.1.0/bench" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/elastic-apm-1.1.0/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/elastic-apm-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/elastic-apm-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/elastic-apm-1.1.0/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/elastic-apm-1.1.0/bench" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/elastic-apm-1.1.0/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/elastic-apm-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/elastic-apm-1.1.0/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/elastic-apm-1.1.0/bench" />
       </excluded>
     </library>
     <library name="erubi (v1.7.1, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
