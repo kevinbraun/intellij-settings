@@ -8,17 +8,13 @@
       <artifact name="JTOpen (DB2 iSeries)" use="true" />
       <option name="auto-sync" value="false" />
     </driver>
-    <driver id="derby.embedded">
-      <artifact name="Apache Derby" use="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
     <driver id="derby.remote">
       <artifact name="Apache Derby" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="sqlserver.jtds">
-      <artifact name="jTDS (SQL Server and Sybase)" use="true" />
-      <option name="auto-sync" value="false" />
+    <driver id="derby.embedded">
+      <artifact name="Apache Derby" use="true" />
+      <option name="auto-sync" value="true" />
     </driver>
     <driver id="azure.ms">
       <artifact name="SQL Server" use="true" />
@@ -27,15 +23,19 @@
     </driver>
     <driver id="sqlserver.ms">
       <artifact name="SQL Server" use="true" />
-      <option name="auto-sync" value="false" />
+      <option name="auto-sync" value="true" />
       <option name="send-app-info" value="false" />
+    </driver>
+    <driver id="sqlserver.jtds">
+      <artifact name="jTDS (SQL Server and Sybase)" use="true" />
+      <option name="auto-sync" value="true" />
     </driver>
     <driver id="sybase.jtds">
       <artifact name="jTDS (SQL Server and Sybase)" use="true" />
-      <option name="auto-sync" value="false" />
+      <option name="auto-sync" value="true" />
     </driver>
     <driver id="sybase.ase">
-      <option name="auto-sync" value="false" />
+      <option name="auto-sync" value="true" />
     </driver>
     <driver id="mysql">
       <artifact name="MySQL Connector/J" use="true" />
@@ -46,18 +46,9 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="oracle">
-      <artifact name="Oracle" use="true" version="12.1.0.2" />
-      <option name="auto-sync" value="false" />
+      <artifact name="Oracle" use="true" />
+      <option name="auto-sync" value="true" />
       <option name="auto-commit" value="false" />
-      <option name="send-app-info" value="true" />
-      <option name="schema-control" value="AUTOMATIC" />
-      <library>
-        <url>file://$USER_HOME$/.RubyMine60/config/jdbc-drivers/oracle-driver-license.txt</url>
-      </library>
-      <library>
-        <url>file://$USER_HOME$/.RubyMine60/config/jdbc-drivers/ojdbc6-11.2.0.3.jar</url>
-      </library>
-      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="postgresql">
       <artifact name="PostgreSQL" use="true" />
@@ -69,11 +60,11 @@
       <option name="auto-sync" value="true" />
       <option name="schema-control" value="MANUAL" />
     </driver>
-    <driver id="hsqldb.local">
+    <driver id="hsqldb.remote">
       <artifact name="HSQLDB" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="hsqldb.remote">
+    <driver id="hsqldb.local">
       <artifact name="HSQLDB" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
@@ -87,6 +78,10 @@
     </driver>
     <driver id="exasol">
       <artifact name="Exasol" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="clickhouse">
+      <artifact name="ClickHouse" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
   </component>
