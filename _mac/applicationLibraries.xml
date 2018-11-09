@@ -2803,6 +2803,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/listen-3.1.5/bin" />
       </excluded>
     </library>
+    <library name="log4r (v1.1.10, RVM: ruby-2.5.1 [hack-day]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hack-day/gems/log4r-1.1.10/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hack-day/gems/log4r-1.1.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hack-day/gems/log4r-1.1.10/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hack-day/gems/log4r-1.1.10/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hack-day/gems/log4r-1.1.10/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hack-day/gems/log4r-1.1.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hack-day/gems/log4r-1.1.10/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hack-day/gems/log4r-1.1.10/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hack-day/gems/log4r-1.1.10/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hack-day/gems/log4r-1.1.10/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hack-day/gems/log4r-1.1.10/examples" />
+      </excluded>
+    </library>
     <library name="log4r (v1.1.10, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -3715,6 +3737,25 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/oauth2-1.4.0/lib" />
       </SOURCES>
+    </library>
+    <library name="omnibus_web_services (v4.0.4, RVM: ruby-2.5.1 [hack-day]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hack-day/gems/omnibus_web_services-4.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hack-day/gems/omnibus_web_services-4.0.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hack-day/gems/omnibus_web_services-4.0.4/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hack-day/gems/omnibus_web_services-4.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hack-day/gems/omnibus_web_services-4.0.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hack-day/gems/omnibus_web_services-4.0.4/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hack-day/gems/omnibus_web_services-4.0.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hack-day/gems/omnibus_web_services-4.0.4/config" />
+      </excluded>
     </library>
     <library name="omnibus_web_services (v4.0.4, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
       <properties>
@@ -5223,6 +5264,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hack-day/gems/regexp_parser-1.2.0/test" />
+      </excluded>
+    </library>
+    <library name="require_all (v1.2.1, RVM: ruby-2.5.1 [hack-day]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hack-day/gems/require_all-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hack-day/gems/require_all-1.2.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hack-day/gems/require_all-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hack-day/gems/require_all-1.2.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@hack-day/gems/require_all-1.2.1/spec" />
       </excluded>
     </library>
     <library name="require_all (v1.2.1, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
