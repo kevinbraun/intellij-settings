@@ -5182,6 +5182,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/log4r-1.1.10/examples" />
       </excluded>
     </library>
+    <library name="log4r (v1.1.10, RVM: ruby-2.5.1 [rails-react-intro] (2)) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/log4r-1.1.10/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/log4r-1.1.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/log4r-1.1.10/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/log4r-1.1.10/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/log4r-1.1.10/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/log4r-1.1.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/log4r-1.1.10/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/log4r-1.1.10/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/log4r-1.1.10/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/log4r-1.1.10/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/log4r-1.1.10/examples" />
+      </excluded>
+    </library>
     <library name="loofah (v2.0.3, RVM: ruby-2.2.1 [bustxt]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -7010,6 +7032,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/omnibus_web_services-4.0.4/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/omnibus_web_services-4.0.4/config" />
+      </excluded>
+    </library>
+    <library name="omnibus_web_services (v4.0.4, RVM: ruby-2.5.1 [rails-react-intro] (2)) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/omnibus_web_services-4.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/omnibus_web_services-4.0.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/omnibus_web_services-4.0.4/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/omnibus_web_services-4.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/omnibus_web_services-4.0.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/omnibus_web_services-4.0.4/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/omnibus_web_services-4.0.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/omnibus_web_services-4.0.4/config" />
       </excluded>
     </library>
     <library name="openssl (v2.1.0, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
@@ -9497,6 +9538,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/require_all-1.2.1/spec" />
+      </excluded>
+    </library>
+    <library name="require_all (v1.2.1, RVM: ruby-2.5.1 [rails-react-intro] (2)) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/require_all-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/require_all-1.2.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/require_all-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/require_all-1.2.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/require_all-1.2.1/spec" />
       </excluded>
     </library>
     <library name="resource_handler (v0.0.5, RVM: ruby-2.3.3 [buswatch]) [gem]" type="rubylib">
