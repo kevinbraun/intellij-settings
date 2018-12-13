@@ -7904,6 +7904,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rack-cors-1.0.2/test" />
       </excluded>
     </library>
+    <library name="rack-cors (v1.0.2, RVM: ruby-2.5.1 [rails-react-intro] (2)) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/rack-cors-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/rack-cors-1.0.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/rack-cors-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/rack-cors-1.0.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/rack-cors-1.0.2/test" />
+      </excluded>
+    </library>
     <library name="rack-protection (v2.0.4, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
