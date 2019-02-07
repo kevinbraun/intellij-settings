@@ -7958,6 +7958,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/highline-1.7.8/examples" />
       </excluded>
     </library>
+    <library name="highline (v2.0.0, RVM: ruby-2.2.1 [bustxt]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/highline-2.0.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/highline-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/highline-2.0.0/site" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/highline-2.0.0/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/highline-2.0.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/highline-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/highline-2.0.0/site" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/highline-2.0.0/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/highline-2.0.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/highline-2.0.0/site" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/highline-2.0.0/examples" />
+      </excluded>
+    </library>
     <library name="highline (v2.0.0, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -15595,6 +15617,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-12.3.1/exe" />
       </excluded>
     </library>
+    <library name="rake (v12.3.2, RVM: ruby-2.2.1 [bustxt]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/rake-12.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/rake-12.3.2/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/rake-12.3.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/rake-12.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/rake-12.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/rake-12.3.2/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/rake-12.3.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/rake-12.3.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/rake-12.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/rake-12.3.2/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/rake-12.3.2/exe" />
+      </excluded>
+    </library>
     <library name="rake (v12.3.2, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -21764,6 +21808,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/transit_capistrano-1.1.41/lib" />
+      </SOURCES>
+    </library>
+    <library name="transit_capistrano (v1.1.42, RVM: ruby-2.2.1 [bustxt]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/transit_capistrano-1.1.42/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/transit_capistrano-1.1.42/lib" />
       </SOURCES>
     </library>
     <library name="transit_capistrano (v1.1.42, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
