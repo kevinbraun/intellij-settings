@@ -5276,6 +5276,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/dj_queue_monitor-2.0.0/config" />
       </excluded>
     </library>
+    <library name="dj_queue_monitor (v2.1.0, RVM: ruby-2.2.1 [bustxt]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/dj_queue_monitor-2.1.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/dj_queue_monitor-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/dj_queue_monitor-2.1.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/dj_queue_monitor-2.1.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/dj_queue_monitor-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/dj_queue_monitor-2.1.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@bustxt/gems/dj_queue_monitor-2.1.0/config" />
+      </excluded>
+    </library>
     <library name="docile (v1.1.4, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
