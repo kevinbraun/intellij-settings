@@ -17133,6 +17133,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/responders-2.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="retryable-rb (v1.1.0, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/retryable-rb-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/retryable-rb-1.1.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/retryable-rb-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/retryable-rb-1.1.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/retryable-rb-1.1.0/test" />
+      </excluded>
+    </library>
     <library name="rollbar (v2.14.1, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -18295,6 +18311,17 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@global/gems/rubygems-bundler-1.4.5/test" />
       </excluded>
+    </library>
+    <library name="rubypress (v1.2.2, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/rubypress-1.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/rubypress-1.2.2/lib" />
+      </SOURCES>
     </library>
     <library name="rubyzip (v1.2.0, RVM: ruby-2.2.1 [miniride]) [gem]" type="rubylib">
       <properties>
