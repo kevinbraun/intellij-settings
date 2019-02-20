@@ -4,6 +4,7 @@
       <mapping pattern="whatever" type="PLAIN_TEXT" />
       <mapping pattern="whatever2" type="PLAIN_TEXT" />
       <mapping pattern="kiosk-nfs-servers" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping ext="mac" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
     </extensionMap>
