@@ -10192,6 +10192,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/memoist-0.1.0/test" />
       </excluded>
     </library>
+    <library name="meta_request (v0.6.0, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/meta_request-0.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/meta_request-0.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="metaclass (v0.0.1, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -10458,6 +10469,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/mime-types-3.1/test" />
       </excluded>
     </library>
+    <library name="mime-types (v3.2.2, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mime-types-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mime-types-3.2.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mime-types-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mime-types-3.2.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mime-types-3.2.2/test" />
+      </excluded>
+    </library>
     <library name="mime-types-data (v3.2016.0521, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -10504,6 +10531,25 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/mime-types-data-3.2016.0521/data" />
+      </excluded>
+    </library>
+    <library name="mime-types-data (v3.2018.0812, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mime-types-data-3.2018.0812/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mime-types-data-3.2018.0812/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mime-types-data-3.2018.0812/types" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mime-types-data-3.2018.0812/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mime-types-data-3.2018.0812/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mime-types-data-3.2018.0812/types" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mime-types-data-3.2018.0812/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mime-types-data-3.2018.0812/types" />
       </excluded>
     </library>
     <library name="mimemagic (v0.3.0, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
@@ -14347,6 +14393,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/rack-2.0.6/contrib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/rack-2.0.6/example" />
       </excluded>
+    </library>
+    <library name="rack-contrib (v2.1.0, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rack-contrib-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rack-contrib-2.1.0/lib" />
+      </SOURCES>
     </library>
     <library name="rack-cors (v1.0.2, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
       <properties>
