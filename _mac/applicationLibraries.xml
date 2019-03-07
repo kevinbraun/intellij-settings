@@ -1,5 +1,13 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/jest" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/node" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="actioncable (v5.1.4, RVM: ruby-2.4.1 [telebus]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -8994,6 +9002,13 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/jwt-2.1.0/spec" />
       </excluded>
+    </library>
+    <library name="kevinnodesomethingorother" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="Node.js Core Modules" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="launchy (v2.4.3, RVM: ruby-2.2.1 [miniride]) [gem]" type="rubylib">
       <properties>
