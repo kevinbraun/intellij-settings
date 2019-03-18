@@ -12304,6 +12304,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-react-intro/gems/omnibus_web_services-4.0.4/config" />
       </excluded>
     </library>
+    <library name="omnibus_web_services (v4.1.0, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/omnibus_web_services-4.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/omnibus_web_services-4.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/omnibus_web_services-4.1.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/omnibus_web_services-4.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/omnibus_web_services-4.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/omnibus_web_services-4.1.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/omnibus_web_services-4.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/omnibus_web_services-4.1.0/config" />
+      </excluded>
+    </library>
     <library name="openssl (v2.0.3, RVM: ruby-2.4.1 [telebus]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
