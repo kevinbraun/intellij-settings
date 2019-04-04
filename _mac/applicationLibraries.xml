@@ -10,39 +10,71 @@
     </library>
     <library name="bigdecimal (v1.3.4, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES />
       <SOURCES />
     </library>
     <library name="bundler (v1.16.6, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
-      <CLASSES />
-      <SOURCES />
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/ui" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/cli" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/source" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/vendor" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/settings" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/installer" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/ssl_certs" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/templates" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/compact_index_client" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/ui" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/cli" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/source" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/vendor" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/settings" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/installer" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/ssl_certs" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/templates" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/compact_index_client" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/ui" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/cli" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/source" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/settings" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/installer" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/ssl_certs" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/templates" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/bundler/compact_index_client" />
+      </excluded>
     </library>
     <library name="bundler-unload (v1.0.2, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/bundler-unload-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/bundler-unload-1.0.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/bundler-unload-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/bundler-unload-1.0.2/lib" />
       </SOURCES>
-    </library>
-    <library name="cmath (v1.0.0, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
     </library>
     <library name="coderay (v1.1.1, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/coderay-1.1.1/bin" />
@@ -61,7 +93,7 @@
     </library>
     <library name="commander (v4.4.3, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/commander-4.4.3/bin" />
@@ -77,24 +109,10 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/commander-4.4.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/commander-4.4.3/spec" />
       </excluded>
-    </library>
-    <library name="csv (v1.0.0, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="date (v1.0.0, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
     </library>
     <library name="db_helper_tasks (v2.2.0, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/db_helper_tasks-2.2.0/lib" />
@@ -107,124 +125,89 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/db_helper_tasks-2.2.0/tasks" />
       </excluded>
-    </library>
-    <library name="dbm (v1.0.0, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
     </library>
     <library name="did_you_mean (v1.2.0, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/benchmark" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/evaluation" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/test" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/evaluation" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/benchmark" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/evaluation" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/test" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/evaluation" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/benchmark" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/evaluation" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/test" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/evaluation" />
       </excluded>
-    </library>
-    <library name="etc (v1.0.0, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
     </library>
     <library name="executable-hooks (v1.6.0, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.6.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.6.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.6.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.6.0/test-tf" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.6.0/test-tf-bundle" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.6.0/test-tf-truffleruby" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/executable-hooks-1.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/executable-hooks-1.6.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/executable-hooks-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/executable-hooks-1.6.0/test-tf" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/executable-hooks-1.6.0/test-tf-bundle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/executable-hooks-1.6.0/test-tf-truffleruby" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.6.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.6.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.6.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.6.0/test-tf" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.6.0/test-tf-bundle" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.6.0/test-tf-truffleruby" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/executable-hooks-1.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/executable-hooks-1.6.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/executable-hooks-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/executable-hooks-1.6.0/test-tf" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/executable-hooks-1.6.0/test-tf-bundle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/executable-hooks-1.6.0/test-tf-truffleruby" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.6.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.6.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.6.0/test-tf" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.6.0/test-tf-bundle" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/executable-hooks-1.6.0/test-tf-truffleruby" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/executable-hooks-1.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/executable-hooks-1.6.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/executable-hooks-1.6.0/test-tf" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/executable-hooks-1.6.0/test-tf-bundle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/executable-hooks-1.6.0/test-tf-truffleruby" />
       </excluded>
-    </library>
-    <library name="fcntl (v1.0.0, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
     </library>
     <library name="fiddle (v1.0.0, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="fileutils (v1.0.2, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="gdbm (v2.0.0, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES />
       <SOURCES />
     </library>
     <library name="gem-wrappers (v1.4.0, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/gem-wrappers-1.4.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/gem-wrappers-1.4.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/gem-wrappers-1.4.0/test" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/gem-wrappers-1.4.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/gem-wrappers-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/gem-wrappers-1.4.0/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/gem-wrappers-1.4.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/gem-wrappers-1.4.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/gem-wrappers-1.4.0/test" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/gem-wrappers-1.4.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/gem-wrappers-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/gem-wrappers-1.4.0/test" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/gem-wrappers-1.4.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/gem-wrappers-1.4.0/test" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/gem-wrappers-1.4.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/gem-wrappers-1.4.0/test" />
       </excluded>
     </library>
     <library name="highline (v1.7.8, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/highline-1.7.8/doc" />
@@ -249,21 +232,14 @@
     </library>
     <library name="io-console (v0.4.6, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="ipaddr (v1.2.0, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES />
       <SOURCES />
     </library>
     <library name="json (v2.1.0, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/json/add" />
@@ -284,7 +260,7 @@
     </library>
     <library name="method_source (v0.8.2, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/method_source-0.8.2/lib" />
@@ -300,26 +276,25 @@
     </library>
     <library name="minitest (v5.10.3, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/minitest-5.10.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/minitest-5.10.3/test" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/minitest-5.10.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/minitest-5.10.3/test" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/test" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/minitest-5.10.3/test" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/test" />
       </excluded>
     </library>
     <library name="mysql2 (v0.5.2, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/mysql2/0.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/mysql2-0.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/mysql2-0.5.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/mysql2-0.5.2/spec" />
@@ -327,7 +302,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/mysql2-0.5.2/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/mysql2/0.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/mysql2-0.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/mysql2-0.5.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/mysql2-0.5.2/spec" />
@@ -343,30 +317,30 @@
     </library>
     <library name="net-telnet (v0.1.1, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/net-telnet-0.1.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/net-telnet-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/net-telnet-0.1.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/net-telnet-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/lib" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/net-telnet-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/bin" />
       </excluded>
     </library>
     <library name="openssl (v2.1.0, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES />
       <SOURCES />
     </library>
     <library name="pandoc-ruby (v2.0.2, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/pandoc-ruby-2.0.2/lib" />
@@ -382,23 +356,23 @@
     </library>
     <library name="power_assert (v1.1.1, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/power_assert-1.1.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/power_assert-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/power_assert-1.1.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/power_assert-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/lib" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/power_assert-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/bin" />
       </excluded>
     </library>
     <library name="pry (v0.10.4, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/pry-0.10.4/bin" />
@@ -414,7 +388,7 @@
     </library>
     <library name="psych (v3.0.2, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/psych/json" />
@@ -437,29 +411,29 @@
     </library>
     <library name="rake (v12.3.0, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/lib" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rake-12.3.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/exe" />
       </excluded>
     </library>
     <library name="rake (v12.3.1, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/rake-12.3.1/bin" />
@@ -481,7 +455,7 @@
     </library>
     <library name="rdoc (v6.0.1, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/rd" />
@@ -519,7 +493,7 @@
     </library>
     <library name="retryable-rb (v1.1.0, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/retryable-rb-1.1.0/lib" />
@@ -535,17 +509,15 @@
     </library>
     <library name="ruby-oci8 (v2.2.3, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ruby-oci8/2.2.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/ruby-oci8-2.2.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/ruby-oci8-2.2.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/ruby-oci8-2.2.3/docs" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/ruby-oci8-2.2.3/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ruby-oci8/2.2.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/ruby-oci8-2.2.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/ruby-oci8-2.2.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/ruby-oci8-2.2.3/docs" />
@@ -559,23 +531,23 @@
     </library>
     <library name="rubygems-bundler (v1.4.5, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rubygems-bundler-1.4.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rubygems-bundler-1.4.5/test" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rubygems-bundler-1.4.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rubygems-bundler-1.4.5/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rubygems-bundler-1.4.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rubygems-bundler-1.4.5/test" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rubygems-bundler-1.4.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rubygems-bundler-1.4.5/test" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rubygems-bundler-1.4.5/test" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rubygems-bundler-1.4.5/test" />
       </excluded>
     </library>
     <library name="rubypress (v1.2.2, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/rubypress-1.2.2/lib" />
@@ -586,32 +558,18 @@
     </library>
     <library name="rvm (v1.11.3.9, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rvm-1.11.3.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rvm-1.11.3.9/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rvm-1.11.3.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rvm-1.11.3.9/lib" />
       </SOURCES>
-    </library>
-    <library name="scanf (v1.0.0, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="sdbm (v1.0.0, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
     </library>
     <library name="sequel (v4.47.0, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/sequel-4.47.0/bin" />
@@ -633,7 +591,7 @@
     </library>
     <library name="slop (v3.6.0, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/slop-3.6.0/lib" />
@@ -647,45 +605,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/slop-3.6.0/test" />
       </excluded>
     </library>
-    <library name="stringio (v0.0.1, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="strscan (v1.0.0, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="test-unit (v3.2.7, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/test-unit-3.2.7/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/test-unit-3.2.7/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/test-unit-3.2.7/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/test-unit-3.2.7/sample" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/doc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/test" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/sample" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/test-unit-3.2.7/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/test-unit-3.2.7/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/test-unit-3.2.7/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/test-unit-3.2.7/sample" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/doc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/test" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/sample" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/test-unit-3.2.7/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/test-unit-3.2.7/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/test-unit-3.2.7/sample" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/doc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/test" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/sample" />
       </excluded>
     </library>
     <library name="titleize (v1.4.1, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/titleize-1.4.1/lib" />
@@ -701,7 +645,7 @@
     </library>
     <library name="webrick (v1.4.2, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/webrick/httpauth" />
@@ -718,26 +662,19 @@
     </library>
     <library name="xmlrpc (v0.3.0, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/xmlrpc-0.3.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/xmlrpc-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/xmlrpc-0.3.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/xmlrpc-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/lib" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/xmlrpc-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/bin" />
       </excluded>
-    </library>
-    <library name="zlib (v1.0.0, RVM: ruby-2.5.1 [transit-website-services]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
     </library>
   </component>
 </application>
