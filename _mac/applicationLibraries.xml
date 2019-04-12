@@ -1629,6 +1629,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/faraday-0.15.4/lib" />
       </SOURCES>
     </library>
+    <library name="fast-polylines (v1.0.0, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/fast-polylines-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/fast-polylines-1.0.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/fast-polylines-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/fast-polylines-1.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/fast-polylines-1.0.0/spec" />
+      </excluded>
+    </library>
     <library name="ffi (v1.10.0, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5389,6 +5405,33 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/bundler/gems/transit_maps_api-f16a04859e12/.git" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/bundler/gems/transit_maps_api-f16a04859e12/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/bundler/gems/transit_maps_api-f16a04859e12/config" />
+      </excluded>
+    </library>
+    <library name="transit_maps_api (v0.0.2.pre@2c0670, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/bundler/gems/transit_maps_api-2c0670c7daea/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/bundler/gems/transit_maps_api-2c0670c7daea/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/bundler/gems/transit_maps_api-2c0670c7daea/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/bundler/gems/transit_maps_api-2c0670c7daea/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/bundler/gems/transit_maps_api-2c0670c7daea/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/bundler/gems/transit_maps_api-2c0670c7daea/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/bundler/gems/transit_maps_api-2c0670c7daea/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/bundler/gems/transit_maps_api-2c0670c7daea/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/bundler/gems/transit_maps_api-2c0670c7daea/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/bundler/gems/transit_maps_api-2c0670c7daea/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/bundler/gems/transit_maps_api-2c0670c7daea/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/bundler/gems/transit_maps_api-2c0670c7daea/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/bundler/gems/transit_maps_api-2c0670c7daea/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/bundler/gems/transit_maps_api-2c0670c7daea/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/bundler/gems/transit_maps_api-2c0670c7daea/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/bundler/gems/transit_maps_api-2c0670c7daea/config" />
       </excluded>
     </library>
     <library name="transit_maps_api (v0.0.2.pre@38b8e1, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
