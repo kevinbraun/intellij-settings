@@ -1383,6 +1383,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/concurrent-ruby-1.1.5/ext" />
       </excluded>
     </library>
+    <library name="concurrent-ruby (v1.1.5, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/concurrent-ruby-1.1.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/concurrent-ruby-1.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/concurrent-ruby-1.1.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/concurrent-ruby-1.1.5/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/concurrent-ruby-1.1.5/ext" />
+      </excluded>
+    </library>
     <library name="connection_pool (v2.2.2, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2378,6 +2394,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/faraday-0.15.4/lib" />
       </SOURCES>
     </library>
+    <library name="faraday (v0.15.4, RVM: ruby-2.5.1 [trn-rollbar-patch]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/faraday-0.15.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/faraday-0.15.4/lib" />
+      </SOURCES>
+    </library>
     <library name="faraday (v0.15.4, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2716,6 +2743,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/geminabox-1.1.1/public" />
       </excluded>
     </library>
+    <library name="geminabox (v1.1.1, RVM: ruby-2.5.1 [trn-rollbar-patch]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/geminabox-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/geminabox-1.1.1/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/geminabox-1.1.1/public" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/geminabox-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/geminabox-1.1.1/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/geminabox-1.1.1/public" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/geminabox-1.1.1/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/geminabox-1.1.1/public" />
+      </excluded>
+    </library>
     <library name="geminabox (v1.1.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2978,6 +3024,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httpclient-2.8.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httpclient-2.8.3/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httpclient-2.8.3/sample" />
+      </excluded>
+    </library>
+    <library name="httpclient (v2.8.3, RVM: ruby-2.5.1 [trn-rollbar-patch]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/httpclient-2.8.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/httpclient-2.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/httpclient-2.8.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/httpclient-2.8.3/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/httpclient-2.8.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/httpclient-2.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/httpclient-2.8.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/httpclient-2.8.3/sample" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/httpclient-2.8.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/httpclient-2.8.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/httpclient-2.8.3/sample" />
       </excluded>
     </library>
     <library name="httpclient (v2.8.3, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -4019,6 +4087,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/multipart-post-2.0.0/test" />
       </excluded>
     </library>
+    <library name="multipart-post (v2.0.0, RVM: ruby-2.5.1 [trn-rollbar-patch]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/multipart-post-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/multipart-post-2.0.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/multipart-post-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/multipart-post-2.0.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/multipart-post-2.0.0/test" />
+      </excluded>
+    </library>
     <library name="multipart-post (v2.0.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4052,6 +4136,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mustermann-1.0.3/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mustermann-1.0.3/bench" />
+      </excluded>
+    </library>
+    <library name="mustermann (v1.0.3, RVM: ruby-2.5.1 [trn-rollbar-patch]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/mustermann-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/mustermann-1.0.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/mustermann-1.0.3/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/mustermann-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/mustermann-1.0.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/mustermann-1.0.3/bench" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/mustermann-1.0.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/mustermann-1.0.3/bench" />
       </excluded>
     </library>
     <library name="mustermann (v1.0.3, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -4115,6 +4218,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nesty-1.0.2/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nesty-1.0.2/examples" />
+      </excluded>
+    </library>
+    <library name="nesty (v1.0.2, RVM: ruby-2.5.1 [trn-rollbar-patch]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/nesty-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/nesty-1.0.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/nesty-1.0.2/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/nesty-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/nesty-1.0.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/nesty-1.0.2/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/nesty-1.0.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/nesty-1.0.2/examples" />
       </excluded>
     </library>
     <library name="nesty (v1.0.2, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -5263,6 +5385,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rack-protection-2.0.5/lib" />
       </SOURCES>
     </library>
+    <library name="rack-protection (v2.0.5, RVM: ruby-2.5.1 [trn-rollbar-patch]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/rack-protection-2.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/rack-protection-2.0.5/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-protection (v2.0.5, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5483,6 +5616,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/rake-10.5.0/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/rake-10.5.0/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/rake-10.5.0/rakelib" />
+      </excluded>
+    </library>
+    <library name="rake (v10.5.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-10.5.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-10.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-10.5.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-10.5.0/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-10.5.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-10.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-10.5.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-10.5.0/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-10.5.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-10.5.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rake-10.5.0/rakelib" />
       </excluded>
     </library>
     <library name="rake (v12.3.0, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
@@ -6242,6 +6400,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/reentrant_flock-0.1.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/reentrant_flock-0.1.1/example" />
+      </excluded>
+    </library>
+    <library name="reentrant_flock (v0.1.1, RVM: ruby-2.5.1 [trn-rollbar-patch]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/reentrant_flock-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/reentrant_flock-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/reentrant_flock-0.1.1/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/reentrant_flock-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/reentrant_flock-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/reentrant_flock-0.1.1/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/reentrant_flock-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/reentrant_flock-0.1.1/example" />
       </excluded>
     </library>
     <library name="reentrant_flock (v0.1.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -7056,6 +7233,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/sinatra-2.0.5/examples" />
       </excluded>
     </library>
+    <library name="sinatra (v2.0.5, RVM: ruby-2.5.1 [trn-rollbar-patch]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/sinatra-2.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/sinatra-2.0.5/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/sinatra-2.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/sinatra-2.0.5/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/sinatra-2.0.5/examples" />
+      </excluded>
+    </library>
     <library name="sinatra (v2.0.5, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7533,6 +7726,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/tilt-2.0.9/man" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/tilt-2.0.9/docs" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/tilt-2.0.9/test" />
+      </excluded>
+    </library>
+    <library name="tilt (v2.0.9, RVM: ruby-2.5.1 [trn-rollbar-patch]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/tilt-2.0.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/tilt-2.0.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/tilt-2.0.9/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/tilt-2.0.9/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/tilt-2.0.9/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/tilt-2.0.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/tilt-2.0.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/tilt-2.0.9/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/tilt-2.0.9/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/tilt-2.0.9/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/tilt-2.0.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/tilt-2.0.9/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/tilt-2.0.9/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/tilt-2.0.9/test" />
       </excluded>
     </library>
     <library name="tilt (v2.0.9, RVM: ruby-2.5.1) [gem]" type="rubylib">
