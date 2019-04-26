@@ -2383,6 +2383,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/factory_bot_rails-4.11.1/lib" />
       </SOURCES>
     </library>
+    <library name="faker (v1.9.3, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/faker-1.9.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/faker-1.9.3/lib" />
+      </SOURCES>
+    </library>
     <library name="faraday (v0.15.4, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7157,6 +7168,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/sequel-4.47.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/sequel-4.47.0/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/sequel-4.47.0/spec" />
+      </excluded>
+    </library>
+    <library name="shoulda-matchers (v4.0.1, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/shoulda-matchers-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/shoulda-matchers-4.0.1/docs" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/shoulda-matchers-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/shoulda-matchers-4.0.1/docs" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/shoulda-matchers-4.0.1/docs" />
       </excluded>
     </library>
     <library name="sidekiq (v5.2.3, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
