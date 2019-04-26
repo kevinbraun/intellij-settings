@@ -2137,6 +2137,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@trn-rollbar-patch/gems/erubi-1.8.0/test" />
       </excluded>
     </library>
+    <library name="et-orbi (v1.2.0, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/et-orbi-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/et-orbi-1.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="executable-hooks (v1.6.0, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2563,6 +2574,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/foreman-0.85.0/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/foreman-0.85.0/spec" />
       </excluded>
+    </library>
+    <library name="fugit (v1.2.0, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/fugit-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/fugit-1.2.0/lib" />
+      </SOURCES>
     </library>
     <library name="gem-wrappers (v1.4.0, RVM: ruby-2.2.1) [gem]" type="rubylib">
       <properties>
@@ -5283,6 +5305,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/puma-3.12.0/tools" />
       </excluded>
     </library>
+    <library name="raabro (v1.1.6, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/raabro-1.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/raabro-1.1.6/lib" />
+      </SOURCES>
+    </library>
     <library name="rack (v2.0.6, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7031,6 +7064,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit-website-services/gems/rubypress-1.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rufus-scheduler (v3.6.0, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rufus-scheduler-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rufus-scheduler-3.6.0/lib" />
       </SOURCES>
     </library>
     <library name="rvm (v1.11.3.9, RVM: ruby-2.2.1) [gem]" type="rubylib">
