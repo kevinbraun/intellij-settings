@@ -3446,44 +3446,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/fugit-1.2.0/lib" />
       </SOURCES>
     </library>
-    <library name="gem-wrappers (v1.4.0, RVM: ruby-2.2.1 [global]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/gem-wrappers-1.4.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/gem-wrappers-1.4.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/gem-wrappers-1.4.0/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/gem-wrappers-1.4.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/gem-wrappers-1.4.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/gem-wrappers-1.4.0/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/gem-wrappers-1.4.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/gem-wrappers-1.4.0/test" />
-      </excluded>
-    </library>
-    <library name="gem-wrappers (v1.4.0, RVM: ruby-2.2.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/gem-wrappers-1.4.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/gem-wrappers-1.4.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/gem-wrappers-1.4.0/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/gem-wrappers-1.4.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/gem-wrappers-1.4.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/gem-wrappers-1.4.0/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/gem-wrappers-1.4.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/gem-wrappers-1.4.0/test" />
-      </excluded>
-    </library>
     <library name="gem-wrappers (v1.4.0, RVM: ruby-2.4.1 [telebus]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9143,28 +9105,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rufus-scheduler-3.6.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="rvm (v1.11.3.9, RVM: ruby-2.2.1 [global]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/rvm-1.11.3.9/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/rvm-1.11.3.9/lib" />
-      </SOURCES>
-    </library>
-    <library name="rvm (v1.11.3.9, RVM: ruby-2.2.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/rvm-1.11.3.9/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/rvm-1.11.3.9/lib" />
       </SOURCES>
     </library>
     <library name="rvm (v1.11.3.9, RVM: ruby-2.4.1 [telebus]) [gem]" type="rubylib">
