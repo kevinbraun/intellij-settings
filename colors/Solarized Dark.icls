@@ -1,7 +1,8 @@
 <scheme name="Solarized Dark" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="" />
     <option name="ANNOTATIONS_COLOR" value="2b36" />
@@ -86,7 +87,7 @@
         <option name="FOREGROUND" value="839496" />
       </value>
     </option>
-    <option name="CONSOLE_RANGE_TO_EXECUTE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
+    <option name="CONSOLE_RANGE_TO_EXECUTE" baseAttributes="" />
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
         <option name="FOREGROUND" value="93a1a1" />
@@ -1033,7 +1034,7 @@
         <option name="FOREGROUND" value="d33682" />
       </value>
     </option>
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="" />
     <option name="STATIC_METHOD_ATTRIBUTES">
       <value />
     </option>
