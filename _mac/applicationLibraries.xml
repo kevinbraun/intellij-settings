@@ -5416,6 +5416,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/responders-2.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="rollbar (v2.20.1, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rollbar-2.20.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rollbar-2.20.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rollbar-2.20.1/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rollbar-2.20.1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rollbar-2.20.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rollbar-2.20.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rollbar-2.20.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rollbar-2.20.1/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rollbar-2.20.1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rollbar-2.20.1/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rollbar-2.20.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rollbar-2.20.1/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rollbar-2.20.1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rollbar-2.20.1/gemfiles" />
+      </excluded>
+    </library>
     <library name="rspec (v3.8.0, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6382,6 +6407,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/gems/sqlite3-1.3.13/faq" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/gems/sqlite3-1.3.13/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/gems/sqlite3-1.3.13/tasks" />
+      </excluded>
+    </library>
+    <library name="sucker_punch (v2.1.2, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/sucker_punch-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/sucker_punch-2.1.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/sucker_punch-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/sucker_punch-2.1.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/sucker_punch-2.1.2/test" />
       </excluded>
     </library>
     <library name="terminus (v4.0.0, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
