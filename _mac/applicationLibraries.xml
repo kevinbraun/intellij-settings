@@ -1,5 +1,9 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/jest" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="action-cable-testing (v0.5.0, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
