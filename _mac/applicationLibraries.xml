@@ -6763,6 +6763,33 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/bundler/gems/transit_maps_api-6fcfc5063686/config" />
       </excluded>
     </library>
+    <library name="transit_maps_api (v0.0.2.pre@6fcfc5, RVM: ruby-2.5.1 [transit_maps_jsl_da]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/bundler/gems/transit_maps_api-6fcfc5063686/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/bundler/gems/transit_maps_api-6fcfc5063686/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/bundler/gems/transit_maps_api-6fcfc5063686/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/bundler/gems/transit_maps_api-6fcfc5063686/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/bundler/gems/transit_maps_api-6fcfc5063686/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/bundler/gems/transit_maps_api-6fcfc5063686/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/bundler/gems/transit_maps_api-6fcfc5063686/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/bundler/gems/transit_maps_api-6fcfc5063686/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/bundler/gems/transit_maps_api-6fcfc5063686/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/bundler/gems/transit_maps_api-6fcfc5063686/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/bundler/gems/transit_maps_api-6fcfc5063686/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/bundler/gems/transit_maps_api-6fcfc5063686/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/bundler/gems/transit_maps_api-6fcfc5063686/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/bundler/gems/transit_maps_api-6fcfc5063686/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/bundler/gems/transit_maps_api-6fcfc5063686/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/bundler/gems/transit_maps_api-6fcfc5063686/config" />
+      </excluded>
+    </library>
     <library name="transit_maps_api (v0.0.2.pre@a37736, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
