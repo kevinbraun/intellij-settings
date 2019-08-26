@@ -37,6 +37,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/gems/actioncable-5.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="actioncable (v5.2.3, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/actioncable-5.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/actioncable-5.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="actioncable (v6.0.0.rc1, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -93,6 +104,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/gems/actionmailer-5.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="actionmailer (v5.2.3, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/actionmailer-5.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/actionmailer-5.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailer (v6.0.0.rc1, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -124,6 +146,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/gems/actionpack-5.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionpack (v5.2.3, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/actionpack-5.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/actionpack-5.2.3/lib" />
       </SOURCES>
     </library>
     <library name="actionpack (v6.0.0.rc1, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
@@ -177,6 +210,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/gems/actionview-5.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="actionview (v5.2.3, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/actionview-5.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/actionview-5.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="actionview (v6.0.0.rc1, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -226,6 +270,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/gems/activejob-5.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="activejob (v5.2.3, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/activejob-5.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/activejob-5.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="activejob (v6.0.0.rc1, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -257,6 +312,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/gems/activemodel-5.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v5.2.3, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/activemodel-5.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/activemodel-5.2.3/lib" />
       </SOURCES>
     </library>
     <library name="activemodel (v6.0.0.rc1, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
@@ -300,6 +366,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/gems/activerecord-5.2.2/examples" />
+      </excluded>
+    </library>
+    <library name="activerecord (v5.2.3, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/activerecord-5.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/activerecord-5.2.3/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/activerecord-5.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/activerecord-5.2.3/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/activerecord-5.2.3/examples" />
       </excluded>
     </library>
     <library name="activerecord (v6.0.0.rc1, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
@@ -392,6 +474,27 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/gems/activestorage-5.2.2/config" />
       </excluded>
     </library>
+    <library name="activestorage (v5.2.3, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/activestorage-5.2.3/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/activestorage-5.2.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/activestorage-5.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/activestorage-5.2.3/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/activestorage-5.2.3/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/activestorage-5.2.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/activestorage-5.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/activestorage-5.2.3/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/activestorage-5.2.3/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/activestorage-5.2.3/config" />
+      </excluded>
+    </library>
     <library name="activestorage (v6.0.0.rc1, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -433,6 +536,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/gems/activesupport-5.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v5.2.3, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/activesupport-5.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/activesupport-5.2.3/lib" />
       </SOURCES>
     </library>
     <library name="activesupport (v6.0.0.rc1, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
@@ -2660,6 +2774,25 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/gem-wrappers-1.4.0/test" />
       </excluded>
     </library>
+    <library name="geminabox (v1.1.1, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/geminabox-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/geminabox-1.1.1/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/geminabox-1.1.1/public" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/geminabox-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/geminabox-1.1.1/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/geminabox-1.1.1/public" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/geminabox-1.1.1/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/geminabox-1.1.1/public" />
+      </excluded>
+    </library>
     <library name="globalid (v0.4.1, RVM: ruby-2.5.1 [transit_maps_jsl_da]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2843,6 +2976,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httparty-0.16.3/script" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httparty-0.16.3/website" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httparty-0.16.3/examples" />
+      </excluded>
+    </library>
+    <library name="httpclient (v2.8.3, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httpclient-2.8.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httpclient-2.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httpclient-2.8.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httpclient-2.8.3/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httpclient-2.8.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httpclient-2.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httpclient-2.8.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httpclient-2.8.3/sample" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httpclient-2.8.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httpclient-2.8.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httpclient-2.8.3/sample" />
       </excluded>
     </library>
     <library name="i18n (v1.3.0, RVM: ruby-2.5.1 [transit_maps_jsl_da]) [gem]" type="rubylib">
@@ -3560,6 +3715,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/gems/mini_mime-1.0.1/bench" />
       </excluded>
     </library>
+    <library name="mini_mime (v1.0.2, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mini_mime-1.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mini_mime-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mini_mime-1.0.2/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mini_mime-1.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mini_mime-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mini_mime-1.0.2/bench" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mini_mime-1.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mini_mime-1.0.2/bench" />
+      </excluded>
+    </library>
     <library name="mini_portile2 (v2.4.0, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3839,6 +4013,44 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/multipart-post-2.0.0/test" />
       </excluded>
     </library>
+    <library name="mustermann (v1.0.3, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mustermann-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mustermann-1.0.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mustermann-1.0.3/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mustermann-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mustermann-1.0.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mustermann-1.0.3/bench" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mustermann-1.0.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mustermann-1.0.3/bench" />
+      </excluded>
+    </library>
+    <library name="nesty (v1.0.2, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nesty-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nesty-1.0.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nesty-1.0.2/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nesty-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nesty-1.0.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nesty-1.0.2/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nesty-1.0.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nesty-1.0.2/examples" />
+      </excluded>
+    </library>
     <library name="net-ldap (v0.16.1, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4045,6 +4257,33 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/gems/nio4r-2.3.1/examples" />
       </excluded>
     </library>
+    <library name="nio4r (v2.4.0, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.4.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nio4r-2.4.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nio4r-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nio4r-2.4.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nio4r-2.4.0/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nio4r-2.4.0/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.4.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nio4r-2.4.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nio4r-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nio4r-2.4.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nio4r-2.4.0/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nio4r-2.4.0/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nio4r-2.4.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nio4r-2.4.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nio4r-2.4.0/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nio4r-2.4.0/examples" />
+      </excluded>
+    </library>
     <library name="nokogiri (v1.10.3, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4089,6 +4328,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nokogiri-1.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nokogiri-1.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nokogiri-1.10.3/patches" />
+      </excluded>
+    </library>
+    <library name="nokogiri (v1.10.4, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.10.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nokogiri-1.10.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nokogiri-1.10.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nokogiri-1.10.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nokogiri-1.10.4/patches" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.10.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nokogiri-1.10.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nokogiri-1.10.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nokogiri-1.10.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nokogiri-1.10.4/patches" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nokogiri-1.10.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nokogiri-1.10.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nokogiri-1.10.4/patches" />
       </excluded>
     </library>
     <library name="nokogiri (v1.9.1, RVM: ruby-2.5.1 [transit_maps_jsl_da]) [gem]" type="rubylib">
@@ -4671,6 +4934,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rack-protection-2.0.5/lib" />
       </SOURCES>
     </library>
+    <library name="rack-protection (v2.0.7, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rack-protection-2.0.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rack-protection-2.0.7/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-proxy (v0.6.5, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4744,6 +5018,13 @@
       <SOURCES />
     </library>
     <library name="rails (v5.2.2, RVM: ruby-2.5.1 [transit_maps_jsl_da]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="rails (v5.2.3, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -4869,6 +5150,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/gems/rails-html-sanitizer-1.0.4/test" />
       </excluded>
     </library>
+    <library name="rails-html-sanitizer (v1.2.0, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rails-html-sanitizer-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rails-html-sanitizer-1.2.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rails-html-sanitizer-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rails-html-sanitizer-1.2.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rails-html-sanitizer-1.2.0/test" />
+      </excluded>
+    </library>
     <library name="rails-static-router (v1.0.0, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4915,6 +5212,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/gems/railties-5.2.2/exe" />
+      </excluded>
+    </library>
+    <library name="railties (v5.2.3, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/railties-5.2.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/railties-5.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/railties-5.2.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/railties-5.2.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/railties-5.2.3/exe" />
       </excluded>
     </library>
     <library name="railties (v6.0.0.rc1, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
@@ -5085,6 +5398,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/gems/rake-12.3.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/gems/rake-12.3.2/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/gems/rake-12.3.2/exe" />
+      </excluded>
+    </library>
+    <library name="rake (v12.3.3, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rake-12.3.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rake-12.3.3/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rake-12.3.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rake-12.3.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rake-12.3.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rake-12.3.3/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rake-12.3.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rake-12.3.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rake-12.3.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rake-12.3.3/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rake-12.3.3/exe" />
       </excluded>
     </library>
     <library name="rake-progressbar (v0.0.5, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
@@ -5474,6 +5809,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/redis-store-1.6.0/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/redis-store-1.6.0/gemfiles" />
+      </excluded>
+    </library>
+    <library name="reentrant_flock (v0.1.1, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/reentrant_flock-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/reentrant_flock-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/reentrant_flock-0.1.1/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/reentrant_flock-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/reentrant_flock-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/reentrant_flock-0.1.1/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/reentrant_flock-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/reentrant_flock-0.1.1/example" />
       </excluded>
     </library>
     <library name="ref (v2.0.0, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
@@ -6431,6 +6785,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/simplecov-rcov-0.2.3/assets" />
       </excluded>
     </library>
+    <library name="sinatra (v2.0.7, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/sinatra-2.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/sinatra-2.0.7/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/sinatra-2.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/sinatra-2.0.7/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/sinatra-2.0.7/examples" />
+      </excluded>
+    </library>
     <library name="spring (v2.0.2, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6907,6 +7277,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/tilt-2.0.9/man" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/tilt-2.0.9/docs" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/tilt-2.0.9/test" />
+      </excluded>
+    </library>
+    <library name="tilt (v2.0.9, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/tilt-2.0.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/tilt-2.0.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/tilt-2.0.9/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/tilt-2.0.9/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/tilt-2.0.9/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/tilt-2.0.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/tilt-2.0.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/tilt-2.0.9/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/tilt-2.0.9/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/tilt-2.0.9/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/tilt-2.0.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/tilt-2.0.9/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/tilt-2.0.9/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/tilt-2.0.9/test" />
       </excluded>
     </library>
     <library name="tilt (v2.0.9, RVM: ruby-2.5.1 [transit_maps_jsl_da]) [gem]" type="rubylib">
@@ -7386,6 +7781,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/gems/websocket-driver-0.7.0/ext" />
       </excluded>
     </library>
+    <library name="websocket-driver (v0.7.1, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/websocket-driver/0.7.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/websocket-driver-0.7.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/websocket-driver-0.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/websocket-driver/0.7.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/websocket-driver-0.7.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/websocket-driver-0.7.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/websocket-driver-0.7.1/ext" />
+      </excluded>
+    </library>
     <library name="websocket-extensions (v0.1.3, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7417,6 +7830,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/gems/websocket-extensions-0.1.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="websocket-extensions (v0.1.4, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/websocket-extensions-0.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/websocket-extensions-0.1.4/lib" />
       </SOURCES>
     </library>
     <library name="xmlrpc (v0.3.0, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
