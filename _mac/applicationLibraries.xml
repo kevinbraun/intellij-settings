@@ -2854,6 +2854,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/childprocess-0.8.0/spec" />
       </excluded>
     </library>
+    <library name="childprocess (v0.9.0, RVM: ruby-2.2.1 [ufare]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ufare/gems/childprocess-0.9.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ufare/gems/childprocess-0.9.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ufare/gems/childprocess-0.9.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ufare/gems/childprocess-0.9.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ufare/gems/childprocess-0.9.0/spec" />
+      </excluded>
+    </library>
     <library name="childprocess (v0.9.0, RVM: ruby-2.5.1 [transit_maps_jsl_da]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5618,6 +5634,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/ffi-1.10.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/ffi-1.10.0/samples" />
+      </excluded>
+    </library>
+    <library name="ffi (v1.11.1, RVM: ruby-2.2.1 [ufare]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ufare/gems/ffi-1.11.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ufare/gems/ffi-1.11.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ufare/gems/ffi-1.11.1/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ufare/gems/ffi-1.11.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ufare/gems/ffi-1.11.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ufare/gems/ffi-1.11.1/samples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ufare/gems/ffi-1.11.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ufare/gems/ffi-1.11.1/samples" />
       </excluded>
     </library>
     <library name="ffi (v1.11.1, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
@@ -9587,6 +9622,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ufare/gems/nokogiri-1.7.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ufare/gems/nokogiri-1.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ufare/gems/nokogiri-1.7.2/lib" />
@@ -9596,6 +9632,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ufare/gems/nokogiri-1.7.2/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ufare/gems/nokogiri-1.7.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ufare/gems/nokogiri-1.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ufare/gems/nokogiri-1.7.2/lib" />
@@ -14493,6 +14530,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ufare/gems/selenium-webdriver-2.45.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.14.1, RVM: ruby-2.2.1 [ufare]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ufare/gems/selenium-webdriver-3.14.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@ufare/gems/selenium-webdriver-3.14.1/lib" />
       </SOURCES>
     </library>
     <library name="selenium-webdriver (v3.141.0, RVM: ruby-2.5.1 [transit_maps_jsl_da]) [gem]" type="rubylib">
