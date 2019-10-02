@@ -1014,6 +1014,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/gems/activesupport-5.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v6.0.0, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/activesupport-6.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/activesupport-6.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="activesupport (v6.0.0, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1669,11 +1680,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bindex/0.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/bindex-0.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/bindex-0.7.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/bindex-0.7.0/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bindex/0.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/bindex-0.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/bindex-0.7.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/bindex-0.7.0/test" />
@@ -1728,12 +1741,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bootsnap/1.4.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/bootsnap-1.4.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/bootsnap-1.4.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/bootsnap-1.4.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/bootsnap-1.4.4/.github" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bootsnap/1.4.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/bootsnap-1.4.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/bootsnap-1.4.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/bootsnap-1.4.4/lib" />
@@ -2670,11 +2685,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/11.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/byebug-11.0.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/byebug-11.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/byebug-11.0.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/11.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/byebug-11.0.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/byebug-11.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/byebug-11.0.1/lib" />
@@ -6909,11 +6926,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/hiredis/0.6.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/hiredis-0.6.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/hiredis-0.6.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/hiredis-0.6.3/vendor" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/hiredis/0.6.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/hiredis-0.6.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/hiredis-0.6.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/hiredis-0.6.3/vendor" />
@@ -9293,6 +9312,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/msgpack/1.2.10" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/msgpack-1.2.10/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/msgpack-1.2.10/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/msgpack-1.2.10/spec" />
@@ -9300,6 +9320,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/msgpack-1.2.10/doclib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/msgpack/1.2.10" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/msgpack-1.2.10/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/msgpack-1.2.10/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/msgpack-1.2.10/spec" />
@@ -11278,6 +11299,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.12.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/puma-3.12.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/puma-3.12.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/puma-3.12.1/lib" />
@@ -11285,6 +11307,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/puma-3.12.1/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.12.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/puma-3.12.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/puma-3.12.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/puma-3.12.1/lib" />
@@ -12773,6 +12796,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/gems/rake-12.3.2/exe" />
       </excluded>
     </library>
+    <library name="rake (v12.3.3, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/rake-12.3.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/rake-12.3.3/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/rake-12.3.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/rake-12.3.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/rake-12.3.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/rake-12.3.3/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/rake-12.3.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/rake-12.3.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/rake-12.3.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/rake-12.3.3/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/rake-12.3.3/exe" />
+      </excluded>
+    </library>
     <library name="rake (v12.3.3, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12816,11 +12861,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/rb-fsevent-0.10.3/lib" />
@@ -14518,12 +14565,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ruby-oci8/2.2.7" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/ruby-oci8-2.2.7/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/ruby-oci8-2.2.7/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/ruby-oci8-2.2.7/docs" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/ruby-oci8-2.2.7/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ruby-oci8/2.2.7" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/ruby-oci8-2.2.7/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/ruby-oci8-2.2.7/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/ruby-oci8-2.2.7/docs" />
@@ -17371,6 +17420,33 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/transit_maps-0.6.0/config" />
       </excluded>
     </library>
+    <library name="transit_maps_api (v0.0.2.pre@14ae5d, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-14ae5db8b5d9/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-14ae5db8b5d9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-14ae5db8b5d9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-14ae5db8b5d9/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-14ae5db8b5d9/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-14ae5db8b5d9/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-14ae5db8b5d9/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-14ae5db8b5d9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-14ae5db8b5d9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-14ae5db8b5d9/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-14ae5db8b5d9/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-14ae5db8b5d9/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-14ae5db8b5d9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-14ae5db8b5d9/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-14ae5db8b5d9/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-14ae5db8b5d9/config" />
+      </excluded>
+    </library>
     <library name="transit_maps_api (v0.0.2.pre@14ae5d, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -18443,6 +18519,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/zeitwerk-2.1.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="zeitwerk (v2.1.9, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/zeitwerk-2.1.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/zeitwerk-2.1.9/lib" />
       </SOURCES>
     </library>
     <library name="zeitwerk (v2.1.9, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
