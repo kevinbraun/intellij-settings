@@ -2250,6 +2250,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/bulk_insert-1.7.0/test" />
       </excluded>
     </library>
+    <library name="bullet (v6.0.2, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/bullet-6.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/bullet-6.0.2/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/bullet-6.0.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/bullet-6.0.2/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/bullet-6.0.2/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/bullet-6.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/bullet-6.0.2/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/bullet-6.0.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/bullet-6.0.2/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/bullet-6.0.2/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/bullet-6.0.2/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/bullet-6.0.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/bullet-6.0.2/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/bullet-6.0.2/tasks" />
+      </excluded>
+    </library>
     <library name="bundler (v1.16.6, RVM: ruby-2.2.1 [global]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -20835,6 +20860,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/gems/uglifier-4.1.20/lib" />
       </SOURCES>
+    </library>
+    <library name="uniform_notifier (v1.13.0, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/uniform_notifier-1.13.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/uniform_notifier-1.13.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/uniform_notifier-1.13.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/uniform_notifier-1.13.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/uniform_notifier-1.13.0/spec" />
+      </excluded>
     </library>
     <library name="warden (v1.2.8, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
       <properties>
