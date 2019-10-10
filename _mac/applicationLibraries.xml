@@ -12411,6 +12411,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/parallel-1.17.0/lib" />
       </SOURCES>
     </library>
+    <library name="parallel (v1.18.0, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/parallel-1.18.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/parallel-1.18.0/lib" />
+      </SOURCES>
+    </library>
     <library name="parallel (v1.9.0, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12421,6 +12432,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/parallel-1.9.0/lib" />
       </SOURCES>
+    </library>
+    <library name="parallel_tests (v2.29.2, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/parallel_tests-2.29.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/parallel_tests-2.29.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/parallel_tests-2.29.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/parallel_tests-2.29.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/parallel_tests-2.29.2/bin" />
+      </excluded>
     </library>
     <library name="phantomjs (v2.1.1.0, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
       <properties>
