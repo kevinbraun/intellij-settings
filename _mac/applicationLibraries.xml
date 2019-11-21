@@ -10164,6 +10164,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/log4r-1.1.10/examples" />
       </excluded>
     </library>
+    <library name="log4r (v1.1.10, RVM: ruby-2.2.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/log4r-1.1.10/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/log4r-1.1.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/log4r-1.1.10/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/log4r-1.1.10/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/log4r-1.1.10/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/log4r-1.1.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/log4r-1.1.10/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/log4r-1.1.10/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/log4r-1.1.10/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/log4r-1.1.10/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/log4r-1.1.10/examples" />
+      </excluded>
+    </library>
     <library name="log4r (v1.1.10, RVM: ruby-2.2.10 [bustxt]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -13444,6 +13466,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/omnibus_web_services-4.0.3/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/omnibus_web_services-4.0.3/config" />
+      </excluded>
+    </library>
+    <library name="omnibus_web_services (v4.1.0, RVM: ruby-2.2.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/omnibus_web_services-4.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/omnibus_web_services-4.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/omnibus_web_services-4.1.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/omnibus_web_services-4.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/omnibus_web_services-4.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/omnibus_web_services-4.1.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/omnibus_web_services-4.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/omnibus_web_services-4.1.0/config" />
       </excluded>
     </library>
     <library name="omnibus_web_services (v4.1.0, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
@@ -17776,6 +17817,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/require_all-1.2.1/spec" />
       </excluded>
     </library>
+    <library name="require_all (v1.2.1, RVM: ruby-2.2.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/require_all-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/require_all-1.2.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/require_all-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/require_all-1.2.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/require_all-1.2.1/spec" />
+      </excluded>
+    </library>
     <library name="require_all (v1.2.1, RVM: ruby-2.2.10 [bustxt]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -17854,6 +17911,25 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@transit_maps_jsl_da/gems/require_all-1.2.1/spec" />
+      </excluded>
+    </library>
+    <library name="resource_handler (v0.0.7, RVM: ruby-2.2.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/resource_handler-0.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/resource_handler-0.0.7/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/resource_handler-0.0.7/rails" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/resource_handler-0.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/resource_handler-0.0.7/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/resource_handler-0.0.7/rails" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/resource_handler-0.0.7/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/resource_handler-0.0.7/rails" />
       </excluded>
     </library>
     <library name="responders (v2.2.0, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
@@ -22939,6 +23015,30 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/transit_capistrano-1.2.6/lib" />
       </SOURCES>
+    </library>
+    <library name="transit_maps (v0.6.0, RVM: ruby-2.2.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/transit_maps-0.6.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/transit_maps-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/transit_maps-0.6.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/transit_maps-0.6.0/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/transit_maps-0.6.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/transit_maps-0.6.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/transit_maps-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/transit_maps-0.6.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/transit_maps-0.6.0/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/transit_maps-0.6.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/transit_maps-0.6.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/transit_maps-0.6.0/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/transit_maps-0.6.0/config" />
+      </excluded>
     </library>
     <library name="transit_maps_api (v0.0.2.pre@14ae5d, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
       <properties>
