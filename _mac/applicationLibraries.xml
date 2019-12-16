@@ -2997,6 +2997,33 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/sprockets-rails-3.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="sqlite3 (v1.4.1, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/sqlite3/1.4.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/sqlite3-1.4.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/sqlite3-1.4.1/faq" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/sqlite3-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/sqlite3-1.4.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/sqlite3-1.4.1/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/sqlite3/1.4.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/sqlite3-1.4.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/sqlite3-1.4.1/faq" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/sqlite3-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/sqlite3-1.4.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/sqlite3-1.4.1/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/sqlite3-1.4.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/sqlite3-1.4.1/faq" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/sqlite3-1.4.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/sqlite3-1.4.1/rakelib" />
+      </excluded>
+    </library>
     <library name="terminus (v4.0.0, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
