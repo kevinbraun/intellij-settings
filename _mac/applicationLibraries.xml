@@ -938,6 +938,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/erubi-1.8.0/test" />
       </excluded>
     </library>
+    <library name="erubi (v1.9.0, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/erubi-1.9.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/erubi-1.9.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/erubi-1.9.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/erubi-1.9.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/erubi-1.9.0/test" />
+      </excluded>
+    </library>
     <library name="execjs (v2.7.0, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1252,6 +1268,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/i18n-1.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="i18n (v1.7.0, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/i18n-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/i18n-1.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="image_processing (v1.9.2, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1547,6 +1574,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/minitest-5.11.3/test" />
       </excluded>
     </library>
+    <library name="minitest (v5.13.0, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/minitest-5.13.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/minitest-5.13.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/minitest-5.13.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/minitest-5.13.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/minitest-5.13.0/test" />
+      </excluded>
+    </library>
     <library name="msgpack (v1.2.10, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1800,6 +1843,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/omnibus_web_services_gem-ef85eb42b94f/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/omnibus_web_services_gem-ef85eb42b94f/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/omnibus_web_services_gem-ef85eb42b94f/script" />
+      </excluded>
+    </library>
+    <library name="omnibus_web_services (v4.1.1@49192e, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/omnibus_web_services_gem-49192e9e0f33/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/omnibus_web_services_gem-49192e9e0f33/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/omnibus_web_services_gem-49192e9e0f33/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/omnibus_web_services_gem-49192e9e0f33/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/omnibus_web_services_gem-49192e9e0f33/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/omnibus_web_services_gem-49192e9e0f33/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/omnibus_web_services_gem-49192e9e0f33/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/omnibus_web_services_gem-49192e9e0f33/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/omnibus_web_services_gem-49192e9e0f33/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/omnibus_web_services_gem-49192e9e0f33/script" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/omnibus_web_services_gem-49192e9e0f33/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/omnibus_web_services_gem-49192e9e0f33/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/omnibus_web_services_gem-49192e9e0f33/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/omnibus_web_services_gem-49192e9e0f33/script" />
       </excluded>
     </library>
     <library name="openssl (v2.1.0, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
@@ -3239,6 +3307,33 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-14ae5db8b5d9/config" />
       </excluded>
     </library>
+    <library name="transit_maps_api (v0.0.4.pre@ddb649, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-ddb64952b8ee/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-ddb64952b8ee/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-ddb64952b8ee/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-ddb64952b8ee/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-ddb64952b8ee/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-ddb64952b8ee/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-ddb64952b8ee/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-ddb64952b8ee/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-ddb64952b8ee/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-ddb64952b8ee/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-ddb64952b8ee/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-ddb64952b8ee/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-ddb64952b8ee/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-ddb64952b8ee/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-ddb64952b8ee/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/bundler/gems/transit_maps_api-ddb64952b8ee/config" />
+      </excluded>
+    </library>
     <library name="tzinfo (v1.2.5, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3446,6 +3541,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/zeitwerk-2.1.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="zeitwerk (v2.2.1, RVM: ruby-2.5.1 [kiosk2]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/zeitwerk-2.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kiosk2/gems/zeitwerk-2.2.1/lib" />
       </SOURCES>
     </library>
   </component>
