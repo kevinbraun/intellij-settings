@@ -5515,6 +5515,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/debase-0.2.4.1/test" />
       </excluded>
     </library>
+    <library name="debase (v0.2.4.1, RVM: ruby-2.2.10 [bustxt]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/debase-0.2.4.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/debase-0.2.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/debase-0.2.4.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/debase-0.2.4.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/debase-0.2.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/debase-0.2.4.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/debase-0.2.4.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/debase-0.2.4.1/test" />
+      </excluded>
+    </library>
     <library name="debase (v0.2.4.1, RVM: ruby-2.4.1 [telebus]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5532,6 +5551,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/debase-0.2.4.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/debase-0.2.4.1/test" />
+      </excluded>
+    </library>
+    <library name="debase (v0.2.5.beta1, RVM: ruby-2.2.10 [bustxt]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/debase-0.2.5.beta1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/debase-0.2.5.beta1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/debase-0.2.5.beta1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/debase-0.2.5.beta1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/debase-0.2.5.beta1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/debase-0.2.5.beta1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/debase-0.2.5.beta1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/debase-0.2.5.beta1/test" />
       </excluded>
     </library>
     <library name="debase (v0.3.0.beta23, RVM: ruby-2.4.1 [telebus]) [gem]" type="rubylib">
@@ -5595,6 +5633,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/debase-ruby_core_source-0.10.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.9, RVM: ruby-2.2.10 [bustxt]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/debase-ruby_core_source-0.10.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/debase-ruby_core_source-0.10.9/lib" />
       </SOURCES>
     </library>
     <library name="debase-ruby_core_source (v0.10.9, RVM: ruby-2.4.1 [telebus]) [gem]" type="rubylib">
@@ -13479,6 +13528,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/omnibus_web_services-4.1.7/config" />
       </excluded>
     </library>
+    <library name="omnibus_web_services (v4.1.8, RVM: ruby-2.2.10 [bustxt]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/omnibus_web_services-4.1.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/omnibus_web_services-4.1.8/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/omnibus_web_services-4.1.8/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/omnibus_web_services-4.1.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/omnibus_web_services-4.1.8/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/omnibus_web_services-4.1.8/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/omnibus_web_services-4.1.8/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/omnibus_web_services-4.1.8/config" />
+      </excluded>
+    </library>
     <library name="openssl (v2.0.3, RVM: ruby-2.4.1 [telebus]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -18705,6 +18773,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-debug-ide-0.7.0.beta7/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-debug-ide-0.7.0.beta7/ext" />
+      </excluded>
+    </library>
+    <library name="ruby-debug-ide (v0.7.1.beta3, RVM: ruby-2.2.10 [bustxt]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/ruby-debug-ide-0.7.1.beta3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/ruby-debug-ide-0.7.1.beta3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/ruby-debug-ide-0.7.1.beta3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/ruby-debug-ide-0.7.1.beta3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/ruby-debug-ide-0.7.1.beta3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/ruby-debug-ide-0.7.1.beta3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/ruby-debug-ide-0.7.1.beta3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.10@bustxt/gems/ruby-debug-ide-0.7.1.beta3/ext" />
       </excluded>
     </library>
     <library name="ruby-debug-ide (v0.8.0.beta21, RVM: ruby-2.4.1 [telebus]) [gem]" type="rubylib">
