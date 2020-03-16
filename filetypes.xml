@@ -4,8 +4,8 @@
       <mapping pattern=".rspec_parallel" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
-      <mapping ext="cypress" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="cypress" type="PLAIN_TEXT" />
       <mapping ext="test_ci" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
