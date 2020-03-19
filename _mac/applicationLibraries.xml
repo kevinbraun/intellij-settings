@@ -245,6 +245,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/active_directory-3.1.5/test" />
       </excluded>
     </library>
+    <library name="active_directory (v3.1.5, RVM: ruby-2.4.1 [telebus]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/active_directory-3.1.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/active_directory-3.1.5/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/active_directory-3.1.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/active_directory-3.1.5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/active_directory-3.1.5/test" />
+      </excluded>
+    </library>
     <library name="activejob (v4.2.6, RVM: ruby-2.3.3 [buswatch]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
