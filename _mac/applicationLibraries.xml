@@ -748,6 +748,13 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="bigdecimal (v1.2.6, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="bigdecimal (v1.2.8, RVM: ruby-2.3.3 [buswatch]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -862,6 +869,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/builder-3.2.2/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/builder-3.2.2/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/builder-3.2.2/rakelib" />
+      </excluded>
+    </library>
+    <library name="builder (v3.2.2, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/builder-3.2.2/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/builder-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/builder-3.2.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/builder-3.2.2/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/builder-3.2.2/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/builder-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/builder-3.2.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/builder-3.2.2/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/builder-3.2.2/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/builder-3.2.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/builder-3.2.2/rakelib" />
       </excluded>
     </library>
     <library name="builder (v3.2.3, RVM: ruby-2.4.1 [telebus]) [gem]" type="rubylib">
@@ -1185,6 +1214,52 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/compact_index_client" />
       </excluded>
     </library>
+    <library name="bundler (v1.17.3, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/ui" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/cli" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/source" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/vendor" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/settings" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/installer" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/ssl_certs" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/templates" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/compact_index_client" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/ui" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/cli" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/source" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/vendor" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/settings" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/installer" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/ssl_certs" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/templates" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/compact_index_client" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/ui" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/cli" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/source" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/settings" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/installer" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/ssl_certs" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/templates" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/bundler/compact_index_client" />
+      </excluded>
+    </library>
     <library name="bundler (v1.17.3, RVM: ruby-2.3.3 [buswatch]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1324,6 +1399,17 @@
       </excluded>
     </library>
     <library name="bundler-unload (v1.0.2, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/bundler-unload-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/bundler-unload-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="bundler-unload (v1.0.2, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -1911,6 +1997,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/ci_reporter-2.0.0/gemfiles" />
       </excluded>
     </library>
+    <library name="ci_reporter (v2.0.0, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/ci_reporter-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/ci_reporter-2.0.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/ci_reporter-2.0.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/ci_reporter-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/ci_reporter-2.0.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/ci_reporter-2.0.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/ci_reporter-2.0.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/ci_reporter-2.0.0/gemfiles" />
+      </excluded>
+    </library>
     <library name="ci_reporter (v2.0.0, RVM: ruby-2.3.3 [buswatch]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2036,6 +2141,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/ci_reporter_rspec-1.0.0/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/ci_reporter_rspec-1.0.0/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/ci_reporter_rspec-1.0.0/acceptance" />
+      </excluded>
+    </library>
+    <library name="ci_reporter_test_unit (v1.0.1, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/ci_reporter_test_unit-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/ci_reporter_test_unit-1.0.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/ci_reporter_test_unit-1.0.1/acceptance" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/ci_reporter_test_unit-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/ci_reporter_test_unit-1.0.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/ci_reporter_test_unit-1.0.1/acceptance" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/ci_reporter_test_unit-1.0.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/ci_reporter_test_unit-1.0.1/acceptance" />
       </excluded>
     </library>
     <library name="climate_control (v0.0.3, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
@@ -3112,6 +3236,34 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/executable-hooks-1.6.0/test-tf-truffleruby" />
       </excluded>
     </library>
+    <library name="executable-hooks (v1.6.0, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/executable-hooks-1.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/executable-hooks-1.6.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/executable-hooks-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/executable-hooks-1.6.0/test-tf" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/executable-hooks-1.6.0/test-tf-bundle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/executable-hooks-1.6.0/test-tf-truffleruby" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/executable-hooks-1.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/executable-hooks-1.6.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/executable-hooks-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/executable-hooks-1.6.0/test-tf" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/executable-hooks-1.6.0/test-tf-bundle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/executable-hooks-1.6.0/test-tf-truffleruby" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/executable-hooks-1.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/executable-hooks-1.6.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/executable-hooks-1.6.0/test-tf" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/executable-hooks-1.6.0/test-tf-bundle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/executable-hooks-1.6.0/test-tf-truffleruby" />
+      </excluded>
+    </library>
     <library name="executable-hooks (v1.6.0, RVM: ruby-2.3.3 [buswatch]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3499,6 +3651,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/faker-1.9.3/lib" />
       </SOURCES>
     </library>
+    <library name="faraday (v0.9.2, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/faraday-0.9.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/faraday-0.9.2/lib" />
+      </SOURCES>
+    </library>
     <library name="fast-polylines (v1.0.0, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3770,6 +3933,25 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/gem-wrappers-1.4.0/test" />
       </excluded>
     </library>
+    <library name="gem-wrappers (v1.4.0, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/gem-wrappers-1.4.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/gem-wrappers-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/gem-wrappers-1.4.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/gem-wrappers-1.4.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/gem-wrappers-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/gem-wrappers-1.4.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/gem-wrappers-1.4.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/gem-wrappers-1.4.0/test" />
+      </excluded>
+    </library>
     <library name="gem-wrappers (v1.4.0, RVM: ruby-2.3.3 [buswatch]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3901,6 +4083,44 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.0/lib/ruby/gems/2.6.0/gems/gem-wrappers-1.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.0/lib/ruby/gems/2.6.0/gems/gem-wrappers-1.4.0/test" />
+      </excluded>
+    </library>
+    <library name="geminabox (v0.13.1, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/geminabox-0.13.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/geminabox-0.13.1/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/geminabox-0.13.1/public" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/geminabox-0.13.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/geminabox-0.13.1/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/geminabox-0.13.1/public" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/geminabox-0.13.1/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/geminabox-0.13.1/public" />
+      </excluded>
+    </library>
+    <library name="geminabox (v1.2.0, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/geminabox-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/geminabox-1.2.0/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/geminabox-1.2.0/public" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/geminabox-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/geminabox-1.2.0/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/geminabox-1.2.0/public" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/geminabox-1.2.0/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/geminabox-1.2.0/public" />
       </excluded>
     </library>
     <library name="globalid (v0.3.6, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
@@ -4228,6 +4448,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/html2haml-2.0.0/test" />
       </excluded>
     </library>
+    <library name="httpclient (v2.8.0, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/httpclient-2.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/httpclient-2.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/httpclient-2.8.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/httpclient-2.8.0/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/httpclient-2.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/httpclient-2.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/httpclient-2.8.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/httpclient-2.8.0/sample" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/httpclient-2.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/httpclient-2.8.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/httpclient-2.8.0/sample" />
+      </excluded>
+    </library>
     <library name="i18n (v0.7.0, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4308,6 +4550,13 @@
       </SOURCES>
     </library>
     <library name="io-console (v0.4.3, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="io-console (v0.4.3, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -4548,6 +4797,53 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/json/add" />
+      </excluded>
+    </library>
+    <library name="json (v1.8.1, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/json/add" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/json/add" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/json/add" />
+      </excluded>
+    </library>
+    <library name="json (v1.8.3, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs22/json/1.8.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/json-1.8.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/json-1.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/json-1.8.3/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/json-1.8.3/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/json-1.8.3/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/json-1.8.3/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/json-1.8.3/diagrams" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs22/json/1.8.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/json-1.8.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/json-1.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/json-1.8.3/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/json-1.8.3/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/json-1.8.3/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/json-1.8.3/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/json-1.8.3/diagrams" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/json-1.8.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/json-1.8.3/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/json-1.8.3/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/json-1.8.3/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/json-1.8.3/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/json-1.8.3/diagrams" />
       </excluded>
     </library>
     <library name="json (v1.8.3, RVM: ruby-2.3.3 [buswatch]) [gem]" type="rubylib">
@@ -4870,6 +5166,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/log4r-1.1.10/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/log4r-1.1.10/tests" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/log4r-1.1.10/examples" />
+      </excluded>
+    </library>
+    <library name="log4r (v1.1.10, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/log4r-1.1.10/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/log4r-1.1.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/log4r-1.1.10/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/log4r-1.1.10/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/log4r-1.1.10/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/log4r-1.1.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/log4r-1.1.10/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/log4r-1.1.10/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/log4r-1.1.10/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/log4r-1.1.10/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/log4r-1.1.10/examples" />
       </excluded>
     </library>
     <library name="log4r (v1.1.10, RVM: ruby-2.3.3 [buswatch]) [gem]" type="rubylib">
@@ -5384,6 +5702,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/mini_portile2-2.1.0/test" />
       </excluded>
     </library>
+    <library name="mini_portile2 (v2.4.0, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/mini_portile2-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/mini_portile2-2.4.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/mini_portile2-2.4.0/concourse" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/mini_portile2-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/mini_portile2-2.4.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/mini_portile2-2.4.0/concourse" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/mini_portile2-2.4.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/mini_portile2-2.4.0/concourse" />
+      </excluded>
+    </library>
     <library name="mini_portile2 (v2.4.0, RVM: ruby-2.3.3 [buswatch]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5709,6 +6046,37 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/mocha-1.1.0/yard-templates" />
       </excluded>
     </library>
+    <library name="mocha (v1.11.1, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/mocha-1.11.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/mocha-1.11.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/mocha-1.11.1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/mocha-1.11.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/mocha-1.11.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/mocha-1.11.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/mocha-1.11.1/yard-templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/mocha-1.11.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/mocha-1.11.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/mocha-1.11.1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/mocha-1.11.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/mocha-1.11.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/mocha-1.11.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/mocha-1.11.1/yard-templates" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/mocha-1.11.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/mocha-1.11.1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/mocha-1.11.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/mocha-1.11.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/mocha-1.11.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/mocha-1.11.1/yard-templates" />
+      </excluded>
+    </library>
     <library name="mocha (v1.2.1, RVM: ruby-2.3.3 [buswatch]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5818,6 +6186,41 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/multi_json-1.12.2/lib" />
       </SOURCES>
+    </library>
+    <library name="multipart-post (v2.0.0, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/multipart-post-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/multipart-post-2.0.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/multipart-post-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/multipart-post-2.0.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/multipart-post-2.0.0/test" />
+      </excluded>
+    </library>
+    <library name="nesty (v1.0.2, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/nesty-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/nesty-1.0.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/nesty-1.0.2/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/nesty-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/nesty-1.0.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/nesty-1.0.2/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/nesty-1.0.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/nesty-1.0.2/examples" />
+      </excluded>
     </library>
     <library name="net-dns (v0.7.1, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
       <properties>
@@ -6497,6 +6900,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/nokogiri-1.6.8/suppressions" />
       </excluded>
     </library>
+    <library name="nokogiri (v1.9.1, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs22/nokogiri/1.9.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/nokogiri-1.9.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/nokogiri-1.9.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/nokogiri-1.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/nokogiri-1.9.1/patches" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs22/nokogiri/1.9.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/nokogiri-1.9.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/nokogiri-1.9.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/nokogiri-1.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/nokogiri-1.9.1/patches" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/nokogiri-1.9.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/nokogiri-1.9.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/nokogiri-1.9.1/patches" />
+      </excluded>
+    </library>
     <library name="omnibus_web_services (v4.1.5, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6819,6 +7246,25 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/power_assert-0.2.6/test" />
       </excluded>
     </library>
+    <library name="power_assert (v0.3.0, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/power_assert-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/power_assert-0.3.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/power_assert-0.3.0/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/power_assert-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/power_assert-0.3.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/power_assert-0.3.0/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/power_assert-0.3.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/power_assert-0.3.0/benchmarks" />
+      </excluded>
+    </library>
     <library name="power_assert (v0.4.1, RVM: ruby-2.4.1 [telebus]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6978,6 +7424,29 @@
       </excluded>
     </library>
     <library name="psych (v2.0.8, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/psych/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/psych/visitors" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/psych/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/psych/visitors" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/psych/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/psych/visitors" />
+      </excluded>
+    </library>
+    <library name="psych (v2.0.8, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -7254,6 +7723,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/rack-1.6.4/example" />
       </excluded>
     </library>
+    <library name="rack (v1.6.4, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rack-1.6.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rack-1.6.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rack-1.6.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rack-1.6.4/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rack-1.6.4/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rack-1.6.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rack-1.6.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rack-1.6.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rack-1.6.4/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rack-1.6.4/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rack-1.6.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rack-1.6.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rack-1.6.4/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rack-1.6.4/example" />
+      </excluded>
+    </library>
     <library name="rack (v1.6.5, RVM: ruby-2.3.3 [buswatch]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7339,6 +7833,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/rack-mini-profiler-0.10.6/lib" />
       </SOURCES>
+    </library>
+    <library name="rack-protection (v1.5.3, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rack-protection-1.5.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rack-protection-1.5.3/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rack-protection-1.5.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rack-protection-1.5.3/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rack-protection-1.5.3/spec" />
+      </excluded>
     </library>
     <library name="rack-protection (v2.0.8.1, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
       <properties>
@@ -7858,6 +8368,28 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rake/loaders" />
       </excluded>
     </library>
+    <library name="rake (v10.4.2, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rake/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rake/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rake/contrib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rake/loaders" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rake/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rake/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rake/contrib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rake/loaders" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rake/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rake/contrib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rake/loaders" />
+      </excluded>
+    </library>
     <library name="rake (v10.4.2, RVM: ruby-2.3.3 [buswatch]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7931,6 +8463,28 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/rake-10.4.2/doc" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/rake-10.4.2/test" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/rake-10.4.2/rakelib" />
+      </excluded>
+    </library>
+    <library name="rake (v11.2.2, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rake-11.2.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rake-11.2.2/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rake-11.2.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rake-11.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rake-11.2.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rake-11.2.2/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rake-11.2.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rake-11.2.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rake-11.2.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rake-11.2.2/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rake-11.2.2/exe" />
       </excluded>
     </library>
     <library name="rake (v12.0.0, RVM: ruby-2.4.1 [telebus]) [gem]" type="rubylib">
@@ -8224,6 +8778,44 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/generator" />
       </excluded>
     </library>
+    <library name="rdoc (v4.2.0, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/generator" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/generator" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/rdoc/generator" />
+      </excluded>
+    </library>
     <library name="rdoc (v4.2.1, RVM: ruby-2.3.3 [buswatch]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8336,6 +8928,25 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/rdoc/context" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/rdoc/markdown" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/rdoc/generator" />
+      </excluded>
+    </library>
+    <library name="rdoc (v4.2.2, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rdoc-4.2.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rdoc-4.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rdoc-4.2.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rdoc-4.2.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rdoc-4.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rdoc-4.2.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rdoc-4.2.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/rdoc-4.2.2/test" />
       </excluded>
     </library>
     <library name="rdoc (v5.0.0, RVM: ruby-2.4.1 [telebus]) [gem]" type="rubylib">
@@ -8519,6 +9130,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@buswatch/gems/RedCloth-4.3.2/tasks" />
       </excluded>
     </library>
+    <library name="redgreen (v1.2.2, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/redgreen-1.2.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/redgreen-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/redgreen-1.2.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/redgreen-1.2.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/redgreen-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/redgreen-1.2.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/redgreen-1.2.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/redgreen-1.2.2/test" />
+      </excluded>
+    </library>
     <library name="redis (v4.1.2, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8529,6 +9159,25 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/redis-4.1.2/lib" />
       </SOURCES>
+    </library>
+    <library name="reentrant_flock (v0.1.1, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/reentrant_flock-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/reentrant_flock-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/reentrant_flock-0.1.1/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/reentrant_flock-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/reentrant_flock-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/reentrant_flock-0.1.1/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/reentrant_flock-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/reentrant_flock-0.1.1/example" />
+      </excluded>
     </library>
     <library name="ref (v2.0.0, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
       <properties>
@@ -8640,6 +9289,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/require_all-1.2.1/spec" />
+      </excluded>
+    </library>
+    <library name="require_all (v1.2.1, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/require_all-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/require_all-1.2.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/require_all-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/require_all-1.2.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/require_all-1.2.1/spec" />
       </excluded>
     </library>
     <library name="require_all (v1.2.1, RVM: ruby-2.3.3 [buswatch]) [gem]" type="rubylib">
@@ -9334,6 +9999,22 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/rubygems-bundler-1.4.5/test" />
       </excluded>
     </library>
+    <library name="rubygems-bundler (v1.4.5, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/rubygems-bundler-1.4.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/rubygems-bundler-1.4.5/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/rubygems-bundler-1.4.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/rubygems-bundler-1.4.5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/rubygems-bundler-1.4.5/test" />
+      </excluded>
+    </library>
     <library name="rubygems-bundler (v1.4.5, RVM: ruby-2.3.3 [buswatch]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9485,6 +10166,17 @@
       </excluded>
     </library>
     <library name="rvm (v1.11.3.9, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/rvm-1.11.3.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/rvm-1.11.3.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="rvm (v1.11.3.9, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -10477,6 +11169,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/simplecov-rcov-0.2.3/assets" />
       </excluded>
     </library>
+    <library name="sinatra (v1.4.7, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/sinatra-1.4.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/sinatra-1.4.7/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/sinatra-1.4.7/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/sinatra-1.4.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/sinatra-1.4.7/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/sinatra-1.4.7/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/sinatra-1.4.7/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/sinatra-1.4.7/examples" />
+      </excluded>
+    </library>
     <library name="sprockets (v3.6.2, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10888,6 +11599,28 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/doc" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/test" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/sample" />
+      </excluded>
+    </library>
+    <library name="test-unit (v3.2.0, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/test-unit-3.2.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/test-unit-3.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/test-unit-3.2.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/test-unit-3.2.0/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/test-unit-3.2.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/test-unit-3.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/test-unit-3.2.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/test-unit-3.2.0/sample" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/test-unit-3.2.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/test-unit-3.2.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/test-unit-3.2.0/sample" />
       </excluded>
     </library>
     <library name="test-unit (v3.2.3, RVM: ruby-2.4.1 [telebus]) [gem]" type="rubylib">
@@ -11312,6 +12045,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/tilt-2.0.5/man" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/tilt-2.0.5/docs" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/tilt-2.0.5/test" />
+      </excluded>
+    </library>
+    <library name="tilt (v2.0.5, RVM: ruby-2.2.1 [omnibus_web_services_gem]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/tilt-2.0.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/tilt-2.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/tilt-2.0.5/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/tilt-2.0.5/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/tilt-2.0.5/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/tilt-2.0.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/tilt-2.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/tilt-2.0.5/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/tilt-2.0.5/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/tilt-2.0.5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/tilt-2.0.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/tilt-2.0.5/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/tilt-2.0.5/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@omnibus_web_services_gem/gems/tilt-2.0.5/test" />
       </excluded>
     </library>
     <library name="tilt (v2.0.7, RVM: ruby-2.3.3 [buswatch]) [gem]" type="rubylib">
