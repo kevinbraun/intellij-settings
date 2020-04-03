@@ -3930,7 +3930,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/enumerable-statistics/2.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/enumerable-statistics-2.0.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/enumerable-statistics-2.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/enumerable-statistics-2.0.1/lib" />
@@ -3940,7 +3939,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/enumerable-statistics-2.0.1/templates" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/enumerable-statistics/2.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/enumerable-statistics-2.0.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/enumerable-statistics-2.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/enumerable-statistics-2.0.1/lib" />
@@ -10934,14 +10932,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/rbtrace/0.4.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/rbtrace-0.4.12/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/rbtrace-0.4.12/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/rbtrace-0.4.12/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/rbtrace-0.4.12/tracers" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/rbtrace/0.4.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/rbtrace-0.4.12/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/rbtrace-0.4.12/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/rbtrace-0.4.12/lib" />
