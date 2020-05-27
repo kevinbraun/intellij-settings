@@ -54,6 +54,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/actioncable-6.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="actioncable (v6.0.2.2, RVM: ruby-2.7.0 [telebus]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/actioncable-6.0.2.2/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/actioncable-6.0.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/actioncable-6.0.2.2/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/actioncable-6.0.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailbox (v6.0.0, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -73,6 +86,27 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/actionmailbox-6.0.0/db" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/actionmailbox-6.0.0/config" />
+      </excluded>
+    </library>
+    <library name="actionmailbox (v6.0.2.2, RVM: ruby-2.7.0 [telebus]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/actionmailbox-6.0.2.2/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/actionmailbox-6.0.2.2/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/actionmailbox-6.0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/actionmailbox-6.0.2.2/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/actionmailbox-6.0.2.2/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/actionmailbox-6.0.2.2/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/actionmailbox-6.0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/actionmailbox-6.0.2.2/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/actionmailbox-6.0.2.2/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/actionmailbox-6.0.2.2/config" />
       </excluded>
     </library>
     <library name="actionmailer (v4.2.3, RVM: ruby-2.2.1 [pows]) [gem]" type="rubylib">
@@ -130,6 +164,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/actionmailer-6.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="actionmailer (v6.0.2.2, RVM: ruby-2.7.0 [telebus]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/actionmailer-6.0.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/actionmailer-6.0.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="actionpack (v4.2.3, RVM: ruby-2.2.1 [pows]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -185,6 +230,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/actionpack-6.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="actionpack (v6.0.2.2, RVM: ruby-2.7.0 [telebus]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/actionpack-6.0.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/actionpack-6.0.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="actiontext (v6.0.0, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -201,6 +257,24 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/actiontext-6.0.0/db" />
+      </excluded>
+    </library>
+    <library name="actiontext (v6.0.2.2, RVM: ruby-2.7.0 [telebus]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/actiontext-6.0.2.2/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/actiontext-6.0.2.2/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/actiontext-6.0.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/actiontext-6.0.2.2/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/actiontext-6.0.2.2/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/actiontext-6.0.2.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/actiontext-6.0.2.2/db" />
       </excluded>
     </library>
     <library name="actionview (v4.2.3, RVM: ruby-2.2.1 [pows]) [gem]" type="rubylib">
@@ -256,6 +330,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/actionview-6.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v6.0.2.2, RVM: ruby-2.7.0 [telebus]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/actionview-6.0.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/actionview-6.0.2.2/lib" />
       </SOURCES>
     </library>
     <library name="active_directory (v3.1.5, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
@@ -361,6 +446,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/activejob-6.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="activejob (v6.0.2.2, RVM: ruby-2.7.0 [telebus]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/activejob-6.0.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/activejob-6.0.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="activemodel (v4.2.3, RVM: ruby-2.2.1 [pows]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -414,6 +510,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/activemodel-6.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v6.0.2.2, RVM: ruby-2.7.0 [telebus]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/activemodel-6.0.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/activemodel-6.0.2.2/lib" />
       </SOURCES>
     </library>
     <library name="activerecord (v4.2.3, RVM: ruby-2.2.1 [pows]) [gem]" type="rubylib">
@@ -494,6 +601,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/activerecord-6.0.0/examples" />
+      </excluded>
+    </library>
+    <library name="activerecord (v6.0.2.2, RVM: ruby-2.7.0 [telebus]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/activerecord-6.0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/activerecord-6.0.2.2/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/activerecord-6.0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/activerecord-6.0.2.2/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/activerecord-6.0.2.2/examples" />
       </excluded>
     </library>
     <library name="activerecord-import (v0.22.0, RVM: ruby-2.2.1 [pows]) [gem]" type="rubylib">
@@ -598,6 +721,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/activerecord-oracle_enhanced-adapter-6.0.0/spec" />
       </excluded>
     </library>
+    <library name="activerecord-oracle_enhanced-adapter (v6.0.2, RVM: ruby-2.7.0 [telebus]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/activerecord-oracle_enhanced-adapter-6.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/activerecord-oracle_enhanced-adapter-6.0.2/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/activerecord-oracle_enhanced-adapter-6.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/activerecord-oracle_enhanced-adapter-6.0.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/activerecord-oracle_enhanced-adapter-6.0.2/spec" />
+      </excluded>
+    </library>
     <library name="activestorage (v5.2.4.3, RVM: ruby-2.7.0 [telebus]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -638,6 +777,27 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/activestorage-6.0.0/db" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/activestorage-6.0.0/config" />
+      </excluded>
+    </library>
+    <library name="activestorage (v6.0.2.2, RVM: ruby-2.7.0 [telebus]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/activestorage-6.0.2.2/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/activestorage-6.0.2.2/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/activestorage-6.0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/activestorage-6.0.2.2/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/activestorage-6.0.2.2/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/activestorage-6.0.2.2/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/activestorage-6.0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/activestorage-6.0.2.2/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/activestorage-6.0.2.2/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/activestorage-6.0.2.2/config" />
       </excluded>
     </library>
     <library name="activesupport (v4.2.3, RVM: ruby-2.2.1 [pows]) [gem]" type="rubylib">
@@ -693,6 +853,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/activesupport-6.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v6.0.2.2, RVM: ruby-2.7.0 [telebus]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/activesupport-6.0.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/activesupport-6.0.2.2/lib" />
       </SOURCES>
     </library>
     <library name="addressable (v2.5.1, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
@@ -8656,6 +8827,13 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="rails (v6.0.2.2, RVM: ruby-2.7.0 [telebus]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="rails-controller-testing (v1.0.2, RVM: ruby-2.7.0 [telebus]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9081,6 +9259,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/railties-6.0.0/exe" />
+      </excluded>
+    </library>
+    <library name="railties (v6.0.2.2, RVM: ruby-2.7.0 [telebus]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/railties-6.0.2.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/railties-6.0.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/railties-6.0.2.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/railties-6.0.2.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/railties-6.0.2.2/exe" />
       </excluded>
     </library>
     <library name="rake (v10.4.2, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
@@ -13916,6 +14110,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/zeitwerk-2.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="zeitwerk (v2.3.0, RVM: ruby-2.7.0 [telebus]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/zeitwerk-2.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/zeitwerk-2.3.0/lib" />
       </SOURCES>
     </library>
   </component>
