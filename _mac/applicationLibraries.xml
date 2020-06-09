@@ -1521,6 +1521,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/auto_increment-1.5.1/gemfiles" />
       </excluded>
     </library>
+    <library name="autoprefixer-rails (v9.7.6, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/autoprefixer-rails-9.7.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/autoprefixer-rails-9.7.6/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/autoprefixer-rails-9.7.6/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/autoprefixer-rails-9.7.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/autoprefixer-rails-9.7.6/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/autoprefixer-rails-9.7.6/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/autoprefixer-rails-9.7.6/spec" />
+      </excluded>
+    </library>
     <library name="awesome_print (v1.7.0, RVM: ruby-2.2.1 [miniride]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10720,6 +10738,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/libv8-3.16.14.19/release" />
       </excluded>
     </library>
+    <library name="libv8-7.3.492.27.1-x86_64-darwin (v7.3.492.27.1, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/libv8-7.3.492.27.1-x86_64-darwin-19/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/libv8-7.3.492.27.1-x86_64-darwin-19/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/libv8-7.3.492.27.1-x86_64-darwin-19/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/libv8-7.3.492.27.1-x86_64-darwin-19/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/libv8-7.3.492.27.1-x86_64-darwin-19/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/libv8-7.3.492.27.1-x86_64-darwin-19/vendor" />
+      </SOURCES>
+    </library>
     <library name="listen (v3.1.5, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11360,6 +11393,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/materialize-sass-0.96.1/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/materialize-sass-0.96.1/lib" />
       </SOURCES>
+    </library>
+    <library name="materialize-sass (v1.0.0, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/materialize-sass-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/materialize-sass-1.0.0/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/materialize-sass-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/materialize-sass-1.0.0/assets" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/materialize-sass-1.0.0/assets" />
+      </excluded>
     </library>
     <library name="matrix (v0.2.0, RVM: ruby-2.7.0 [global]) [gem]" type="rubylib">
       <properties>
@@ -12156,6 +12205,24 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/mini_portile2-2.4.0/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/mini_portile2-2.4.0/concourse" />
+      </excluded>
+    </library>
+    <library name="mini_racer (v0.2.14, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/mini_racer-0.2.14/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/mini_racer-0.2.14/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/mini_racer-0.2.14/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/mini_racer-0.2.14/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/mini_racer-0.2.14/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/mini_racer-0.2.14/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/mini_racer-0.2.14/bin" />
       </excluded>
     </library>
     <library name="minitest (v5.10.3, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
