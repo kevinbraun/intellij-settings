@@ -16998,6 +16998,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0@telebus/gems/rails-controller-testing-1.0.4/test" />
       </excluded>
     </library>
+    <library name="rails-controller-testing (v1.0.4, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/rails-controller-testing-1.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/rails-controller-testing-1.0.4/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/rails-controller-testing-1.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/rails-controller-testing-1.0.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/rails-controller-testing-1.0.4/test" />
+      </excluded>
+    </library>
     <library name="rails-controller-testing (v1.0.4, RVM: ruby-2.7.1 [pows]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
