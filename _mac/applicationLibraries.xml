@@ -4314,6 +4314,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/childprocess-1.0.1/spec" />
       </excluded>
     </library>
+    <library name="childprocess (v3.0.0, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/childprocess-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/childprocess-3.0.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/childprocess-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/childprocess-3.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/childprocess-3.0.0/spec" />
+      </excluded>
+    </library>
     <library name="chromedriver-helper (v1.1.0, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -21605,6 +21621,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/rubyzip-1.2.3/samples" />
       </excluded>
     </library>
+    <library name="rubyzip (v2.3.0, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/rubyzip-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/rubyzip-2.3.0/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/rubyzip-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/rubyzip-2.3.0/samples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/rubyzip-2.3.0/samples" />
+      </excluded>
+    </library>
     <library name="rvm (v1.11.3.9, RVM: ruby-2.2.1 [global]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -22485,6 +22517,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/selenium-webdriver-3.142.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.142.7, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/selenium-webdriver-3.142.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/selenium-webdriver-3.142.7/lib" />
       </SOURCES>
     </library>
     <library name="selenium-webdriver (v3.7.0, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
@@ -26340,6 +26383,34 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/webdrivers-4.0.0/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/webdrivers-4.0.0/.github" />
+      </excluded>
+    </library>
+    <library name="webdrivers (v4.4.1, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/webdrivers-4.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/webdrivers-4.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/webdrivers-4.4.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/webdrivers-4.4.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/webdrivers-4.4.1/support" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/webdrivers-4.4.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/webdrivers-4.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/webdrivers-4.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/webdrivers-4.4.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/webdrivers-4.4.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/webdrivers-4.4.1/support" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/webdrivers-4.4.1/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/webdrivers-4.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/webdrivers-4.4.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/webdrivers-4.4.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/webdrivers-4.4.1/support" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/webdrivers-4.4.1/gemfiles" />
       </excluded>
     </library>
     <library name="webmock (v2.1.0, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
