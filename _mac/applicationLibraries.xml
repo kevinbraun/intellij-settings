@@ -4762,25 +4762,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/climate_control-0.0.3/spec" />
       </excluded>
     </library>
-    <library name="cliver (v0.3.2, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/cliver-0.3.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/cliver-0.3.2/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/cliver-0.3.2/.githooks" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/cliver-0.3.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/cliver-0.3.2/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/cliver-0.3.2/.githooks" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/cliver-0.3.2/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/cliver-0.3.2/.githooks" />
-      </excluded>
-    </library>
     <library name="cocaine (v0.5.8, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5527,17 +5508,6 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.1/lib/ruby/2.7.0/csv/core_ext" />
       </excluded>
     </library>
-    <library name="cuprite (v0.6.0, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/cuprite-0.6.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/cuprite-0.6.0/lib" />
-      </SOURCES>
-    </library>
     <library name="cypress-on-rails (v1.4.2, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6048,25 +6018,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@pows/gems/debase-0.2.5.beta1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@pows/gems/debase-0.2.5.beta1/test" />
-      </excluded>
-    </library>
-    <library name="debase (v0.3.0.beta34, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/debase-0.3.0.beta34/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/debase-0.3.0.beta34/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/debase-0.3.0.beta34/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/debase-0.3.0.beta34/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/debase-0.3.0.beta34/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/debase-0.3.0.beta34/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/debase-0.3.0.beta34/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/debase-0.3.0.beta34/test" />
       </excluded>
     </library>
     <library name="debase (v0.3.0.beta34, RVM: ruby-2.7.1 [telebus]) [gem]" type="rubylib">
@@ -7902,22 +7853,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/factory_girl-4.7.0/gemfiles" />
       </excluded>
     </library>
-    <library name="factory_girl (v4.9.0, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/factory_girl-4.9.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/factory_girl-4.9.0/gemfiles" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/factory_girl-4.9.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/factory_girl-4.9.0/gemfiles" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/factory_girl-4.9.0/gemfiles" />
-      </excluded>
-    </library>
     <library name="factory_girl_rails (v4.5.0, RVM: ruby-2.2.1 [pows]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7979,33 +7914,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/factory_girl_rails-4.7.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/factory_girl_rails-4.7.0/gemfiles" />
-      </excluded>
-    </library>
-    <library name="factory_girl_rails (v4.9.0, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/factory_girl_rails-4.9.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/factory_girl_rails-4.9.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/factory_girl_rails-4.9.0/pkg" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/factory_girl_rails-4.9.0/tmp" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/factory_girl_rails-4.9.0/features" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/factory_girl_rails-4.9.0/gemfiles" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/factory_girl_rails-4.9.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/factory_girl_rails-4.9.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/factory_girl_rails-4.9.0/pkg" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/factory_girl_rails-4.9.0/tmp" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/factory_girl_rails-4.9.0/features" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/factory_girl_rails-4.9.0/gemfiles" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/factory_girl_rails-4.9.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/factory_girl_rails-4.9.0/pkg" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/factory_girl_rails-4.9.0/tmp" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/factory_girl_rails-4.9.0/gemfiles" />
       </excluded>
     </library>
     <library name="faker (v1.5.0, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
@@ -8583,22 +8491,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@miniride/gems/font-awesome-sass-4.2.2/assets" />
-      </excluded>
-    </library>
-    <library name="font-awesome-sass (v4.7.0, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/font-awesome-sass-4.7.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/font-awesome-sass-4.7.0/assets" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/font-awesome-sass-4.7.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/font-awesome-sass-4.7.0/assets" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/font-awesome-sass-4.7.0/assets" />
       </excluded>
     </library>
     <library name="foreman (v0.64.0, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
@@ -20828,25 +20720,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/ruby-debug-ide-0.7.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/ruby-debug-ide-0.7.2/ext" />
-      </excluded>
-    </library>
-    <library name="ruby-debug-ide (v0.8.0.beta24, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/ruby-debug-ide-0.8.0.beta24/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/ruby-debug-ide-0.8.0.beta24/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/ruby-debug-ide-0.8.0.beta24/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/ruby-debug-ide-0.8.0.beta24/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/ruby-debug-ide-0.8.0.beta24/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/ruby-debug-ide-0.8.0.beta24/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/ruby-debug-ide-0.8.0.beta24/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/ruby-debug-ide-0.8.0.beta24/ext" />
       </excluded>
     </library>
     <library name="ruby-debug-ide (v0.8.0.beta24, RVM: ruby-2.7.1 [telebus]) [gem]" type="rubylib">
