@@ -4762,6 +4762,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/climate_control-0.0.3/spec" />
       </excluded>
     </library>
+    <library name="cliver (v0.3.2, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/cliver-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/cliver-0.3.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/cliver-0.3.2/.githooks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/cliver-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/cliver-0.3.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/cliver-0.3.2/.githooks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/cliver-0.3.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/cliver-0.3.2/.githooks" />
+      </excluded>
+    </library>
     <library name="cocaine (v0.5.8, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5507,6 +5526,17 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.1/lib/ruby/2.7.0/csv/core_ext" />
       </excluded>
+    </library>
+    <library name="cuprite (v0.6.0, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/cuprite-0.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/cuprite-0.6.0/lib" />
+      </SOURCES>
     </library>
     <library name="cypress-on-rails (v1.4.2, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
       <properties>
