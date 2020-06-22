@@ -2021,63 +2021,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/elastic-apm-1.1.0/bench" />
       </excluded>
     </library>
-    <library name="elasticsearch (v6.8.0, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/elasticsearch-6.8.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/elasticsearch-6.8.0/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/elasticsearch-6.8.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/elasticsearch-6.8.0/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/elasticsearch-6.8.0/test" />
-      </excluded>
-    </library>
-    <library name="elasticsearch-api (v6.8.0, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/elasticsearch-api-6.8.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/elasticsearch-api-6.8.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/elasticsearch-api-6.8.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/elasticsearch-api-6.8.0/utils" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/elasticsearch-api-6.8.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/elasticsearch-api-6.8.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/elasticsearch-api-6.8.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/elasticsearch-api-6.8.0/utils" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/elasticsearch-api-6.8.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/elasticsearch-api-6.8.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/elasticsearch-api-6.8.0/utils" />
-      </excluded>
-    </library>
-    <library name="elasticsearch-transport (v6.8.0, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/elasticsearch-transport-6.8.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/elasticsearch-transport-6.8.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/elasticsearch-transport-6.8.0/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/elasticsearch-transport-6.8.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/elasticsearch-transport-6.8.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/elasticsearch-transport-6.8.0/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/elasticsearch-transport-6.8.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/elasticsearch-transport-6.8.0/test" />
-      </excluded>
-    </library>
     <library name="erubi (v1.9.0, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2442,25 +2385,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/faker-1.9.3/lib" />
       </SOURCES>
-    </library>
-    <library name="faraday (v1.0.0, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/faraday-1.0.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/faraday-1.0.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/faraday-1.0.0/examples" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/faraday-1.0.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/faraday-1.0.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/faraday-1.0.0/examples" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/faraday-1.0.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/faraday-1.0.0/examples" />
-      </excluded>
     </library>
     <library name="fast-polylines (v1.0.0, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
       <properties>
@@ -3962,33 +3886,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/multi_json-1.12.1/lib" />
       </SOURCES>
-    </library>
-    <library name="multi_json (v1.14.1, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/multi_json-1.14.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/multi_json-1.14.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="multipart-post (v2.1.1, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/multipart-post-2.1.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/multipart-post-2.1.1/spec" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/multipart-post-2.1.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/multipart-post-2.1.1/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/multipart-post-2.1.1/spec" />
-      </excluded>
     </library>
     <library name="net-dns (v0.7.1, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
       <properties>
@@ -7519,25 +7416,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/web-console-4.0.0/lib" />
       </SOURCES>
-    </library>
-    <library name="webdrivers (v4.0.0, RVM: ruby-2.2.1 [kiosk-server]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/webdrivers-4.0.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/webdrivers-4.0.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/webdrivers-4.0.0/.github" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/webdrivers-4.0.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/webdrivers-4.0.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/webdrivers-4.0.0/.github" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/webdrivers-4.0.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@kiosk-server/gems/webdrivers-4.0.0/.github" />
-      </excluded>
     </library>
     <library name="webdrivers (v4.0.0, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
       <properties>
