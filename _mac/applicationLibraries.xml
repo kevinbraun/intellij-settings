@@ -9665,6 +9665,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@pows/gems/net-sftp-2.1.2/test" />
       </excluded>
     </library>
+    <library name="net-sftp (v3.0.0, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/net-sftp-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/net-sftp-3.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="net-smtp (v0.1.0, RVM: ruby-2.7.0 [global]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9813,6 +9824,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/net-ssh-5.0.2/support" />
       </excluded>
     </library>
+    <library name="net-ssh (v5.0.2, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/net-ssh-5.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/net-ssh-5.0.2/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/net-ssh-5.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/net-ssh-5.0.2/support" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/net-ssh-5.0.2/support" />
+      </excluded>
+    </library>
     <library name="net-ssh-gateway (v1.2.0, RVM: ruby-2.2.1 [pows]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9871,6 +9898,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/net-ssh-gateway-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-ssh-gateway (v2.0.0, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/net-ssh-gateway-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/net-ssh-gateway-2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="net-telnet (v0.1.1, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
@@ -17753,6 +17791,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/transit_capistrano-1.2.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="transit_capistrano (v1.2.6, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/transit_capistrano-1.2.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/transit_capistrano-1.2.6/lib" />
       </SOURCES>
     </library>
     <library name="transit_maps (v1.2.3, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
