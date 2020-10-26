@@ -258,7 +258,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
-              <option name="myPluginName" value="Ruby" />
+              <option name="myPluginName" value="org.jetbrains.plugins.ruby" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1763,7 +1763,7 @@
                   </entry>
                   <entry key="CucumberRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Cucumber" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                      <FeaturePluginData displayName="Cucumber" pluginName="org.jetbrains.plugins.ruby" pluginId="org.jetbrains.plugins.ruby" />
                     </value>
                   </entry>
                   <entry key="DatabaseScript">
