@@ -946,6 +946,33 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@pows/gems/db_helper_tasks-2.2.1/tasks" />
       </excluded>
     </library>
+    <library name="debase (v2.3.2, RVM: ruby-2.7.1 [pows]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@pows/gems/debase-2.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@pows/gems/debase-2.3.2/exto" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@pows/gems/debase-2.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@pows/gems/debase-2.3.2/exto" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@pows/gems/debase-2.3.2/exto" />
+      </excluded>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.12, RVM: ruby-2.7.1 [pows]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@pows/gems/debase-ruby_core_source-0.10.12/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@pows/gems/debase-ruby_core_source-0.10.12/lib" />
+      </SOURCES>
+    </library>
     <library name="delayed_job (v4.1.8, RVM: ruby-2.7.1 [pows]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3439,6 +3466,22 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.1/lib/ruby/2.7.0/rss/maker" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.1/lib/ruby/2.7.0/rss/content" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.1/lib/ruby/2.7.0/rss/dublincore" />
+      </excluded>
+    </library>
+    <library name="ruby-debug-ide (v2.3.1, RVM: ruby-2.7.1 [pows]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@pows/gems/ruby-debug-ide-2.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@pows/gems/ruby-debug-ide-2.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@pows/gems/ruby-debug-ide-2.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@pows/gems/ruby-debug-ide-2.3.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@pows/gems/ruby-debug-ide-2.3.1/bin" />
       </excluded>
     </library>
     <library name="ruby-oci8 (v2.2.8, RVM: ruby-2.7.1 [pows]) [gem]" type="rubylib">
