@@ -1510,6 +1510,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@ufare/gems/addressable-2.7.0/tasks" />
       </excluded>
     </library>
+    <library name="aes_key_wrap (v1.1.0, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/aes_key_wrap-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/aes_key_wrap-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/aes_key_wrap-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/aes_key_wrap-1.1.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/aes_key_wrap-1.1.0/bin" />
+      </excluded>
+    </library>
     <library name="anycable (v0.6.3, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1570,6 +1586,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/apparition-0.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="apple_id (v1.1.1, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/apple_id-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/apple_id-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/apple_id-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/apple_id-1.1.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/apple_id-1.1.1/bin" />
+      </excluded>
+    </library>
     <library name="arel (v8.0.0, RVM: ruby-2.4.1 [telebus]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1580,6 +1612,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/arel-8.0.0/lib" />
       </SOURCES>
+    </library>
+    <library name="attr_required (v1.0.1, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/attr_required-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/attr_required-1.0.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/attr_required-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/attr_required-1.0.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/attr_required-1.0.1/spec" />
+      </excluded>
     </library>
     <library name="authlogic (v6.1.0, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
       <properties>
@@ -1680,11 +1728,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/bcrypt/3.1.13" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/bcrypt-3.1.13/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/bcrypt-3.1.13/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/bcrypt-3.1.13/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/bcrypt/3.1.13" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/bcrypt-3.1.13/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/bcrypt-3.1.13/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/bcrypt-3.1.13/spec" />
@@ -1850,6 +1900,25 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="bindata (v2.4.8, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/bindata-2.4.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/bindata-2.4.8/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/bindata-2.4.8/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/bindata-2.4.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/bindata-2.4.8/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/bindata-2.4.8/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/bindata-2.4.8/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/bindata-2.4.8/examples" />
+      </excluded>
+    </library>
     <library name="bindex (v0.7.0, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1915,12 +1984,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/bootsnap/1.4.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/bootsnap-1.4.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/bootsnap-1.4.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/bootsnap-1.4.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/bootsnap-1.4.5/.github" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/bootsnap/1.4.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/bootsnap-1.4.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/bootsnap-1.4.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/bootsnap-1.4.5/lib" />
@@ -2830,11 +2901,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/byebug/11.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/byebug-11.0.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/byebug-11.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/byebug-11.0.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/byebug/11.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/byebug-11.0.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/byebug-11.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/byebug-11.0.1/lib" />
@@ -5031,25 +5104,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/debase-0.3.0.beta30/test" />
       </excluded>
     </library>
-    <library name="debase (v0.3.0.beta34, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/debase-0.3.0.beta34/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/debase-0.3.0.beta34/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/debase-0.3.0.beta34/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/debase-0.3.0.beta34/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/debase-0.3.0.beta34/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/debase-0.3.0.beta34/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/debase-0.3.0.beta34/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/debase-0.3.0.beta34/test" />
-      </excluded>
-    </library>
     <library name="debase (v2.3.2, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5064,22 +5118,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/debase-2.3.2/exto" />
-      </excluded>
-    </library>
-    <library name="debase (v2.3.2, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/debase-2.3.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/debase-2.3.2/exto" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/debase-2.3.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/debase-2.3.2/exto" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/debase-2.3.2/exto" />
       </excluded>
     </library>
     <library name="debase (v2.3.2, RVM: ruby-2.7.1 [pows]) [gem]" type="rubylib">
@@ -5107,17 +5145,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/debase-ruby_core_source-0.10.11/lib" />
-      </SOURCES>
-    </library>
-    <library name="debase-ruby_core_source (v0.10.11, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/debase-ruby_core_source-0.10.11/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/debase-ruby_core_source-0.10.11/lib" />
       </SOURCES>
     </library>
     <library name="debase-ruby_core_source (v0.10.12, RVM: ruby-2.7.1 [pows]) [gem]" type="rubylib">
@@ -5151,17 +5178,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/debase-ruby_core_source-0.10.9/lib" />
-      </SOURCES>
-    </library>
-    <library name="debase-ruby_core_source (v0.10.9, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/debase-ruby_core_source-0.10.9/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/debase-ruby_core_source-0.10.9/lib" />
       </SOURCES>
     </library>
     <library name="debase-ruby_core_source (v0.10.9, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
@@ -6777,17 +6793,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@ufare/gems/fancybox2-rails-0.2.7/lib" />
       </SOURCES>
     </library>
-    <library name="faraday (v0.17.0, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/faraday-0.17.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/faraday-0.17.0/lib" />
-      </SOURCES>
-    </library>
     <library name="faraday (v1.0.1, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6893,11 +6898,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/ffi/1.11.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/ffi-1.11.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/ffi-1.11.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/ffi-1.11.1/samples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/ffi/1.11.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/ffi-1.11.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/ffi-1.11.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/ffi-1.11.1/samples" />
@@ -7610,11 +7617,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/google-protobuf/3.9.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/google-protobuf-3.9.2-universal-darwin/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/google-protobuf-3.9.2-universal-darwin/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/google-protobuf-3.9.2-universal-darwin/tests" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/google-protobuf/3.9.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/google-protobuf-3.9.2-universal-darwin/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/google-protobuf-3.9.2-universal-darwin/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/google-protobuf-3.9.2-universal-darwin/tests" />
@@ -8184,32 +8193,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@ufare/gems/html2haml-2.2.0/test" />
       </excluded>
     </library>
-    <library name="httparty (v0.17.1, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+    <library name="httpclient (v2.8.3, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httparty-0.17.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httparty-0.17.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httparty-0.17.1/docs" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httparty-0.17.1/script" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httparty-0.17.1/website" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httparty-0.17.1/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httpclient-2.8.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httpclient-2.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httpclient-2.8.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httpclient-2.8.3/sample" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httparty-0.17.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httparty-0.17.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httparty-0.17.1/docs" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httparty-0.17.1/script" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httparty-0.17.1/website" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httparty-0.17.1/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httpclient-2.8.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httpclient-2.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httpclient-2.8.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httpclient-2.8.3/sample" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httparty-0.17.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httparty-0.17.1/docs" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httparty-0.17.1/script" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httparty-0.17.1/website" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httparty-0.17.1/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httpclient-2.8.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httpclient-2.8.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/httpclient-2.8.3/sample" />
       </excluded>
     </library>
     <library name="httpclient (v2.8.3, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
@@ -8935,6 +8938,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/json-diff-0.4.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/json-diff-0.4.1/spec" />
       </excluded>
+    </library>
+    <library name="json-jwt (v1.13.0, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/json-jwt-1.13.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/json-jwt-1.13.0/lib" />
+      </SOURCES>
     </library>
     <library name="json-patch (v1.0.0, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
       <properties>
@@ -10025,41 +10039,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@ufare/gems/migration_assistant-4.1.0/lib" />
       </SOURCES>
     </library>
-    <library name="mime-types (v3.3, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mime-types-3.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mime-types-3.3/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mime-types-3.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mime-types-3.3/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mime-types-3.3/test" />
-      </excluded>
-    </library>
-    <library name="mime-types-data (v3.2019.1009, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mime-types-data-3.2019.1009/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mime-types-data-3.2019.1009/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mime-types-data-3.2019.1009/types" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mime-types-data-3.2019.1009/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mime-types-data-3.2019.1009/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mime-types-data-3.2019.1009/types" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mime-types-data-3.2019.1009/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/mime-types-data-3.2019.1009/types" />
-      </excluded>
-    </library>
     <library name="mimemagic (v0.3.3, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10953,6 +10932,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/msgpack/1.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/msgpack-1.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/msgpack-1.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/msgpack-1.3.1/spec" />
@@ -10960,6 +10940,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/msgpack-1.3.1/doclib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/msgpack/1.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/msgpack-1.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/msgpack-1.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/msgpack-1.3.1/spec" />
@@ -11990,6 +11971,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/nio4r/2.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nio4r-2.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nio4r-2.5.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nio4r-2.5.2/spec" />
@@ -11997,6 +11979,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nio4r-2.5.2/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/nio4r/2.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nio4r-2.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nio4r-2.5.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nio4r-2.5.2/spec" />
@@ -12142,12 +12125,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/nokogiri/1.10.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nokogiri-1.10.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nokogiri-1.10.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nokogiri-1.10.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nokogiri-1.10.4/patches" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/nokogiri/1.10.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nokogiri-1.10.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nokogiri-1.10.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nokogiri-1.10.4/lib" />
@@ -12576,6 +12561,22 @@
       </properties>
       <CLASSES />
       <SOURCES />
+    </library>
+    <library name="openid_connect (v1.1.8, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/openid_connect-1.1.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/openid_connect-1.1.8/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/openid_connect-1.1.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/openid_connect-1.1.8/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/openid_connect-1.1.8/spec" />
+      </excluded>
     </library>
     <library name="openssl (v2.0.3, RVM: ruby-2.4.1 [telebus]) [gem]" type="rubylib">
       <properties>
@@ -13481,6 +13482,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/puma/4.2.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/puma-4.2.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/puma-4.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/puma-4.2.1/lib" />
@@ -13488,6 +13490,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/puma-4.2.1/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/puma/4.2.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/puma-4.2.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/puma-4.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/puma-4.2.1/lib" />
@@ -13858,6 +13861,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@ufare/gems/rack-mini-profiler-2.0.2/lib" />
       </SOURCES>
+    </library>
+    <library name="rack-oauth2 (v1.12.0, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rack-oauth2-1.12.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rack-oauth2-1.12.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rack-oauth2-1.12.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rack-oauth2-1.12.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rack-oauth2-1.12.0/spec" />
+      </excluded>
     </library>
     <library name="rack-protection (v2.0.7, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
       <properties>
@@ -15077,11 +15096,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rb-fsevent-0.10.3/lib" />
@@ -17223,25 +17244,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/ruby-debug-ide-0.8.0.beta23/ext" />
       </excluded>
     </library>
-    <library name="ruby-debug-ide (v0.8.0.beta24, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/ruby-debug-ide-0.8.0.beta24/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/ruby-debug-ide-0.8.0.beta24/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/ruby-debug-ide-0.8.0.beta24/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/ruby-debug-ide-0.8.0.beta24/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/ruby-debug-ide-0.8.0.beta24/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/ruby-debug-ide-0.8.0.beta24/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/ruby-debug-ide-0.8.0.beta24/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/ruby-debug-ide-0.8.0.beta24/ext" />
-      </excluded>
-    </library>
     <library name="ruby-debug-ide (v2.3.1, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -17256,22 +17258,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/ruby-debug-ide-2.3.1/bin" />
-      </excluded>
-    </library>
-    <library name="ruby-debug-ide (v2.3.1, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/ruby-debug-ide-2.3.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/ruby-debug-ide-2.3.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/ruby-debug-ide-2.3.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/ruby-debug-ide-2.3.1/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/ruby-debug-ide-2.3.1/bin" />
       </excluded>
     </library>
     <library name="ruby-debug-ide (v2.3.1, RVM: ruby-2.7.1 [pows]) [gem]" type="rubylib">
@@ -17363,12 +17349,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/ruby-oci8/2.2.7" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/ruby-oci8-2.2.7/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/ruby-oci8-2.2.7/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/ruby-oci8-2.2.7/docs" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/ruby-oci8-2.2.7/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/ruby-oci8/2.2.7" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/ruby-oci8-2.2.7/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/ruby-oci8-2.2.7/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/ruby-oci8-2.2.7/docs" />
@@ -19786,6 +19774,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/sqlite3/1.4.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/sqlite3-1.4.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/sqlite3-1.4.1/faq" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/sqlite3-1.4.1/lib" />
@@ -19793,6 +19782,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/sqlite3-1.4.1/rakelib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/sqlite3/1.4.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/sqlite3-1.4.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/sqlite3-1.4.1/faq" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/sqlite3-1.4.1/lib" />
@@ -19909,6 +19899,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@ufare/gems/sucker_punch-2.1.2/test" />
+      </excluded>
+    </library>
+    <library name="swd (v1.2.0, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/swd-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/swd-1.2.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/swd-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/swd-1.2.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/swd-1.2.0/spec" />
       </excluded>
     </library>
     <library name="syntax (v1.2.2, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
@@ -21303,42 +21309,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/transit_maps_api-0.0.6.pre/config" />
       </excluded>
     </library>
-    <library name="transit_maps_api (v0.0.6.pre, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/transit_maps_api-0.0.6.pre/app" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/transit_maps_api-0.0.6.pre/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/transit_maps_api-0.0.6.pre/config" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/transit_maps_api-0.0.6.pre/app" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/transit_maps_api-0.0.6.pre/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/transit_maps_api-0.0.6.pre/config" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/transit_maps_api-0.0.6.pre/config" />
-      </excluded>
-    </library>
-    <library name="transit_maps_api (v0.0.7.pre, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/transit_maps_api-0.0.7.pre/app" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/transit_maps_api-0.0.7.pre/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/transit_maps_api-0.0.7.pre/config" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/transit_maps_api-0.0.7.pre/app" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/transit_maps_api-0.0.7.pre/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/transit_maps_api-0.0.7.pre/config" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/transit_maps_api-0.0.7.pre/config" />
-      </excluded>
-    </library>
     <library name="transit_maps_api (v0.0.8.pre, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -21833,6 +21803,28 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="validate_email (v0.1.6, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/validate_email-0.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/validate_email-0.1.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="validate_url (v1.0.13, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/validate_url-1.0.13/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/validate_url-1.0.13/lib" />
+      </SOURCES>
+    </library>
     <library name="voice_xml (v1.0.0.beta1, RVM: ruby-2.4.1 [telebus]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -21971,6 +21963,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@ufare/gems/webdrivers-4.4.1/.github" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@ufare/gems/webdrivers-4.4.1/support" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@ufare/gems/webdrivers-4.4.1/gemfiles" />
+      </excluded>
+    </library>
+    <library name="webfinger (v1.1.0, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/webfinger-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/webfinger-1.1.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/webfinger-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/webfinger-1.1.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/webfinger-1.1.0/spec" />
       </excluded>
     </library>
     <library name="webmock (v3.4.2, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
@@ -22206,10 +22214,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/websocket-driver/0.7.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/websocket-driver-0.7.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/websocket-driver-0.7.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/websocket-driver/0.7.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/websocket-driver-0.7.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/websocket-driver-0.7.1/lib" />
       </SOURCES>
