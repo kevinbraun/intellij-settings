@@ -6941,27 +6941,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/ffi-1.11.1/samples" />
       </excluded>
     </library>
-    <library name="ffi (v1.12.2, RVM: ruby-2.7.1 [telebus]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/ffi/1.12.2" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/ffi-1.12.2/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/ffi-1.12.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/ffi-1.12.2/samples" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/ffi/1.12.2" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/ffi-1.12.2/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/ffi-1.12.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/ffi-1.12.2/samples" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/ffi-1.12.2/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/ffi-1.12.2/samples" />
-      </excluded>
-    </library>
     <library name="ffi (v1.13.0, RVM: ruby-2.7.1 [ufare]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7026,33 +7005,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@pows/gems/ffi-1.13.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@pows/gems/ffi-1.13.1/.github" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@pows/gems/ffi-1.13.1/samples" />
-      </excluded>
-    </library>
-    <library name="ffi (v1.9.18, RVM: ruby-2.4.1 [telebus]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/ffi/1.9.18" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ffi-1.9.18/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ffi-1.9.18/gen" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ffi-1.9.18/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ffi-1.9.18/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ffi-1.9.18/libtest" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/ffi/1.9.18" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ffi-1.9.18/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ffi-1.9.18/gen" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ffi-1.9.18/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ffi-1.9.18/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ffi-1.9.18/libtest" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ffi-1.9.18/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ffi-1.9.18/gen" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ffi-1.9.18/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ffi-1.9.18/libtest" />
       </excluded>
     </library>
     <library name="ffi-compiler (v1.0.1, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
@@ -8153,33 +8105,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/hiredis-0.6.3/ext" />
-      </excluded>
-    </library>
-    <library name="hitimes (v1.2.6, RVM: ruby-2.4.1 [telebus]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/hitimes/1.2.6" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/hitimes-1.2.6/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/hitimes-1.2.6/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/hitimes-1.2.6/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/hitimes-1.2.6/tasks" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/hitimes-1.2.6/examples" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/hitimes/1.2.6" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/hitimes-1.2.6/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/hitimes-1.2.6/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/hitimes-1.2.6/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/hitimes-1.2.6/tasks" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/hitimes-1.2.6/examples" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/hitimes-1.2.6/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/hitimes-1.2.6/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/hitimes-1.2.6/tasks" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/hitimes-1.2.6/examples" />
       </excluded>
     </library>
     <library name="html2haml (v2.2.0, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
@@ -11941,33 +11866,6 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.1/lib/ruby/gems/2.7.0/gems/net-telnet-0.2.0/bin" />
       </excluded>
     </library>
-    <library name="nio4r (v2.1.0, RVM: ruby-2.4.1 [telebus]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/nio4r/2.1.0" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/nio4r-2.1.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/nio4r-2.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/nio4r-2.1.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/nio4r-2.1.0/tasks" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/nio4r-2.1.0/examples" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/nio4r/2.1.0" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/nio4r-2.1.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/nio4r-2.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/nio4r-2.1.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/nio4r-2.1.0/tasks" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/nio4r-2.1.0/examples" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/nio4r-2.1.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/nio4r-2.1.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/nio4r-2.1.0/tasks" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/nio4r-2.1.0/examples" />
-      </excluded>
-    </library>
     <library name="nio4r (v2.4.0, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12095,33 +11993,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@pows/gems/nio4r-2.5.2/examples" />
       </excluded>
     </library>
-    <library name="nio4r (v2.5.2, RVM: ruby-2.7.1 [telebus]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nio4r/2.5.2" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/nio4r-2.5.2/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/nio4r-2.5.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/nio4r-2.5.2/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/nio4r-2.5.2/rakelib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/nio4r-2.5.2/examples" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nio4r/2.5.2" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/nio4r-2.5.2/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/nio4r-2.5.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/nio4r-2.5.2/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/nio4r-2.5.2/rakelib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/nio4r-2.5.2/examples" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/nio4r-2.5.2/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/nio4r-2.5.2/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/nio4r-2.5.2/rakelib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/nio4r-2.5.2/examples" />
-      </excluded>
-    </library>
     <library name="nio4r (v2.5.2, RVM: ruby-2.7.1 [ufare]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12169,30 +12040,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nokogiri-1.10.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nokogiri-1.10.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/nokogiri-1.10.4/patches" />
-      </excluded>
-    </library>
-    <library name="nokogiri (v1.10.5, RVM: ruby-2.4.1 [telebus]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/nokogiri/1.10.5" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/nokogiri-1.10.5/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/nokogiri-1.10.5/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/nokogiri-1.10.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/nokogiri-1.10.5/patches" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/nokogiri/1.10.5" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/nokogiri-1.10.5/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/nokogiri-1.10.5/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/nokogiri-1.10.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/nokogiri-1.10.5/patches" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/nokogiri-1.10.5/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/nokogiri-1.10.5/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/nokogiri-1.10.5/patches" />
       </excluded>
     </library>
     <library name="nokogiri (v1.10.5, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
@@ -12325,30 +12172,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@pows/gems/nokogiri-1.10.9/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@pows/gems/nokogiri-1.10.9/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@pows/gems/nokogiri-1.10.9/patches" />
-      </excluded>
-    </library>
-    <library name="nokogiri (v1.10.9, RVM: ruby-2.7.1 [telebus]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nokogiri/1.10.9" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/nokogiri-1.10.9/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/nokogiri-1.10.9/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/nokogiri-1.10.9/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/nokogiri-1.10.9/patches" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nokogiri/1.10.9" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/nokogiri-1.10.9/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/nokogiri-1.10.9/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/nokogiri-1.10.9/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/nokogiri-1.10.9/patches" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/nokogiri-1.10.9/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/nokogiri-1.10.9/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/nokogiri-1.10.9/patches" />
       </excluded>
     </library>
     <library name="nokogiri (v1.10.9, RVM: ruby-2.7.1 [ufare]) [gem]" type="rubylib">
@@ -15078,27 +14901,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/rake-progressbar-0.0.5/test" />
       </excluded>
     </library>
-    <library name="rb-fsevent (v0.10.2, RVM: ruby-2.4.1 [telebus]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/rb-fsevent/0.10.2" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/rb-fsevent-0.10.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/rb-fsevent-0.10.2/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/rb-fsevent-0.10.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/rb-fsevent/0.10.2" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/rb-fsevent-0.10.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/rb-fsevent-0.10.2/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/rb-fsevent-0.10.2/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/rb-fsevent-0.10.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/rb-fsevent-0.10.2/ext" />
-      </excluded>
-    </library>
     <library name="rb-fsevent (v0.10.3, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -15156,27 +14958,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/rb-fsevent-0.10.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/rb-fsevent-0.10.4/ext" />
-      </excluded>
-    </library>
-    <library name="rb-fsevent (v0.10.4, RVM: ruby-2.7.1 [telebus]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/rb-fsevent/0.10.4" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/rb-fsevent-0.10.4/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/rb-fsevent-0.10.4/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/rb-fsevent-0.10.4/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/rb-fsevent/0.10.4" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/rb-fsevent-0.10.4/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/rb-fsevent-0.10.4/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/rb-fsevent-0.10.4/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/rb-fsevent-0.10.4/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/rb-fsevent-0.10.4/ext" />
       </excluded>
     </library>
     <library name="rb-fsevent (v0.10.4, RVM: ruby-2.7.1 [ufare]) [gem]" type="rubylib">
@@ -17319,30 +17100,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@pows/gems/ruby-debug-ide-2.3.1/bin" />
       </excluded>
     </library>
-    <library name="ruby-oci8 (v2.2.5, RVM: ruby-2.4.1 [telebus]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/ruby-oci8/2.2.5" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ruby-oci8-2.2.5/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ruby-oci8-2.2.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ruby-oci8-2.2.5/docs" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ruby-oci8-2.2.5/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/ruby-oci8/2.2.5" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ruby-oci8-2.2.5/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ruby-oci8-2.2.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ruby-oci8-2.2.5/docs" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ruby-oci8-2.2.5/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ruby-oci8-2.2.5/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ruby-oci8-2.2.5/docs" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/ruby-oci8-2.2.5/test" />
-      </excluded>
-    </library>
     <library name="ruby-oci8 (v2.2.5.1, RVM: ruby-2.7.1 [ufare]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -17453,30 +17210,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@pows/gems/ruby-oci8-2.2.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@pows/gems/ruby-oci8-2.2.8/docs" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@pows/gems/ruby-oci8-2.2.8/test" />
-      </excluded>
-    </library>
-    <library name="ruby-oci8 (v2.2.8, RVM: ruby-2.7.1 [telebus]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/ruby-oci8/2.2.8" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/ruby-oci8-2.2.8/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/ruby-oci8-2.2.8/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/ruby-oci8-2.2.8/docs" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/ruby-oci8-2.2.8/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/ruby-oci8/2.2.8" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/ruby-oci8-2.2.8/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/ruby-oci8-2.2.8/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/ruby-oci8-2.2.8/docs" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/ruby-oci8-2.2.8/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/ruby-oci8-2.2.8/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/ruby-oci8-2.2.8/docs" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/ruby-oci8-2.2.8/test" />
       </excluded>
     </library>
     <library name="ruby-ole (v1.2.12.2, RVM: ruby-2.7.1 [ufare]) [gem]" type="rubylib">
@@ -18467,27 +18200,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/sassc-2.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/sassc-2.1.0/test" />
-      </excluded>
-    </library>
-    <library name="sassc (v2.3.0, RVM: ruby-2.7.1 [telebus]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/sassc/2.3.0" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/sassc-2.3.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/sassc-2.3.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/sassc-2.3.0/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/sassc/2.3.0" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/sassc-2.3.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/sassc-2.3.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/sassc-2.3.0/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/sassc-2.3.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/sassc-2.3.0/test" />
       </excluded>
     </library>
     <library name="sassc (v2.4.0, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
@@ -22215,27 +21927,6 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.1/lib/ruby/2.7.0/webrick/httpservlet" />
       </excluded>
     </library>
-    <library name="websocket-driver (v0.6.5, RVM: ruby-2.4.1 [telebus]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/websocket-driver/0.6.5" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/websocket-driver-0.6.5/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/websocket-driver-0.6.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/websocket-driver-0.6.5/examples" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/websocket-driver/0.6.5" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/websocket-driver-0.6.5/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/websocket-driver-0.6.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/websocket-driver-0.6.5/examples" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/websocket-driver-0.6.5/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@telebus/gems/websocket-driver-0.6.5/examples" />
-      </excluded>
-    </library>
     <library name="websocket-driver (v0.7.1, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -22316,24 +22007,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@pows/gems/websocket-driver-0.7.2/ext" />
-      </excluded>
-    </library>
-    <library name="websocket-driver (v0.7.2, RVM: ruby-2.7.1 [telebus]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/websocket-driver/0.7.2" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/websocket-driver-0.7.2/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/websocket-driver-0.7.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/websocket-driver/0.7.2" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/websocket-driver-0.7.2/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/websocket-driver-0.7.2/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/websocket-driver-0.7.2/ext" />
       </excluded>
     </library>
     <library name="websocket-driver (v0.7.2, RVM: ruby-2.7.1 [ufare]) [gem]" type="rubylib">
