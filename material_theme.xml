@@ -1,8 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="isWizardShown" value="true" />
+    <option name="accentColor" value="ff79c5" />
     <option name="selectedTheme" value="DRACULA" />
     <option name="userId" value="29435ca0:16bbdf9ebfd:-8000" />
-    <option name="version" value="3.10.0" />
+    <option name="version" value="5.5.0" />
   </component>
 </application>
