@@ -16617,6 +16617,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@ufare/gems/rails-controller-testing-1.0.4/test" />
       </excluded>
     </library>
+    <library name="rails-controller-testing (v1.0.5, RVM: ruby-2.7.1 [kiosk-server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@kiosk-server/gems/rails-controller-testing-1.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@kiosk-server/gems/rails-controller-testing-1.0.5/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@kiosk-server/gems/rails-controller-testing-1.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@kiosk-server/gems/rails-controller-testing-1.0.5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@kiosk-server/gems/rails-controller-testing-1.0.5/test" />
+      </excluded>
+    </library>
     <library name="rails-controller-testing (v1.0.5, RVM: ruby-2.7.1 [pows]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
