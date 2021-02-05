@@ -7602,6 +7602,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@ufare/gems/factory_bot-5.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="factory_bot (v6.1.0, RVM: ruby-2.7.1 [kiosk-server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@kiosk-server/gems/factory_bot-6.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@kiosk-server/gems/factory_bot-6.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="factory_bot_rails (v4.11.1, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7690,6 +7701,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@ufare/gems/factory_bot_rails-5.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="factory_bot_rails (v6.1.0, RVM: ruby-2.7.1 [kiosk-server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@kiosk-server/gems/factory_bot_rails-6.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@kiosk-server/gems/factory_bot_rails-6.1.0/lib" />
       </SOURCES>
     </library>
     <library name="factory_girl (v4.9.0, RVM: ruby-2.7.1 [kiosk-server]) [gem]" type="rubylib">
