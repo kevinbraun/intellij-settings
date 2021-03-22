@@ -471,6 +471,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/active_directory-3.1.5/test" />
       </excluded>
     </library>
+    <library name="active_directory (v3.2.0, RVM: ruby-2.7.1 [telebus]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/active_directory-3.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/active_directory-3.2.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/active_directory-3.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/active_directory-3.2.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/active_directory-3.2.0/test" />
+      </excluded>
+    </library>
     <library name="activejob (v6.0.0, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -14542,6 +14558,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/terminus-4.1.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@buswatch2/gems/terminus-4.1.1/test" />
+      </excluded>
+    </library>
+    <library name="terminus (v4.2.0, RVM: ruby-2.7.1 [telebus]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/terminus-4.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/terminus-4.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/terminus-4.2.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/terminus-4.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/terminus-4.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/terminus-4.2.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/terminus-4.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@telebus/gems/terminus-4.2.0/test" />
       </excluded>
     </library>
     <library name="test-unit (v3.2.7, RVM: ruby-2.5.1 [buswatch2]) [gem]" type="rubylib">
