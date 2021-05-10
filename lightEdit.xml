@@ -18,5 +18,8 @@
         <option value="*.yml" />
       </list>
     </option>
+    <option name="frameInfo">
+      <frame x="368" y="104" width="1400" height="1000" />
+    </option>
   </component>
 </application>
