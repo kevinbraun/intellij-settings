@@ -4134,6 +4134,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/googleauth-0.13.0/integration" />
       </excluded>
     </library>
+    <library name="grease (v0.3.2, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/grease-0.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/grease-0.3.2/lib" />
+      </SOURCES>
+    </library>
     <library name="grpc (v1.24.0, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5926,6 +5937,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/net-sftp-2.1.2/test" />
       </excluded>
     </library>
+    <library name="net-sftp (v3.0.0, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/net-sftp-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/net-sftp-3.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="net-smtp (v0.1.0, RVM: ruby-2.7.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5975,6 +5997,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/net-ssh-5.0.2/support" />
       </excluded>
     </library>
+    <library name="net-ssh (v5.0.2, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/net-ssh-5.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/net-ssh-5.0.2/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/net-ssh-5.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/net-ssh-5.0.2/support" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/net-ssh-5.0.2/support" />
+      </excluded>
+    </library>
     <library name="net-ssh-gateway (v1.3.0, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5995,6 +6033,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/net-ssh-gateway-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-ssh-gateway (v2.0.0, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/net-ssh-gateway-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/net-ssh-gateway-2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="net-telnet (v0.1.1, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
@@ -6535,6 +6584,49 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/parallel-1.18.0/lib" />
       </SOURCES>
+    </library>
+    <library name="parallel (v1.19.2, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/parallel-1.19.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/parallel-1.19.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="parallel_split_test (v0.7.0, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/parallel_split_test-0.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/parallel_split_test-0.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/parallel_split_test-0.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/parallel_split_test-0.7.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/parallel_split_test-0.7.0/bin" />
+      </excluded>
+    </library>
+    <library name="parallel_tests (v3.0.0, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/parallel_tests-3.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/parallel_tests-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/parallel_tests-3.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/parallel_tests-3.0.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/parallel_tests-3.0.0/bin" />
+      </excluded>
     </library>
     <library name="phantomjs (v2.1.1.0, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
       <properties>
@@ -8667,6 +8759,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/rspec-support-3.9.3/lib" />
       </SOURCES>
     </library>
+    <library name="rspec_junit_formatter (v0.4.1, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/rspec_junit_formatter-0.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/rspec_junit_formatter-0.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rss (v0.2.8, RVM: ruby-2.7.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10247,6 +10350,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@megaride/gems/transit_capistrano-1.2.5/lib" />
       </SOURCES>
     </library>
+    <library name="transit_capistrano (v1.2.6, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/transit_capistrano-1.2.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/transit_capistrano-1.2.6/lib" />
+      </SOURCES>
+    </library>
     <library name="transit_maps (v1.2.3, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10269,6 +10383,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/transit_maps-1.2.3/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/transit_maps-1.2.3/rails" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/transit_maps-1.2.3/config" />
+      </excluded>
+    </library>
+    <library name="transit_maps (v1.2.4, RVM: ruby-2.7.1 [miniride]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/transit_maps-1.2.4/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/transit_maps-1.2.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/transit_maps-1.2.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/transit_maps-1.2.4/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/transit_maps-1.2.4/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/transit_maps-1.2.4/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/transit_maps-1.2.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/transit_maps-1.2.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/transit_maps-1.2.4/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/transit_maps-1.2.4/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/transit_maps-1.2.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/transit_maps-1.2.4/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@miniride/gems/transit_maps-1.2.4/config" />
       </excluded>
     </library>
     <library name="transit_maps_api (v0.0.6.pre, RVM: ruby-2.5.1 [megaride]) [gem]" type="rubylib">
