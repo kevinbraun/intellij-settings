@@ -15,6 +15,7 @@
     <mask>*.jbuilder</mask>
     <mask>*.spec.js</mask>
     <mask>!*.html</mask>
+    <mask>*.json</mask>
     <mask>*.rb</mask>
     <mask>*.js</mask>
   </component>
