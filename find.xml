@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js,*.json" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.spec.js</mask>
     <mask>!*.html</mask>
     <mask>*.json</mask>
@@ -19,7 +19,7 @@
     <mask>*.rake</mask>
     <mask>*.rbw</mask>
     <mask>*.rb</mask>
-    <mask>*.js</mask>
     <mask>*.js,*.json</mask>
+    <mask>*.js</mask>
   </component>
 </application>
