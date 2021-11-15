@@ -9,6 +9,7 @@
     <mask>*.spec.js</mask>
     <mask>!*.html</mask>
     <mask>*.json</mask>
+    <mask>*.js,*.json</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -19,7 +20,6 @@
     <mask>*.rake</mask>
     <mask>*.rbw</mask>
     <mask>*.rb</mask>
-    <mask>*.js,*.json</mask>
     <mask>*.js</mask>
   </component>
 </application>
