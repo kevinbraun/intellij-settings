@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.rb" />
     <mask>*.spec.js</mask>
     <mask>!*.html</mask>
     <mask>*.json</mask>
@@ -15,8 +16,8 @@
     <mask>*.gemspec</mask>
     <mask>*.rake</mask>
     <mask>*.rbw</mask>
-    <mask>*.rb</mask>
     <mask>*.js,*.json</mask>
     <mask>*.js</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
