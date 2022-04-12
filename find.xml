@@ -3,6 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.rb" />
     <mask>*.spec.js</mask>
     <mask>!*.html</mask>
     <mask>*.json</mask>
@@ -16,7 +17,7 @@
     <mask>*.rake</mask>
     <mask>*.rbw</mask>
     <mask>*.js,*.json</mask>
-    <mask>*.rb</mask>
     <mask>*.js</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
