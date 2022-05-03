@@ -5,10 +5,14 @@
       <option name="TAB_SIZE" value="2" />
     </value>
   </option>
-  <H2CodeStyleSettings version="5">
+  <H2CodeStyleSettings version="6">
+    <option name="USE_GENERAL_STYLE" value="false" />
+  </H2CodeStyleSettings>
+  <H2CodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
   </H2CodeStyleSettings>
   <JSCodeStyleSettings version="0">
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
   <codeStyleSettings language="CSS">

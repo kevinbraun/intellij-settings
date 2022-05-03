@@ -1,0 +1,8 @@
+<keymap version="1" name="macOS copy 1" parent="Mac OS X 10.5+">
+  <action id="Debug" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="UsageGrouping.DirectoryStructure" />
+</keymap>
