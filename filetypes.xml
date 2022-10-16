@@ -13,7 +13,7 @@
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="cypress" type="PLAIN_TEXT" />
       <mapping pattern=".percyenv" type="Shell Script" />
-      <removed_mapping pattern=".dockerignore" type="DockerIgnore file" />
+      <removed_mapping pattern=".dockerignore" approved="true" type="DockerIgnore file" />
     </extensionMap>
   </component>
 </application>
